@@ -188,7 +188,17 @@ const data = {
           {name:"Stone Wood Beach Resort and Club, Vagator Beach", address:"Ozran Beach Rd, Vagator, Goa 403509, India",phone:"80101 24124,91120 01711"},
           {name:"CASA Vagator", address:"Ozran Beach Rd, near Nine Bar, Vagator, Goa 403509, India",phone:"70309 13923"},
           {name:"JW Marriott Goa", address:"Vagator Beach Rd, Bardez, Coutinho Vaddo, Vagator, Anjuna, Goa 403509, India",phone:"832 6749800"},
-          {name:". Goa Marriott Resort & Spa",address:"Post Box No. 64, Miramar Beach, Panaji, Goa 403001, India", phone:"832 6656000"}
+          {name:"Goa Marriott Resort & Spa",address:"Post Box No. 64, Miramar Beach, Panaji, Goa 403001, India", phone:"832 6656000"},
+          {name:"Montego Bay Beach Village",address:"Vithaldas Waddo, Morjim, Goa 403512 ", phone:"98221 50847 "},
+          {name:"De Soul Santé, Morjim Beach ",address:"Vithaldas Wada, Pernem, Goa 403512  ", phone:"80652 01161  "},
+          {name:"jüSTa Morjim Beach Resort Goa",address:"Vithaldaswada, Morjim, Goa 403512 ", phone:" 97993 61110  "},
+          {name:" Morjim Bay Resort",address:"House No. 1318/C, Football Ground, near Tembwada, Morjim, Goa 403512 ", phone:" 81779 20804 "},
+          {name:" Hotel Morjim Muse Seaview ",address:" 1417/D, Tembwada, Morjim, Goa 403512 ", phone:" 87679 76024 "},
+          {name:" Living Room Beach Resort ",address:"H # 763/A Gawadewada, Morjim, Goa 403512", phone:" 91 1221 2281/ 89 2995 9866 "},
+          {name:"Lamrin Morjim Goa",address:"664/A Munugwada, Malekarwada, Morjim, Goa 403512 ", phone:"9891049232 /995305 5635 "},
+          {name:"The Acacia Morjim Goa",address:"H No. 737 Main Morjim-Ashwem Road, Goa 403512 · ", phone:"8380058877 /8380068877 "},
+          {name:"SINQ BEACH MORJIM",address:" H No 761/2, Morjim, Pernem, Goa 403512 ", phone:"89768 28631 "},
+          {name:"Morjim Holiday Beach Resort",address:"Morjim, Goa 403519 ", phone:"8657309234 /9820285771"}
       ],
       Restaurant:[
           { name:"The Fishermans Wharf ", address:"At The Riverside, Cavelossim, Goa 403723", phone:"90110 18866"},
@@ -200,6 +210,26 @@ const data = {
           {name:"Thalassa", address:"Angel Apartments, 301/1, Vaddy, Siolim, Goa 403517, India",phone:"98500 33537"},
           {name:"Souza Lobo - Since 1932", address:"Suza Loba, Calangute Beach, Calangute, Goa 403516, India",phone:"95293 18812"},
           {name:"Chelsea Beach Shack", address:"Tivai Vaddo, Calangute, Goa 403516, India",phone:"98221 80894 "},
+         {name:"Turtles Restaurant & Bar  ",address:" Turtle, Beach Road, Tembwada, Morjim, Goa 403512  ", phone:" 92700 11045"},
+         {name:"Jash Cafe, Bar & Restaurant  ",address:" Morjim Beach Road, Opp. Morjim Chapel, Morjim, Goa 403512  ", phone:"78874 56687"},
+         {name:"Blue Turtle Beach Bar & Restaurant, Goa  ",address:"174/6A, Gawdewada Rd, Morjim, Goa 403512  ", phone:"88058 08843 "},
+         {name:" La Plage  ",address:"  Aswem Beach Entrance Rd, Opp. Cottage Supermarket, Morjim, Goa 403512", phone:" 98221 21712 "},
+         {name:"The Bodhi Tree Cafe and Bar  ",address:" H No. 1296, Opp. Chapel, Tembwada, Morjim, Goa 403512 ", phone:" 77987 47461"},
+         {name:"Uma By The Sea  ",address:" 121/0 Vado, Temb, Morjim, Goa 403512  ", phone:" 92058 88153 "},
+         {name:"Boheme Morjim  ",address:" House No. 1434, Opp. Nanu Wines, Madhlawada, Morjim, Goa 403512  ", phone:"92720 16878"},
+         {name:" Tomatos | Seaside Restaurant in Morjim, Goa ",address:" 794/A, The Seaside, Vithaldaswada, Morjim, Goa 403512  ", phone:"86690 97306 "},
+         {name:"Morjim food court  ",address:"  1156, Morjim Beach Road, Morjim, Goa 403512 ", phone:" 70008 76525 "},
+         {name:"Smoke Fish Cafe ",address:" At Rahul General Store, Kannaikwada, Morjim, Goa 403512 ", phone:" 89755 57019"},
+         {name:"Nanu's Multi-cuisine Restaurant & Bar ",address:"Near Nanu Wines, Madhalawada, Morjim, Goa 403512 ", phone:"88059 85385"},
+         {name:" The Tibet Cafe",address:"Ashwim Road, Morjim, Goa 403512 ", phone:"73784 42936 "},
+         {name:"Tibet Valley Bar and Restaurant ",address:" Temp Vaddo, Morjim, Goa 403512  ", phone:""},
+         {name:"The Last Shack  ",address:"Morjim Beach Rd, Little, Morjim, Goa 403512  ", phone:""},
+         {name:"Spice haven morjim  ",address:"Francis Mascarenhas Rd, Morjim, Goa 403512  ", phone:" 91108 52528 "},
+         {name:" Himalayan cafe ",address:" Morjim Beach Road, Morjim, Goa 403512 ", phone:" 90229 07573 "},
+         {name:" Rainbow Bar & Restaurant ",address:" Survey No. 124/8, Morjim Beach, Vithaldas Vaddo, Morjim, Goa 403512", phone:" 98814 92793"},
+         {name:" Goan Kitchen ",address:"Unnamed Road, Morjim, Goa 403512 ", phone:" 92264 72179"},
+         {name:"Goafornia Beach Lounge, Morjim Goa ",address:"801/B Morjim Beach, Vithaldas Vaddo, Morjim, Goa 403512  ", phone:""},
+         {name:" Saz on the Beach  ",address:" 182/1, Gawdewada Rd, Morjim, Goa 403512 ", phone:" 70300 77170 "}
       ],
       Cab:[
         {name:"Goa Taxi N Cabs Service ", phone:"86683 79192 "},
@@ -238,7 +268,18 @@ const data = {
         {name:"Friendly Taxi Services",phone:"7041 210618"},
         {name:"TGF Cabs",phone:"8511 031390"},
         {name:"Jyotirling Taxi Service",phone:"8460 534207"},
-        
+        {name:"RN taxi service & bike rentals morjim – Taxi & bike rentals" , phone:"9766950144"},
+        {name:"Gods Gift Taxi Service – Taxi ",phone:"70833 26135"},
+        {name:"Morjim Ashwem Mandrem Rent Cars & Taxi Services – Car & taxi services",phone:"96048 01275 "},
+        {name:"Avi Taxi and Rent a Cab – Taxi ",phone:"91683 93638"},
+        {name:"Madhu's Cab Service – Tax",phone:"91581 20894 "},
+        {name:"Devesh's all goa taxi service morjim",phone:"91684 51902"},
+        {name:"Shubh Laxmi Taxi service",phone:" 91581 85936"},
+        {name:"Peter’s Taxi & Bikes car Rental Service Morjim ",phone:" 97647 70194 "},
+        {name:" Satpurush taxi service 24×7",phone:"77679 10820 "},
+        {name:" Amit Taxi Service ",phone:" 70383 81332 "},
+        {name:"Sandeep bandekar Rent A Bike and cab, taxi service",phone:" 98223 87371 "},
+        {name:"Morjim Car & Bike Rental and Taxi Service",phone:"89755 7019 "}
       ]
     },
 
@@ -371,4 +412,5 @@ function showService(service) {
 document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("state").addEventListener("change", loadCities);
   document.getElementById("city").addEventListener("change", loadServices);
+
 });
