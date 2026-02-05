@@ -442,7 +442,8 @@ const data = {
         {name:"Kochi Taxi 24X7",phone:"94976 00888"},
         {name:"24/7 Kochi Airport Taxi Services",phone:"94006 20615"},
         {name:"Cab in Kerala Taxi Service",phone:"97448 01901"}
-      ],
+      ]
+    },
       THEKKADY:{
          Hotel:[
         {name:"The Mountain Courtyard",address:"66th Mile, Spring Valley, Kottayam-Kumily Rd, Kumily, Thekkady, Kerala 685509",Phone:"90726 33386"},
@@ -628,6 +629,239 @@ const data = {
       ]
     } 
   },
+  WestBengal:{
+    Darjeeling:{
+      Hotel:[
+        {name:"MAYFAIR Hill Resort", address:"Opposite Governor House, The Mall, Chauk Bazaar, Darjeeling",phone:"35422 27006"},
+        {name:"The Elgin, Darjeeling - Heritage Resort & Spa", address:"18, HD Lama Rd, Chauk Bazaar, Darjeeling",phone:"35422 57227"},
+        {name:"Aurora Darjeeling Grand", address:"Hill Cart Rd, West Point, Dali, Darjeeling",phone:"82500 70762"},
+        {name:"Udaan Hotels| Nirvana Resort, Darjeeling", address:"The Mall, C.R. Das Rd, below Chowrasta, Darjeeling",phone:"95550 33033"},
+        {name:"Udaan Hotels | Dekeling Resort", address:"95550 33033",phone:"95550 33033"},
+        {name:"Broadway Boutique Darjeeling", address:"Mall Rd, Chauk Bazaar, Darjeeling",phone:"96356 22208"},
+        {name:"Summit Grace Boutique Hotel and Spa, Darjeeling", address:"Dr Zakir Hussain Rd, Jalapahar",phone:"80695 75000"},
+        {name:"Sher Bengal Darjeeling", address:"Dr Zakir Hussain Rd, Chauk Bazaar, Darjeeling",phone:"74310 10010"},
+        {name:"Olive by Tej Hotel and Resorts", address:"The Mall, Nehru Rd, Chowrasta, Darjeeling",phone:"76796 57481"},
+        {name:"Hotel Raj Ville Darjeeling", address:"Mall Rd, P.O. Limbugaon, Darjeeling",phone:"97330 88688"},
+        {name:"Darjeeling Hillside Inn", address:"Hill Cart Rd, West Point, Darjeeling",phone:"81677 88913"},
+        {name:"Hotel Viceroy Darjeeling", address:"Gandhi Rd, near Clock Tower, Limbugaon",phone:"35422 59556 ·"},
+        {name:"INDUS MOUNT ROYALE - 3 STAR HOTEL IN DARJEELING MALL", address:"Dr Zakir Hussain Rd",phone:"97335 32211"},
+        {name:"Darjeeling Guest House Deluxe", address:"DB Giri Rd, Chota Kak Jhora",phone:""}
+      ],
+      Restaurant:[
+        {name:"Glenary's— Bakery, Restaurant & Pub", address:"Nehru Rd, near Clock Tower, Darjeeling",phone:"96351 62005"},
+        {name:"SANTA BANTA DHABA", address:"NH110, West Point, Darjeeling",phone:"99074 42624"},
+        {name:"Noryang Tibetan Kitchen", address:"Rockville Rd, Limbugaon, Darjeeling ·",phone:"62966 41703 ·"},
+        {name:"Grains Pure Veg by Udaan Nirvana, Darjeeling", address:"Below Chowrasta, The Mall",phone:"77193 68482"},
+        {name:"Grains Pure Veg by Udaan Himalayan, Darjeeling", address:"Hill Cart Rd, Kakjhora",phone:"77193 68489"},
+        {name:"Al - Umami Restaurant", address:"Jama Masjid, Chauk Bazaar",phone:"70763 71580"},
+        {name:"Kunga Restaurant", address:"Gandhi Rd, Chauk Bazaar",phone:""},
+        {name:"Food House Darjeeling", address:"Chowrasta Toong Soong Rd",phone:"99497 01107"}
+      ],
+      Cab:[{name:"Darjeeling Taxi",phone:"86705 50722 / 89670 70332"},
+        {name:"99Taxi.in",phone:"8900 771 888 / 8900 772 888"},
+        {name:"Darjeeling Sikkim Taxi",phone:"80019 15555 /  98325 88889"}
+       ]
+    },
+    Gangtok:{
+      Hotel:[
+        {name:"The Elgin Nor‑Khill - Gangtok - Heritage Resort & Spa", address:"Paljor Stadium Rd, Upper Sichey, Arithang, Gangtok, Sikkim 737101",phone:"35922 05637"},
+        {name:"Denzong Regency", address:"Cherry Banks, NH 31 A, Forest Colony Rd, Sungava, Gangtok, Sikkim 737101",phone:"35922 01567"},
+        {name:"Lemon Tree Hotel, Gangtok", address:"Near District Court, Middle Sichey, Sungava, Gangtok, Sikkim 737101",phone:"99117 01701"},
+        {name:"The Fern Denzong Hotel & Spa Gangtok", address:"Kazi Rd, Vishal Gaon, Gangtok, Sikkim 737101",phone:"93392 91635"},
+        {name:"Udaan Hotels | Alpine Resort, Gangtok", address:"Chongeytar, GRBA Rd, below POC Boys Hostel, Gangtok, Sikkim 737103",phone:"95550 33033"},
+        {name:"Udaan Hotels | Woodberry Hotel & Spa", address:"Near Swastik Gate, Upper Burtuk, Gangtok, Sikkim 737101",phone:"95550 33033"},
+        {name:"Medalio Boutique Gangtok With Mountain View", address:"Ranka Fatak, Lower Sichey, Indira Bypass Rd, Gangtok, Sikkim 737101",phone:""},
+        {name:"Summit Namnang Courtyard & Spa, Gangtok", address:"Nam Nang Rd, Vishal Gaon, Gangtok, Sikkim 737101",phone:"80695 75000"},
+        {name:"Summit Norling Resort & Spa, Gangtok", address:"Near Central Jail, Rongey, Gangtok, Sikkim 737101",phone:"80695 75001"},
+        {name:"SUMI SHANGRILA DEORALI GANGTOK", address:"Forest Secretariat Rd, Deorali Bazar, Gangtok, Sikkim 737102",phone:"87448 57070"},
+        {name:"YANGTHANG HERITAGE HOTEL", address:"Near MG Marg, Kazi Rd, Gangtok, Sikkim 737101",phone:"97344 89361"},
+        {name:"Sungava Resort - Hotel In Gangtok", address:"Dr. B R Ambedkar Rd, Upper Sichey, Gangtok, Sikkim 737101",phone:"70470 92696"},
+        {name:"Sinclairs Gangtok", address:"Zero Point, Raj Bhavan Rd, Gangtok, Sikkim 737101",phone:"70032 07937"},
+        {name:"Kingston By Yagi", address:"Development Area, Jeewan Theeng Marg, Upper Sichey, Gangtok, Sikkim 737101",phone:"76998 06018"},
+        {name:"Muscatel Grand Silkroute - 300 Mts from MG Marg", address:"Upper Arithang, Gangtok, Sikkim 737101",phone:"97320 81111"},
+         {name:"Amritara Hidden Land, Gangtok", address:"Indira Bypass Rd, Upper Sichey, Gangtok, Sikkim 737101",phone:"11407 52200"}
+      ],
+      Restaurants:[
+        {name:"Grains Pure Veg by Udaan Alpine, Gangtok", address:"Chongeytar, GRBA Rd, Gangtok, Sikkim 737103",phone:"77193 68487"},
+        {name:"Grains Pure Veg by Udaan Woodberry, Gangtok", address:"Near Swastik Rd, Upper Burtuk, Gangtok, Sikkim 737101",phone:"77193 68408"},
+        {name:"Grains Pure Veg by Udaan Keepsa, Gangtok", address:"Sonam Tshering Marg, Kazi Rd, Gangtok, Sikkim 737103",phone:"92390 23294"},
+        {name:"THE SHAHI DARBAR", address:"Mahatma Gandhi Marg, Arithang, Gangtok, Sikkim 737101",phone:""},
+        {name:"Flavours of Punjab Gangtok", address:"Verma Building, NH 31A, Mahatma Gandhi Marg, Gangtok, Sikkim 737101",phone:"96799 02940"},
+        {name:"Queen's Pod", address:"16 Adampool, Lumsey, Tadong, Gangtok, Sikkim 737102",phone:"74310 00222"},
+        {name:"Gangtok Groove", address:"Above Pantaloons, New Market, Mahatma Gandhi Marg, Gangtok, Sikkim 737101",phone:"96357 30133"}
+      ],
+      Cab:[{name:"10zin Taxi",phone:"99538 18440"},
+        {name:"Wangchuk Taxi Service",phone:"73189 32482"},
+        {name:"Sikkim Taxis",phone:"89004 56675"},
+        {name:"Sikkim Taxi & Tours",phone:"8460 194796"},
+        {name:"Sikkim Tours & Taxi Services",phone:"87349 95046"},
+        {name:"RB Taxi Service",phone:"74870 09145"},
+        {name:"Sikkim Darjeeling Taxi Services",phone:"90020 69916"}
+        ]
+    },
+    Pelling:{
+       Hotel:[
+        {name:"The Elgin Mount Pandim", address:"Pelling, West Sikkim, Sikkim 737113",phone:"3542 251 166"},
+        {name:"Norbu Ghang Resort & Spa", address:"Block A, Hotel Complex, Pelling, Sikkim 737113",phone:"94346 65055"},
+        {name:"The Richmond Pelling", address:"Temi Tea Garden Rd, Pelling, Sikkim 737113",phone:"70032 50566"},
+        {name:"The Cottage Pelling", address:"Nh10 Pelling, Sikkim 737113",phone:"97335 61079"},
+        {name:"Hotel Rachen", address:"Opposite Helipad (near Sky View Point), Pelling, Sikkim 737113",phone:"94340 50209"},
+        {name:"Hotel Ngadak Sherpa", address:"Near Pelling Helipad, Pelling, Sikkim 737113",phone:"97335 43162"},
+        {name:"The Royal View Residency", address:"Pelling, West Sikkim, Sikkim 737113",phone:"97334 95115"},
+        {name:"Hotel Snow Lion", address:"Pelling Bazaar, West Sikkim, Sikkim 737113",phone:"94340 31738"},
+        {name:"Hotel Om Samsara", address:"Pelling Helipad Area, West Sikkim, Sikkim 737113",phone:"98320 27125"},
+        {name:"Narayana Resorts", address:"Near Helipad, Pelling, West Sikkim, Sikkim 737113",phone:"97336 47185"},
+        {name:"Hotel Triveni", address:"Pelling, West Sikkim, Sikkim 737113",phone:"97335 15432"},
+        {name:"Mountain Resort & Spa", address:"Helipad Road, Pelling, Sikkim 737113",phone:"93544 53949"}
+       ],
+      Restaurants:[
+        {name:"Baker’s Cafe Pelling", address:"Near Helipad, Pelling, Sikkim 737113",phone:"70024 58233"},
+        {name:"Khangchendzonga Restaurant", address:"Pelling Bazaar, West Sikkim, Sikkim 737113",phone:"97334 84178"},
+        {name:"Dyemo’s Kitchen Pelling", address:"Opposite Helipad, Pelling, Sikkim 737113",phone:"98005 68684"},
+        {name:"The Dragon Restaurant", address:"Pelling Bazaar, West Sikkim, Sikkim 737113",phone:"97345 00550"},
+        {name:"Roll House Pelling", address:"Opposite Helipad, Pelling, Sikkim 737113",phone:"80127 94341"},
+        {name:"Tibet Kitchen", address:"Near Helipad, Pelling, Sikkim 737113",phone:"97348 69053"},
+        {name:"Himalayan Chill Restaurant", address:"Near Sky View Point, Pelling, Sikkim 737113",phone:"97335 20611"},
+        {name:"Taste of Tibet", address:"Main Road, Pelling, Sikkim 737113",phone:"97335 41271"},
+        {name:"Nyamthang Restaurant", address:"Pelling, West Sikkim, Sikkim 737113",phone:"96748 35626"},
+        {name:"The View Point Cafe", address:"Sky View Point Rd, Pelling, Sikkim 737113",phone:"98320 40679"}     
+      ],
+      Cab:[
+        {name:"Pelling Taxi Services",phone:"97334 95115"},
+        {name:"Sikkim Eagles Taxi",phone:"97335 88612"},
+        {name:"Pelling Cab & Tours",phone:"98005 52134"},
+        {name:"Mountain Taxi Service Pelling",phone:"98324 90905"},
+        {name:"Pelling Shared Taxi / Jeep Stand",phone:""},
+        {name:"Skyline Taxi Pelling",phone:"97335 71002"},
+        {name:"Himalayan Tours & Taxi Pelling",phone:"80123 38301"},
+        {name:"Pelling Tourist Taxi",phone:"97335 78455"},
+        {name:"Pelling Outstation Taxi",phone:"97335 31423"}
+          ]
+    },
+    Lachung:{
+       Hotel:[
+        {name:"Yarlam Resort & Spa", address:"Lachung Village, North Sikkim 737126",phone:"97332 33222"},
+        {name:"The Hilltop Hotel", address:"Lachung, North Sikkim 737126",phone:"97323 18878"},
+        {name:"Hotel New Alpine Retreat", address:"Lachung, North Sikkim 737126",phone:"94346 03321"},
+        {name:"Snow View Retreat Lachung", address:"Lachung, North Sikkim 737126",phone:"97324 33800"},
+        {name:"Mountain Zen Resort Lachung", address:"Lachung, North Sikkim 737126",phone:"94073 48911"},
+        {name:"Alpine Meadows Lodge", address:"Lachung Village, North Sikkim 737126",phone:"97330 42075"},
+        {name:"Hotel Royal Orchid (Lachung)", address:"Near Lachung Bridge, North Sikkim 737126",phone:"97332 68811"},
+        {name:"Seven Sister’s Cottage", address:"Lachung, North Sikkim 737126",phone:"97456 71721"},
+        {name:"Lachung Villa", address:"Lachung Bazaar, North Sikkim 737126",phone:"97335 93033"},
+        {name:"Himalayan Nest Guest House", address:"Lachung, North Sikkim 737126",phone:"99039 09007"},
+        {name:"Valley View Retreat", address:"Lachung, North Sikkim 737126",phone:"98328 22559"},
+        {name:"Hotel Snowfall Inn", address:"Lachung, North Sikkim 737126",phone:"97333 21700"}
+      ],
+      Restaurants:[
+        {name:"Green View Restauran", address:"Lachung Bazaar, North Sikkim 737126",phone:"97336 16449"},
+        {name:"Lemon Grass Restaurant & Bar", address:"Near Lachung Bus Stand, North Sikkim 737126",phone:"97332 88770"},
+        {name:"Snow Lion Restaurant", address:"Lachung Bazaar, North Sikkim 737126",phone:"97332 55225"},
+        {name:"Himalayan Kitchen", address:"Lachung, North Sikkim 737126",phone:"97332 30998"},
+        {name:"Hilltop Restaurant", address:"Hotel Hilltop, Lachung, North Sikkim 737126",phone:"97323 18878"},
+        {name:"Alpine Cafe & Restaurant", address:"Near Bridge, Lachung Bazaar, North Sikkim 737126",phone:"97332 88119"},
+        {name:"Sky View Dining Lounge", address:"Lachung Village, North Sikkim 737126",phone:"97333 19070"},
+        {name:"Dzongri Lounge & Dine", address:"Hotel Dzongri (Lachung), North Sikkim 737126",phone:"97332 71959"},
+        {name:"Snow Peak Cafeteria", address:"Lachung, North Sikkim 737126",phone:"90821 65690"},
+        {name:"Sikkimese Taste Restaurant", address:"Lachung, North Sikkim 737126",phone:"97334 45879"}
+       
+      ],
+      Cab:[{name:"Lachung Taxi Service",phone:"97332 44221"},
+        {name:"North Sikkim Cabs (Lachung)",phone:"99090 22259"},
+        {name:"SNT Shared Jeep Stand",phone:""},
+        {name:"Mountain Taxi Lachung",phone:"97332 81180"},
+        {name:"Himalayan Tours & Taxi",phone:"80123 38301"},
+        {name:"Sikkim Travel Cabs (Lachung)",phone:"98320 27212"},
+        {name:"Shared Taxi to Lachen / Yumthang",phone:""},
+        {name:"Lachung Jeep / Shared Taxi Pick-Up",phone:""},
+        {name:"Outstation Private Taxi (Local Drivers)",phone:"97334 85123"},
+        {name:"Helipad Taxi Service (Private)",phone:"97333 99877"}
+          ]
+    },
+    Namchi:{
+       Hotel:[
+        {name:"Hotel Siddhartha", address:"Near SBC Bus Stand, Namchi, South Sikkim 737126",phone:"94341 54267"},
+        {name:"Hillock Green Resort", address:"Pakyong–Namchi Road, Lower Helipad, Namchi, South Sikkim 737126",phone:"97332 44507"},
+        {name:"Turquoise Cottages & Spa", address:"Khetied, Namchi, South Sikkim 737126",phone:"97334 21234"},
+        {name:"Alpine Lodge", address:"Namchi Market Area, South Sikkim 737126",phone:"97333 95056"},
+        {name:"Hotel Bhanu", address:"Near Namchi City Centre, South Sikkim 737126",phone:"94341 61224"},
+        {name:"The Golden Peak Hotel", address:"Sector–3, Namchi Town, South Sikkim 737126",phone:"98320 54911"},
+        {name:"Hotel Green View Namchi", address:"NH10 Road, Namchi, South Sikkim 737126",phone:"99231 44587"},
+        {name:"Snow View Retreat Namchi", address:"Upper Namchi, South Sikkim 737126",phone:"97336 11772"},
+        {name:"The Capricorn Resort", address:"Near Helipad, Namchi, South Sikkim 737126",phone:"97336 58419"},
+        {name:"The Royal Residency", address:"Namchi Bazaar, South Sikkim 737126",phone:"87330 43812"},
+        {name:"Hotel New East View", address:"Near Namchi Helipad, South Sikkim 737126",phone:"97332 77122"},
+        {name:"Hotel Namchi Residency", address:"Near SNT Bus Stand, Namchi, South Sikkim 737126",phone:"97334 22271"},
+        {name:"Hotel Sikkim Inn", address:"Namchi Market, South Sikkim 737126",phone:"97332 80430"}
+      ],
+      Restaurants:[
+        {name:"Namchi Kitchen Restaurant", address:"Namchi Bazaar, South Sikkim 737126",phone:"97333 70321"},
+        {name:"Himalayan Restaurant & Bar", address:"Near Helipad, Namchi, South Sikkim 737126",phone:"97332 99123"},
+        {name:"The Hillside Café & Restaurant", address:"Sector–3, Namchi Town, South Sikkim 737126",phone:"97335 81544"},
+        {name:"Green View Restaurant Namchi", address:"NH10, Namchi, South Sikkim 737126",phone:"97334 12357"},
+        {name:"Taste of Tibet", address:"Near Namchi Helipad, South Sikkim 737126",phone:"97336 58421"},
+        {name:"Café Namaste", address:"Namchi Market, South Sikkim 737126",phone:"93544 78899"},
+        {name:"Royal Sikkimese Restaurant", address:"Near SNT Bus Stand, Namchi, South Sikkim 737126",phone:"97335 42561"},
+        {name:"Namchi South Indian Restaurant", address:"Namchi Bazaar, South Sikkim 737126",phone:"97333 82310"},
+        {name:"Sunrise Dining Lounge", address:"Namchi Helipad Road, South Sikkim 737126",phone:"97334 91234"},
+        {name:"Little Kitchen Namchi", address:"Namchi Main Road, South Sikkim 737126",phone:"97336 24567"}
+      ],
+      Cab:[{name:"Namchi Taxi Service",phone:"97336 71422"},
+        {name:"South Sikkim Cabs / Namchi Cabs",phone:"97332 44589"},
+        {name:"Namchi Car Rentals (Private Taxi)",phone:"97335 20587"},
+        {name:"SNT Shared Jeep Stand – Namchi",phone:""},
+        {name:"Himalayan Tours & Taxi – Namchi",phone:"80123 38301"},
+        {name:"Namchi Outstation Taxi Service",phone:"97334 51555"},
+        {name:"Pawan Taxi Service Namchi",phone:"97336 88772"},
+        {name:"Royal Sikkim Taxis – Namchi",phone:"97332 11552"},
+        {name:"Namchi Tour Cabs",phone:"97335 94010"}
+          ]
+    },
+    Kalimpong:{
+       Hotel:[
+        {name:"Hotel Snow Leopard", address:"Rishi Road, Kalimpong, West Bengal 734301",phone:"97322 02180"},
+        {name:"The Park Hotel Kalimpong", address:"Near Rishi Road, Lower Cart Road, Kalimpong 734301",phone:"98320 27819"},
+        {name:"Sinclairs Retreat Kalimpong", address:"2nd Mile, Near Sherdup Jhora, Kalimpong 734301",phone:"35452 54088"},
+        {name:"Hotel Mount Avon", address:"Hill Cart Rd, Kalimpong 734301",phone:"97346 05569"},
+        {name:"Red Orchid Hotel", address:"Lower Cart Rd, Kalimpong 734301",phone:"97348 78589"},
+        {name:"Royal Residency Resort", address:"Dr. Zakir Hussain Rd, Kalimpong 734301",phone:"97331 55861"},
+        {name:"De’ Rock Hotel & Spa", address:"Near 10th Mile, Kalimpong 734301",phone:"98360 33440"},
+        {name:"Hotel Alpine Villa", address:"Near Busy Market, Kalimpong 734301",phone:"97333 00817"},
+        {name:"Hotel Seven Seventeen", address:"Near Kalimpong Bus Stand, Kalimpong 734301",phone:"97335 17171"},
+        {name:"Hotel Mountview Inn", address:"Near Shrub Dale Forest, Kalimpong 734301",phone:"98325 68790"},
+        {name:"Citadel Residency", address:"Lower Cart Road, Kalimpong 734301",phone:"94342 17867"},
+        {name:"Hotel Dreamland", address:"Lower Cart Rd, Kalimpong 734301",phone:"97332 54123"},
+        {name:"Lily Bank Heritage Home", address:"Gdex Rd, Kalimpong 734301",phone:"97332 11001"},
+        {name:"Green Huts Guest House", address:"Lower Cart Rd, Kalimpong 734301",phone:"94341 22273"},
+        {name:"Orchid Residency", address:"Lower Cart Rd, Kalimpong 734301",phone:"97330 29299"}
+      ],
+      Restaurants:[
+        {name:"Chung Wah Restaurant", address:"Lower Cart Rd, Kalimpong 734301",phone:"97325 85990"},
+        {name:"VOA Restaurant & Bar", address:"Rishi Rd, Kalimpong 734301",phone:"97346 41322"},
+        {name:"The Hangout Café", address:"Lower Cart Rd, Kalimpong 734301",phone:"97338 17988"},
+        {name:"Sherpa Café", address:"Near Cart Rd, Kalimpong 734301",phone:"97332 22501"},
+        {name:"Woody’s Café & Restaurant", address:"Lower Cart Rd, Kalimpong 734301",phone:"97333 77338"},
+        {name:"Seven Seventeen Restaurant", address:"Near Kalimpong Bus Stand, Kalimpong 734301",phone:"97335 17171"},
+        {name:"The Riverside Café", address:"Near Rishi Road, Kalimpong 734301",phone:"97338 41234"},
+        {name:"Red Orchid Restaurant", address:"Lower Cart Rd, Kalimpong 734301",phone:"97348 78589"},
+        {name:"Green Leaf Restaurant", address:"Lower Cart Rd, Kalimpong 734301",phone:"97341 55080"},
+        {name:"Café Kalimpong", address:"Lower Cart Rd, Kalimpong 734301",phone:"97323 49877"},
+        {name:"Keventers Kalimpong (Ice Cream / Café)", address:"Kalimpong Market Area, 734301",phone:"97330 66444"},
+        {name:"Golden Dragon Chinese Restaurant", address:"Lower Cart Rd, Kalimpong 734301",phone:"97330 81123"},
+        {name:"10th Mile Rooftop Café & Lounge", address:"10th Mile, Kalimpong 734301",phone:"97330 00567"}
+      ],
+      Cab:[
+        {name:"Kalimpong Taxi Service",phone:"97331 88899"},
+        {name:"Mangalam Tours & Cabs",phone:"97332 27555"},
+        {name:"Kalimpong Cab & Tours",phone:"97336 40012"},
+        {name:"North Bengal Taxi & Tours",phone:"97332 88111"},
+        {name:"Mountain View Taxi Service",phone:"97339 22563"},
+        {name:"Kalimpong Outstation Taxi Services",phone:"97330 77222"},
+        {name:"Kalimpong Cabs (Private)",phone:"97336 55055"},
+        {name:"Sunrise Taxi & Tours Kalimpong",phone:"97330 44999"}
+      ]
+    },
+  }
 };
 
 /* ---------------- LOAD CITIES ---------------- */
@@ -692,6 +926,7 @@ document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("city").addEventListener("change", loadServices);
 
 });
+
 
 
 
