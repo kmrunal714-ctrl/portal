@@ -92,15 +92,260 @@ const data = {
         { name: "Varanasi Taxi & Tempo",  phone: "9451819171" },
         { name: "Varanasi Taxi Cab",  phone: "9839239496" },
       ],
-      Hall: [
-        { name: "Wedding Hall", address: "Ring Road", phone: "6666666666", link: "https://maps.google.com" }
+    },
+    Prayagraj:{
+      Hote:[
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""}
       ],
-      Photographer: [
-        { name: "Wedding Clicks", address: "College Road", phone: "5555555555", link: "https://maps.google.com" }
+      Restaurant:[
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""}
       ],
-      Catering: [
-        { name: "Sai Catering", address: "MIDC", phone: "4444444444", link: "https://maps.google.com" }
+      Cab:[
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""}
+      ]
+    },
+    Ayodhya:{
+      Hote:[
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""}
       ],
+      Restaurant:[
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""}
+      ],
+      Cab:[
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""}
+      ]
+
+    },
+    Mathura:{
+      Hote:[
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""}
+      ],
+      Restaurant:[
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""}
+      ],
+      Cab:[
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""}
+      ]
+
+    },
+    Vrindavan:{
+      Hote:[
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""}
+      ],
+      Restaurant:[
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""}
+      ],
+      Cab:[
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""}
+      ]
+
+    },
+    Agra:{
+      Hote:[
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""}
+      ],
+      Restaurant:[
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""},
+        {name:"",address:"",phone:""}
+      ],
+      Cab:[
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""},
+        {name:"",phone:""}
+      ]
+
     }
   },
 
@@ -126,15 +371,6 @@ const data = {
       Cab: [
 
       ],
-      Hall: [
-        { name: "Royal Function Hall", address: "Kothrud", phone: "9696969696", link: "https://maps.google.com" }
-      ],
-      Photographer: [
-        { name: "Flash Studio", address: "Karve Nagar", phone: "9595959595", link: "https://maps.google.com" }
-      ],
-      Catering: [
-        { name: "Shree Catering", address: "Baner", phone: "9494949494", link: "https://maps.google.com" }
-      ]
     }
   },
 
@@ -149,30 +385,432 @@ const data = {
   Rajasthan:{
     Jaipur:{
       Hotel:[
-          {name: "Govindam Royal Stay", address:"Talkatora colony road Amer road,Jaipur", contact:"7043875871"},
-          {name: "Umaid Bhawan Hotel", address:"Bank road bani park", contact:"8460297584"},
-          {name: "Hotal Aangan", address:"M I Road", contact:"9035115904"},
-          {name: "Hotel Deep", address:"Sector 6 malviya nagar", contact:"8511058142"},
-          {name: "Hotel Hanumant Palace", address:"behind panchyati dharamshala station road jaipur", contact:"9035026193"},
-          {name: "The Palm Hotel & Restaurant", address:"sundar vihar kalwad road jhotwara", contact:"8197443945"},
-          {name: "Hotel Arjun Palace", address:"New Sanganer road mansarovar", contact:"9972247582"},
-          {name: "Hotel Jaipur Heritage", address:"main amer road", contact:"8460294299"},
-          {name: "Shivaay Group", address:"trivedi compound station road", contact:"7041763685"},
-          {name: "Hotel Oxus", address:"Haldi Ghati  Marg Praatap Nagar", contact:"7490968862"}
-            ],
-      Cab:[
-          { name:"cab service jaipur", phone:"9972811977"},
-          { name:"neha tour and tavels", phone:"9214849052"},
-          { name:"elite travel hub", phone:"8147716750"},
-          { name:"roop cabs pvt ltd.", phone:"8460539087"},
-          { name:"aditya taxi services", phone:"8147525413"},
-          { name:"jaipur taxi services", phone:"7490056318"},
-          { name:"jaipur's tour taxi", phone:"7048209640"},
-          { name:"mi tour & travels", phone:"8401223509"},
-          { name:"vishwakarma travels", phone:"7942694923"},
-          { name:"bhagwati tours and car rental services", phone:"7041394702"}
+        {name:"Rambagh Palace, Jaipur",address:"Bhawani Singh Rd, Rambagh, Jaipur, Rajasthan 302005, India",phone:"141 667 1234"},
+        {name:"Jai Mahal Palace, Jaipur",address:"Gound Floor, Jacob Rd, near Bharat Petroleum, Civil Lines, Jaipur, Rajasthan 302006, India",phone:"141 660 1111"},
+        {name:"ITC Rajputana, a Luxury Collection Hotel, Jaipur",address:"Palace Road, Gopalbari, Jaipur, Rajasthan 302006, India",phone:"141 405 1600"},
+        {name:"Jaipur Marriott Hotel",address:"Ashram Marg, near Jawahar Circle, Chandrakala Colony, Durgapura, Jaipur 302015, India",phone:"141 456 7777"},
+        {name:"The Lalit Jaipur",address:"Jawahar Circle 2B & 2C, Malviya Nagar, Jaipur, Rajasthan 302017, India",phone:"141 664 7777"},
+        {name:"Radisson Hotel Jaipur City Center",address:"Khasa Kothi Circle, Mirza Ismail Rd, Jaipur, Rajasthan 302001, India",phone:"141 403 3300"},
+        {name:"Hilton Jaipur",address:"42, Hawa Sadak, Jaipur, Rajasthan 302006, India",phone:"141 417 0000"},
+        {name:"Holiday Inn Jaipur City Centre, an IHG Hotel",address:"Sardar Patel Marg, Shivaji Nagar, Jaipur, Rajasthan 302001, India",phone:"141 422 2444"},
+        {name:"Radisson Blu Hotel, Jaipur",address:"Airport Plaza, Tonk Rd, Chandrakala Colony, Jaipur, Rajasthan 302018, India",phone:"141 669 8888"},
+        {name:"Rajasthan Palace - A Heritage Boutique Hotel in Jaipur",address:"3, Peelwa Garden, Moti Doongari Road, Jaipur, Rajasthan 302004, India",phone:"70166 62608"},
+        {name:"The Fern Residency, Jaipur",address:"A-13, Govind Marg, near Pink Square Mall, Janata Colony, Jaipur, Rajasthan 302004, India",phone:"141 661 1100"},
+        {name:"Umaid Bhawan-A Royal Heritage Style Boutique Hotel",address:"D1-2A, Via Bank Road, Meera Marg, Bani Park, Jaipur 302016, India",phone:"141 231 6184"},
+        {name:"Umaid Mahal-A heritage Style Boutique Hotel",address:"C 20, B-2, Bihari Marg, Bani Park, Jaipur, Rajasthan 302016, India",phone:"141 220 1954"},
+        {name:"Samode Haveli",address:"Jorawar Singh Gate, Gangapole Road Near, Gangapole, Jaipur, Rajasthan 302002, India",phone:"141 263 2370"}
       ],
-  }
+      Restaurant:[
+        {name:"Peacock Restaurant",address:"51, Hathroi Fort, Hari Kishan Somani Marg, near Native Cocktail Bar, Ajmer Rd, Jaipur 302001, India",phone:"141 237 3700"},
+        {name:"Govindam Retreat",address:"First Floor, All Rajasthan Shilp Gram Udyog, Rajamal Ka Talab Rd, near Govind Dev Ji Temple, Gangori Bazaar, Jaipur 302002, India",phone:"99299 49258"},
+        {name:"Rustic - Inspired Kitchen",address:"G-3, Ground Floor, UKMS, AURUM, Tilak Marg, C Scheme, Ashok Nagar, Jaipur 302005, India",phone:"99285 97479"},
+        {name:"Suvarna Mahal",address:"RAMBAGH PALACE, Bhawani Singh Rd, Rambagh, Jaipur 302015, India",phone:"141 667 1234"}
+      ],
+      Cab:[
+        {name:"Sightseeing Cab in Jaipur",phone:"90796 24196 /97723 80777 /97824 39349"},
+        {name:"OM Tours & Travels (Taxi Service)",phone:"96367 14444 /70233 33998"},
+        {name:"Rajasthan Cab (Car Rental & Driver)",phone:"93588 11941"},
+        {name:"Jaipur Tour Taxi Service",phone:"82092 50488"}, 
+        {name:"Rishi India Travels Taxi (Sightseeing & Outstation)",phone:"95877 74777 /97828 54441"},
+        {name:"Rajasthan Royal Cabs",phone:"80037 12211"}
+      ]
+  },
+   Udaipur:{
+     Hotel:[
+        {name:"Brahma Niwas",address:"7, opposite Swaroop Sagar Lake, Udaipur, Rajasthan 313004, India",phone:"97733 13864"},
+        {name:"Hotel Lakend",address:"Fatehsagar Lake Shore, Alkapuri, Ambamata, Udaipur, Rajasthan 313004, India",phone:"294 243 1400"},
+        {name:"Udaigarh Udaipur",address:"21, Lal Ghat Road, behind Jagdish Temple, Old City, Udaipur, Rajasthan 313004, India",phone:"96600 55500"},
+        {name:"jüSTa Sajjangarh Resort & Spa",address:"Main Gate, Biological Park, Sajjangarh Road, Harsh Nagar, Eklavya Colony, Udaipur, Rajasthan 313001, India",phone:"72320 53205"},
+        {name:"THE LAVITRA UDAIPUR",address:"Shivrathi Koti, 18-B Lane, Ambamata Scheme-A Road, near Fatehsagar Lake, Udaipur, Rajasthan 313004, India",phone:"73000 03154"},
+        {name:"SWAROOP VILAS - Lake Facing Boutique Hotel",address:"No 6 Ambavgarh, opposite Lake Swaroop Sagar, Udaipur, Rajasthan 313004, India",phone:"70166 62553"},
+        {name:"Hotel Boheda Palace by Amazing Hospitality",address:"9, Lake Palace Road, Old City, Kalaji Goraji, Udaipur, Rajasthan 313001, India",phone:"99299 98881"},
+        {name:"Lake Pichola Hotel",address:"Ambrai Road, Panch Devri Marg, Outside Chandpole, Udaipur, Rajasthan 313004, India",phone:"63763 64840"},
+        {name:"The Jagat Hotel And Spa Udaipur",address:"Opp. BN College Road, Govindpura, Subhash Nagar, Udaipur, Rajasthan 313002, India",phone:"90017 75919"},
+        {name:"Rajdarshan - A Lake View Hotel",address:"18, Pannadhai Marg, Hathipole, Udaipur, Rajasthan 313004, India",phone:"73000 07975"},
+        {name:"Janak Vilas‑ A Heritage Boutique Hotel",address:"14B, Lake Palace Road, opposite Rang Niwas, Old City, Udaipur, Rajasthan 313001, India",phone:"294 241 4388"},
+        {name:"Sinclairs Udaipur",address:"Plot No. 1, RK Circle, Punjawati, Pulla Bhuwana, Udaipur, Rajasthan 313001, India",phone:"98305 56333"},
+        {name:"Pride Hotel Udaipur",address:"32A, Hiran Magri Main Road, Sector 3, Udaipur, Rajasthan 313002, India",phone:"294 230 0000"},
+        {name:"Hotel Shiv Palace Udaipur",address:"Near Hanuman Ghat, Chand Pole, Udaipur, Rajasthan 313004, India",phone:"90796 90750"},
+        {name:"Ambay Villa, A Luxury Stay",address:"House No. 48 Road, Number 2, Subhash Nagar, Udaipur, Rajasthan 313002, India",phone:"98290 78188"},
+        {name:"Hotel Kotra Haveli",address:"12 Surya Marg, Opp. Jagdish Temple, Kasaro Ki Ol, Udaipur, Rajasthan 313001, India",phone:"80038 83798"},
+        {name:"Tripli Udaipur",address:"71-72, near Ashish Vatika, Sector 13, Hiran Magri, Udaipur, Rajasthan 313001, India",phone:"95095 90700"},
+        {name:"YOIS HOTEL",address:"Plot 8, 100 Feet Road, near Mahila Police Thana, Roop Sagar, Udaipur, Rajasthan 313001, India",phone:"82393 66888"},
+       {name:"Historia Royal",address:"1, 100 Feet Road, New Bhupalpura, Kharakua, Udaipur, Rajasthan 313001, India",phone:"90019 99298"}
+      ],
+      Restaurant:[
+        {name:"The Sky Lounge Udaipur",address:"Hotel Pichola Haveli, near Gangaur Ghat Marg, Udaipur, Rajasthan 313004, India",phone:"73575 76159"},
+        {name:"Yummy Yoga best Rooftop Restaurant",address:"25 Bheem Parmeshwar Marg, near Hanuman Ghat, Outside Chandpole, Udaipur, Rajasthan 313004, India",phone:"97840 39910"},
+        {name:"Udaipur View Restaurant",address:"F-18, above Hotel Kalika Palace, near Fateh Sagar Lake, Zinc Park, Udaipur, Rajasthan 313004, India",phone:"99288 35412"},
+        {name:"Sargam Restaurant – Old City Rooftop",address:"36 Outside Brahmpole, Nagar Parishad Colony, Udaipur, Rajasthan 313004, India",phone:"79767 65296"},
+        {name:"South Grills Rooftop Restaurant",address:"16 Bajarang Marg, Ghat Road, Ambrai, Udaipur, Rajasthan 313004, India",phone:"77373 68620"},
+        {name:"La Marina Bistro (Rooftop Lakeview)",address:"Level 2, Hotel Natural Marg, Swaroop Sagar, Ambamata, Udaipur, Rajasthan 313004, India",phone:"98875 93109"}        
+      ],
+      Cab:[
+        {name:"Udaipur Taxi Service – Local + Outstation",phone:"92143 60727"},
+        {name:"Udaipur Taxi Service – Lake Palace area",phone:"83868 864583"},
+        {name:"Honey Cabs Udaipur – City & Airport Transfers",phone:"77374 76569"},
+        {name:"Payal Cab Services (Local Udaipur Cabs)",phone:"81088 36140"}, 
+        {name:"OM Travels – Call Taxi & Rental",phone:"81281 81143"},
+        {name:"Tanmay Travels – Outstation Taxi & Bike Rental",phone:"90544 31928"},
+        {name:"Shri Shyam Cars Rental",phone:"84012 63484"}      ]
+   },
+    Jodhpur:{
+      Hotel:[
+        {name:"Umaid Bhawan Palace, Jodhpur",address:"Circuit House Road, Jodhpur, Rajasthan 342006",phone:"291 251 0101"},
+        {name:"RAAS Jodhpur",address:"Tunwarji Ka Jhalra, Makrana Mohalla, Near Mehrangarh Fort, Jodhpur, Rajasthan 342001",phone:"291 263 6455"},
+        {name:"Ajit Bhawan – A Palace Resort",address:"Circuit House Road, Ajit Colony, Jodhpur, Rajasthan 342006",phone:"291 251 1411"},
+        {name:"Welcomhotel by ITC Hotels, Jodhpur",address:"53, Uchiyarda Road, Near Kudi Haud, Jodhpur, Rajasthan 342027",phone:"291 251 6666"},
+        {name:"The Ajit Bhawan Palace – Garden Wing",address:"Circuit House Road, Jodhpur, Rajasthan 342006",phone:"291 251 1411"},
+        {name:"Indana Palace Jodhpur",address:"Airport Road, Opposite Indian Oil Depot, Jodhpur, Rajasthan 342011",phone:"291 251 9999"},
+        {name:"Ranbanka Palace Hotel",address:"Circuit House Road, Jodhpur, Rajasthan 342006",phone:"291 251 2801"},
+        {name:"Pal Haveli – A Heritage Hotel",address:"Gulab Sagar, Clock Tower Road, Jodhpur, Rajasthan 342001",phone:"291 329 3322"},
+        {name:"Haveli Inn Pal",address:"Near Clock Tower, Gulab Sagar, Jodhpur, Rajasthan 342001",phone:"98290 21311"},
+        {name:"Hotel Shri Ram Excellency",address:"5A, Opposite Railway Reservation Office, Paota, Jodhpur, Rajasthan 342006",phone:"291 243 8000"},
+        {name:"The Kothi Heritage",address:"Bachraj Ji Ka Bagh, Jodhpur, Rajasthan 342001",phone:"291 262 0311"},
+        {name:"Hotel Nirali Dhani",address:"Chopasni Road, Near DPS Circle, Jodhpur, Rajasthan 342008",phone:"97833 33344"}
+      ],
+      Restaurant:[
+        {name:"Gypsy Restaurant",address:"Sardarpura Main Road, Jodhpur, Rajasthan 342003",phone:"291 262 0037"},
+        {name:"On The Rocks",address:"Ajit Bhawan, Circuit House Road, Jodhpur, Rajasthan 342006",phone:"291 251 1411"},
+        {name:"Indique – Rooftop Restaurant",address:"Pal Haveli, Gulab Sagar, Clock Tower Area, Jodhpur, Rajasthan 342001",phone:"291 329 3322"},
+        {name:"Stepwell Café",address:"Toorji Ka Jhalra, Makrana Mohalla, Jodhpur, Rajasthan 342001",phone:"97729 66606"},
+        {name:"Shandar Sweet Home",address:"Nai Sarak, Sardarpura, Jodhpur, Rajasthan 342003",phone:"291 262 0266"},
+        {name:"Janta Sweet Home",address:"Nai Sarak, Sardarpura, Jodhpur, Rajasthan 342003",phone:"291 262 3050"}        
+      ],
+      Cab:[
+        {name:"Jodhpur Taxi Service",phone:"98290 36618"},
+        {name:"Royal Rajasthan Cab",phone:"80039 88883"},
+        {name:"Marwar Taxi Service",phone:"94141 24799"},
+        {name:"Shree Ram Tour & Travels",phone:"94608 88111"}, 
+        {name:"Jodhpur Cab Service",phone:"82900 00999"},
+        {name:"Rajasthan Desert Taxi",phone:"70144 60090"}      ]
+    },
+    Jaisalmer:{
+      Hotel:[
+        {name:"Jaisalmer Marriott Resort & Spa",address:"Jaisalmer – Sam – Dhanana Rd, Police Line, Kishan Ghat, Jaisalmer, Rajasthan 345001, India",phone:"299 226 6688"},
+        {name:"The Jaisalmer Resort",address:"Mohangarh Rd, Industrial Area, Gandhi Nagar, Jaisalmer, Rajasthan 345001, India",phone:"742 789 3411"},
+        {name:"Hotel Rupal Residency - A Luxury Boutique Hotel",address:"4977, CVC Township, Jaisalmer – Sam – Dhanana Rd, CVS Colony, Kishan Ghat, Jaisalmer, Rajasthan 345001, India",phone:"946 080 7000"},
+        {name:"WelcomHeritage Mandir Palace",address:"Gandhi Chowk Rd, Sadar Bazar, Kishan Ghat, Jaisalmer, Rajasthan 345001, India",phone:"884 946 8104"},
+        {name:"The Jaigarh Palace Jaisalmer",address:"A-293/294, Dedansar Rd, Lakshmi Chand Sanwal Colony, Jaisalmer, Rajasthan 345001, India",phone:"869 019 3005"},
+        {name:"Hotel Grand Khalifa",address:"Fateh Marg, near Airforce Circle, Dhibba Para, Manak Chowk, Amar Sagar Pol, Jaisalmer, Rajasthan 345001, India",phone:"957 163 1352"},
+        {name:"Zone Connect by The Park Jaisalmer",address:"RIICO Industrial Area, SHILP Gram Ramgarh By Pass Road, Gandhi Nagar, Jaisalmer, Rajasthan 345001, India",phone:"299 229 4250"},
+        {name:"Sonaar Haveli Jaisalmer",address:"124-125, Ramgarh Rd, CV Singh Colony, Kishan Ghat, Jaisalmer, Rajasthan 345001, India",phone:"935 113 7576"},
+        {name:"Shahi Palace Hotel",address:"Fort Rd, behind HDFC Bank, near State Bank of India, Dhibba Para, Sadar Bazar, Jaisalmer, Rajasthan 345001, India",phone:"941 436 5495"},
+        {name:"Hotel Pleasant Haveli",address:"Chainpura Street, Gandhi Chowk, Jaisalmer, Rajasthan 345001, India",phone:"941 400 6030"},
+        {name:"Hotel Tokyo Palace",address:"Airforce Circle, near Fort, Dhibba Para, Manak Chowk, Amar Sagar Pol, Jaisalmer, Rajasthan 345001, India",phone:"982 846 6595"},
+        {name:"Hotel Aradhya Jaisalmer",address:"Plot No. 580, Achalvanshi Colony Park, near Geeta Ashram Rd, Dr. K.L. Achalvanshi Colony, Kishan Ghat, Jaisalmer, Rajasthan 345001, India",phone:"950 318 8287"},
+        {name:"Himmatgarh Palace, Jaisalmer",address:"1 Ramgarh Road, Ram Kund, Jaisalmer, Rajasthan 345001, India",phone:"900 396 3906"},
+        {name:"Boutique Helsinki",address:"Bera Rd, opposite Pushkarna Bera, Postal Colony, Jaisalmer, Rajasthan 345001, India",phone:"769 008 7886"},
+        {name:"Hotel Akashdeep",address:"Near Hanuman Chauraha, Bhaskar Mohalla, Sadar Bazar, Jaisalmer, Rajasthan 345001, India",phone:"941 429 1002"},
+        {name:"Hotel Jaisal Inn",address:"Gadisar Rd, Jai Narayan Vyas Colony, Jaisalmer, Rajasthan 345001, India",phone:"916 604 9255"},
+        {name:"Hotel Nachana Haveli & Saffron Restaurant",address:"Gandhi Chowk Rd, Bhaskar Mohalla, Sadar Bazar, Jaisalmer, Rajasthan 345001, India",phone:"299 225 2110"}
+      ],
+      Restaurant:[
+        {name:"Jor Bagh Restaurant Cafe Jaisalmer",address:"Bera Rd, opposite Nagarpalika Puskarna, Postal Colony, Jaisalmer, Rajasthan 345001, India",phone:"992 908 7171"},
+        {name:"Restaurant Romany Jaisalmer",address:"Near Rooftop Hotel Chirag Haveli, Fort Rd, Dhibba Para, Jaisalmer, Rajasthan 345001, India",phone:"978 239 5719"},
+        {name:"Zayit India Fine Dine",address:"Parking, Art Museum, First Floor, Fort Rd, Dibhapara, Jaisalmer, Rajasthan 345001, India",phone:"707 309 6695"},
+        {name:"The Namaste Restaurant And Cafe",address:"Kalakar Colony, near Sunset Point, Malka Pol, Kishan Ghat, Jaisalmer, Rajasthan 345001, India",phone:""},
+        {name:"Rajasthani Restaurant",address:"Opposite Neeraj Hotel Bus Stand, Sadar Bazar, Jaisalmer, Rajasthan 345001, India",phone:"998 215 1662"},
+        {name:"Shree Hari Restaurant",address:"Shiv Mandir ke samne, near SBI Bank, Dhibba Para, Manak Chowk, Amar Sagar Pol, Jaisalmer, Rajasthan 345001, India",phone:"953 011 2030"},
+        {name:"Shahi Palace Rooftop Restaurant",address:"Shahi Palace Hotel, Dhibba Para, Sadar Bazar, Jaisalmer, Rajasthan 345001, India",phone:"941 436 5495"},
+        {name:"Lake View Restaurant",address:"Maharani Palace on Fort, Near Kotri Pada, Jaisalmer, Rajasthan 345001, India",phone:"992 813 3833"},
+        {name:"Pol Haveli Rooftop Restaurant & Cafe",address:"Dedansar Rd, near Hanuman Chauraha, Anchalvansi Colony, Malka Pol, Jaisalmer, Rajasthan 345001, India",phone:"787 798 7340"},
+        {name:"Pleasant Haveli - Rooftop Restaurant & AC Dining",address:"Chainpura, Gandhi Chowk, Jaisalmer, Rajasthan 345001, India",phone:"941 400 6030"}   
+      ],
+      Cab:[
+        {name:"Jaisalmer Cabs (Madarsa Rd, Amar Sagar Pol)",phone:"952 950 2160"},
+        {name:"Jaisalmer Cab Service (Neeraj Bus Stand)",phone:"785 001 9126"},
+        {name:"Jaisalmer Cab Taxi (Ring Road)",phone:"800 095 6384 / 979 975 3903"},
+        {name:"Jaisalmer Taxi Service Cab (509 Bera Road)",phone:"978 271 4498"}, 
+        {name:"The Jaisalmer Taxi Services (Fort Parking, Amar Sagar Pol)",phone:"701 400 6245"},
+        {name:"JS Taxi Jaisalmer",phone:"702 327 1786 / 800 300 8086"},
+        {name:"Jaisalmer Taxi Service (Talriya Para)",phone:"797 659 2928 /852 929 8001"}      
+      ]
+    },
+    Ajmer:{
+      Hotel:[
+        {name:"Hotel Ajmer Inn",address:"Churi Bazar, Purani Mandi, near Nagar Nigam, Ajmer, Rajasthan 305001",phone:"145 266 5551 /72300 66559"},
+        {name:"Hotel Ajmer Tower",address:"3rd Floor, Ajmer Tower, Kutchery Road, Ajmer, Rajasthan 305001",phone:"77375 61557"},
+        {name:"Hotel Chouhan Paradise Ajmer",address:"Garg Mohalla, Nala Bazar Rd, near Sharif Dargah, Ajmer, Rajasthan 305001",phone:"90798 12829"},
+        {name:"Ajmer Sheraton - A Boutique Hotel",address:"Cinema Rd, opp. Plaza, Parao, Ajmer, Rajasthan 305001",phone:"95298 48554"},
+        {name:"Hotel Mansingh Palace, Ajmer",address:"Gaurav Path, Vaishali Rd, Ajmer, Rajasthan 305001",phone:"145 242 5702"},
+        {name:"Ajmer hotel ajmer",address:"Near Krishna Dairy, opp. Padma Dairy, Kesarganj, Police Lines, Ajmer, Rajasthan 305001",phone:"98290 90229"},
+        {name:"Hotel Ajmer Grand",address:"Lohagal Rd, opposite Jawahar Rang Manch, Shastri Nagar, Ajmer, Rajasthan 305001",phone:"73002 80638"},
+        {name:"Hotel Royal Ajmer",address:"Dhan Mandi, Dhobi Mohalla, Dargah Bazar, Ajmer, Rajasthan 305001",phone:"72969 22722"},
+        {name:"The Royal Melange Beacon, Ajmer",address:"Jaipur Rd, opposite City Power House, Sundar Vilas, Ajmer, Rajasthan 305001",phone:"145 263 0146"},
+        {name:"Hotel Ajmer Regency",address:"Madar Gate, Outside Railway Station, Ajmer, Rajasthan 305001",phone:"72300 66559"},
+        {name:"Hotel Madni Royale",address:"Dargah Bazar Rd, opp. Jain Pandal, Lakhan Kothri, Ajmer, Rajasthan 305001",phone:"98288 68786"},
+        {name:"Hotel Arzoo Palace Ajmer",address:"Nala Bazar Rd, Near Kailashpati Handloom, Dargah Bazar, Ajmer, Rajasthan 305001",phone:"145 243 2648"}
+      ],
+      Restaurant:[
+        {name:"EMBER DINE",address:"93/18, Beawar Rd, opposite Lawrence & Mayo School, Railway Quarters, Ajmer, Rajasthan 305001",phone:"93511 91573"},
+        {name:"Mango Masala Restaurant",address:"Kutchery Road India Motor Circle, Ajmer, Rajasthan 305001",phone:"94131 00323"},
+        {name:"OYSTER RESTAURANT",address:"3rd & 4th Floor, Ana Sagar Circular Rd, Anand Nagar, Ajmer, Rajasthan 305001",phone:"98280 39391"},
+        {name:"Sobhraj Restaurant",address:"Outside Hotel Sobhraj, Dargah Road, Delhi Gate Rd, Ajmer, India",phone:"73299 99908"},
+        {name:"Royal Spice Restaurant",address:"Petrol Pump, 4th Floor on Kamleshwaram Building, behind Vaishali Nagar, Ajmer, Rajasthan 305004",phone:"97830 32444"},
+        {name:"Urban Tadka Restaurant Ajmer",address:"Kaiser Ganj Rd, Asha Ganj, Ajmer, Rajasthan 305001",phone:""},
+        {name:"Rasoi - The Train Restaurant",address:" 3rd Floor, Swami Complex, Sardar Patel Marg, Hathi Bhata, Ajmer, Rajasthan 305001",phone:"99295 90447"},
+        {name:"Spice Land Restaurant",address:" Siddhi Complex, Martindale Bridge, near Ajanta Cinema, Arya Nagar, Ajmer, Rajasthan 305007",phone:" 73398 06783"},
+        {name:"Shree Balaji Restaurant",address:"2nd Gate, near Railway Station, opp. Shahi Majid Palbichla, Patel Nagar, Topdara, Ajmer, Rajasthan 305001",phone:" 77377 83619"},
+        {name:"Vogue Restaurant & Cafe",address:"JLN Medical College Circle, near Patel Stadium JLN, Muslim Mochi Mohalla, Ajmer, Rajasthan 305001",phone:"95304 46228"},
+        {name:"The Khadim's Restaurant",address:"Nizam Gate, Phool Gali, Nala Bazar Rd, opp. Dargah, Ajmer, Rajasthan 305001",phone:"145 262 4155"},
+        {name:"Atlantica Restaurant Ajmer",address:"B K Kaul Rd, Dayanand Colony, Ajmer, Rajasthan 305001",phone:" 92519 35503"},
+        {name:"Me and You Restaurant Ajmer",address:"Opposite Ghyan Vihar Gate, B.K. Kaul Nagar, Ajmer, Rajasthan 305001",phone:"96100 34139"},
+        {name:"Kanha Shree Restra",address:"A24, near City Square Mall, Panchsheel Colony, Ajmer, Rajasthan 305004",phone:" 99295 90449"},
+        {name:"Mango Leaf Restaurant",address:"1st Floor, Arihant Complex, opposite Dr. Khunger, Lajpat Nagar, Ramganj, Ajmer, Rajasthan 305001",phone:"86190 69195"}
+      ],
+      Cab:[
+        {name:"Ajmer Taxi Services ",phone:"99823 16735 "},
+        {name:"Cab Service In Ajmer",phone:"77270 35735"},
+        {name:"Anil Tour And Travels (Taxi & Travel Services)",phone:"98293 90145 /97834 54829 "},
+        {name:"Rajputana Cabs Ajmer",phone:"99283 99846"}, 
+        {name:"Chiku Cab Ajmer ",phone:"84484 45504"}
+      ]
+    },
+    Pushkar:{
+      Hotel:[
+        {name:"Ananda Resort Pushkar",address:"Gulab Bagh Rd, Pushkar, Rajasthan 305022, India",phone:" 98287 00320"},
+        {name:"Hotel Pushkar Legacy",address:"Jamni Kund Road, near Gurudwara, Ganahera, Pushkar, Rajasthan 305022, India",phone:"86902 07011"},
+        {name:"Hotel Pushkar Heritage",address:"Panch Kund Road, Ganahera, Pushkar, Rajasthan 305022, India",phone:" 80055 69818"},
+        {name:"Hotel Kanhaia Haveli",address:" Choti Basti, near Mali Mandir, Pushkar, Rajasthan 305022, India",phone:" 94143 64046"},
+        {name:"Sterling Pushkar",address:"Mela Ground, Savitri Mata Road, Badi Basti, Pushkar, Rajasthan 305022, India",phone:"79697 92039"},
+        {name:"Rawai Luxury Tents, Pushkar",address:" Brahma Mandir Rd, near Savitri Mata Temple, Pushkar, Rajasthan 305022, India",phone:"91166 61663"},
+        {name:"Pushkar Regency Resort",address:"Nyaya Path Rd, Vaam Dev Road, Pushkar, Rajasthan 305022, India",phone:"77374 93034"},
+        {name:"Hotel Pushkar City Inn",address:"Behind Shyama Bagh Hospital, near Hill View Hotel, Pushkar, Rajasthan 305022, India",phone:"96106 08111"},
+        {name:"The Country Side Resort‑ Refined By Nature",address:"Near Pushkar Lake High Bridge, Pushkar, Rajasthan 305022, India",phone:"97723 46466"},
+        {name:"Clarks Safari Pushkar",address:"Motisar Rd, Village Ganahera, Pushkar, Rajasthan 305022, India",phone:"145 277 2944"},
+        {name:"Pushkara Resort and Spa",address:"Pushkar Bypass Rd, near Sudha Bai Budha, Nedaliya, Rajasthan 305022, India",phone:"145 350 1111"},
+        {name:"The Pushkar Mantra Resort",address:"Vamdev Road Nala, Pushkar, Rajasthan 305022, India",phone:"76659 91739"},
+        {name:"The Westin Pushkar Resort & Spa",address:"Village Surajkund, Motisar Rd, Pushkar, Rajasthan 305022, India",phone:"145 277 4400"},
+        {name:"Jagat Palace",address:"Ajmer Rd, behind Ramdwara, Pushkar, Rajasthan 305022, India",phone:"145 277 2401"},
+        {name:"Hotel Mewad Haveli Pushkar",address:"Chamunda Mata Road, Parikarma Marg, near Gurudwara, Pushkar, Rajasthan 305022, India",phone:"99827 40721"},
+        {name:"Elephant Pushkar - Stay & Food",address:"Main Market, Badi Basti, Pushkar, Rajasthan 305022, India",phone:"92527 74775"},
+        {name:"Hotel Pushkar Palace",address:"Near Pushkar Lake, Choti Basti, Pushkar, Rajasthan 305022, India",phone:""}
+        
+      ],
+      Restaurant:[
+        {name:"Amigo Mango Garden restaurant",address:"Near Jaipur Ghat Sunset Road, Palace, Pushkar, Rajasthan 305022, India",phone:"95870 26615"},
+        {name:"Funky Monkey Cafe & Garden Restaurant",address:"Jamni Kund Road, Pushkar, Rajasthan 305022, India",phone:"98298 73439"},
+        {name:"New Mamta Restaurant",address:"Water Box Road, Kapaleshwar Churaya, Pushkar, Rajasthan 305022, India",phone:"97729 63149"},
+        {name:"Galli Cafe & Restaurant",address:"Panch Kund Road, Pushkar, Rajasthan 305022, India",phone:"98298 51962"},
+        {name:"Sand Feast Cafe & Restaurant",address:"Brahm Ghat, Inside Sai Baba Garden Parking, Pushkar, Rajasthan 305022, India",phone:"94606 11241"},
+        {name:"Shiva Laffa & Falafel Restaurant Pushkar",address:"Payal Guest House, near Nagar Palika, Badi Basti, Pushkar, Rajasthan 305022, India",phone:"96361 83025"},
+        {name:"Raju Terrace Garden Restaurent",address:"Main Market Rd, Badi Basti, Pushkar, Rajasthan 305022, India",phone:"70149 79238"},
+        {name:"Pushkar Restaurant",address:"Near Brahma Temple, Pushkar, Rajasthan 305022",phone:"94140 02129"}
+        
+      ],
+      Cab:[
+        {name:"Pushkar Taxi Services",phone:"98286 43234 / 86967 78999"},
+        {name:"Pushkar Taxi Service (Vaamdev Road)",phone:"86408 56786 / +91 98292 97726"},
+        {name:"DEEVAH Taxi Service",phone:"73837 43189"},
+        {name:"Ura Travels / Ura Taxi Services",phone:""}, 
+        {name:"Sawariya Tour & Taxi",phone:""}
+      ]
+    },
+    Bikaner:{
+      Hotel:[
+        {name:"Narendra Bhawan Bikaner",address:"Samta Nagar, Gandhi Colony, Bikaner, Rajasthan 334001",phone:"151 225 2500"},
+        {name:"The Lallgarh Palace - A Heritage Hotel",address:"Lallgarh Palace Complex, Opposite Roadways Bus Stand, Samta Nagar, Bikaner, Rajasthan 334001",phone:"88000 3100"},
+        {name:"Hotel Sagar Bikaner",address:"Lalgarh Palace Campus, Sri Ganganagar Rd, Bikaner, Rajasthan 334002",phone:"99833 37397"},
+        {name:"Maharaja Ganga Mahal",address:"289G+X2R, Ganga Niwas, Outside Public Park, Rathkhana Gate, Bikaner, Rajasthan 334001",phone:"151 252 1074"},
+        {name:"Hotel in Bikaner : Bhanwar Niwas",address:"Rampuria Street, Joshiwara, Sunaron Ka Mohalla, Bikaner, Rajasthan 334001",phone:"98299 19829"},
+        {name:"Chandra Raj Mahal, Bikaner",address:"Near Narendra Bhawan Rd, Kailashpuri, Karni Nagar, Bikaner, Rajasthan 334001",phone:"98596 42222"},
+        {name:"Karni Bhawan Palace",address:"Gandhi Colony, Bhaskar Marg, near Bikaner Public School, Bikaner, Rajasthan 334001",phone:"90017 96235"},
+        {name:"Heeralal Hotel (JNV Colony Branch)",address:"E-6, Opposite Vyas Colony, Kanta Khaturia Colony, Bikaner, Rajasthan 334003",phone:"151 297 0046"},
+        {name:"Hotel Marudhar Palace",address:"Kanta Khaturia Street, Near APEX Hospital, Rani Bazar, Bikaner, Rajasthan 334001",phone:"94140 96687"},
+        {name:"Hotel Jaswant Bhawan",address:"Daudsar House, Alakh Sagar Rd, near Modern Market, Bikaner, Rajasthan 334001",phone:"90015 54746"},
+        {name:"Ardas Villa Bikaner",address:"Sekhon Niwas Campus, M P Colony, Bikaner, Rajasthan 334004",phone:"90243 87109"},
+        {name:"Hotel Enclave Bikaner",address:"Sector 5, Jai Narayan Vyas Colony, Bikaner, Rajasthan 334003",phone:"95495 40044"},
+        {name:"Vesta Bikaner Palace",address:"10th Mile Stone, Jaipur-Bikaner Highway, Himtasar, Bikaner, Rajasthan 334001",phone:"151 297 0058"},
+        {name:"Tanisha Heritage Haweli",address:"Aasaniyon Ka Chowk, near Rampuria Haveli, Old Bikaner, Rajasthan 334001",phone:"75680 25662"},
+        {name:"Hotel Chirag",address:"B-8, Sudarshana Nagar, Vallabh Garden, Bikaner, Rajasthan 334003",phone:"97842 99999"},
+        {name:"Hotel Bikalal",address:"Panchshati Circle, Sadul Ganj, Bikaner, Rajasthan 334003",phone:"90014 56467"},
+        {name:"Hotel Shri Gourav",address:"Platform No.1 Side, Shree Gaurav Complex, Rani Bazar Rd, Opposite Railway Station, Bikaner, Rajasthan 334001",phone:"80009 58197"}
+      ],
+      Restaurant:[
+        {name:"Heeralal Restaurant",address:"Ground Floor, Heeralal Mall, Opposite Railway Station, Bikaner, Rajasthan 334001",phone:"70737 55222"},
+        {name:"Tanvi Cafe",address:"Champaa Nikunj, Acharyon Ka Chowk, near Bhairuji Mandir, Bikaner, Rajasthan 334001",phone:"93515 94398"},
+        {name:"Saffron Restaurant",address:"Nagnechi Temple Rd, Pawan Puri, Bikaner, Rajasthan 334003",phone:"99500 06935"},
+        {name:"Punjabi Chulha - A Family Restaurant",address:"Deen Dayal Circle, beside Sadul Club Mela Ground, Samta Nagar, Bikaner, Rajasthan 334001",phone:"77330 50697"},
+        {name:"MUMBAI MASALA",address:"1-B-4, New Shivbari Rd, Narayan Vihar Colony, Jai Narayan Vyas Colony, Bikaner, Rajasthan 334001",phone:"86900 39222"},
+        {name:"FLAVORS.JUNCTION",address:"Jassusar Gate, opposite Rajani Hospital, Vaidya Mangaram Colony, Bikaner, Rajasthan 334001",phone:"98693 61145"},
+        {name:"Sattvic Multi Cuisine Restaurant",address:"Suraj Talkies Road, Rani Bazar, Bikaner, Rajasthan 334001",phone:"151 220 1022"},
+        {name:"Gallops Restaurant & Coffee House",address:"Junagarh Fort Rd, Opposite Junagarh Fort, Rath Khana Colony, Bikaner, Rajasthan 334001",phone:"87692 45945"},
+        {name:"Rominus Pizza and Burger",address:"Polytechnic College Rd, near Panchsati Circle, Sadul Ganj, Bikaner, Rajasthan 334003",phone:"78915 15252"}        
+      ],
+      Cab:[
+        {name:"Bikaner Travel Solution (Taxi Booking Service)",phone:"74129 77999"},
+        {name:"KDCAB Taxi Service in Bikaner",phone:"96948 61820"},
+        {name:"Bikaner Taxi Cab Service",phone:"94143 81880"},
+        {name:"MB Taxi & Cab Services",phone:""}, 
+        {name:"Payal Cab (Local + Outstation)",phone:"84600 07788"},
+        {name:"Luxury Tour And Travels Bikaner (Taxi)",phone:"89493 57492"}
+      ]
+    },
+    MountAbu:{
+      Hotel:[
+        {name:"WelcomHeritage Connaught House Mount Abu",address:"Connaught House, Rajendra Rd, Sani Gaon, Mount Abu, Rajasthan 307501, India",phone:"2974 238560"},
+        {name:"The Jaipur House, Mount Abu",address:"Sunset Road, near Nakki Lake, Mount Abu, Rajasthan 307501, India",phone:"94618 72567"},
+        {name:"Sterling Mount Abu",address:"Neel Kanth Rd, Dhundayi, Mount Abu, Rajasthan 307501, India",phone:"79697 92011"},
+        {name:"Casawood Resort ‑ A Luxury Private Pool Villa On Mount Abu Road",address:"Kasindra, Abu Road, Mount Abu, Rajasthan 307026, India",phone:"78786 70719"},
+        {name:"Radisson Resort Mount Abu",address:"Pandav Bhawan, Limdi, Sirohi, Mount Abu, Rajasthan 307501, India",phone:"2974 235000"},
+        {name:"Hotel Sheratone Mount Abu",address:"Main Road, opposite Koyla Depot, Kumarwada, Mount Abu, Rajasthan 307501, India",phone:"94143 58314"},
+        {name:"Cama Rajputana Club Resort",address:"Road, Arbuda Devi, Mount Abu, Rajasthan 307501, India",phone:"2974 238205"},
+        {name:"Hotel Hillock",address:"Abu Cart Road, Mount Abu, Rajasthan 307501, India",phone:""},
+        {name:"Hotel Hilltone",address:"Main Road opposite Bus Stand, Janta Colony, Kumarwada, Mount Abu, Rajasthan 307501, India",phone:"94141 54888"},
+        {name:"Palace Hotel (Bikaner House)",address:"Delwara Road, Mount Abu, Rajasthan 307501, India",phone:"2974 238673"},
+        {name:"Chacha Inn The Garden Retreat",address:"Main Road, Mount Abu, Rajasthan 307501, India",phone:"99286 32807"},
+        {name:"Hotel Shiv Villa, Mount Abu",address:"Behind Gujarat Circuit House, near Kumarwara, Mount Abu, Rajasthan 307501, India",phone:"91161 95200"},
+        {name:"Kesar Bhawan Palace",address:"Sunset Road, near Tibet Market, Machgoan, Mount Abu, Rajasthan 307501, India",phone:"2974 235219"},
+        {name:"The Colonial Manek Manor",address:"Manek Manor, Cross Road, Arbuda Devi, Mount Abu, Rajasthan 307501, India",phone:"90797 41435"},
+        {name:"Hotel Crystal Inn @ Nakki Lake",address:"Behind Duleshwar Temple, Vakalt House, Nakki Lake, Mount Abu, Rajasthan 307501, India",phone:"77429 78900"},
+        {name:"Hotel Rock Regency Mount Abu ‑ A Boutique Rodetel",address:"Pilgrim Rd, beside Gujarat Circuit House, Torna, Mount Abu, Rajasthan 307501, India",phone:"75970 03388"},
+        {name:"Hotel Castle Rock Mount Abu by SAH",address:"MDR60, near Mount Abu New Toll Nakka, Mount Abu, Rajasthan 307501, India",phone:"86198 28769"}
+      ],
+      Restaurant:[
+        {name:"ABU Restaurant",address:"Taxi Stand, Main Road, near Bank of Baroda, Mount Abu, Rajasthan 307501, India",phone:"79761 45743"},
+        {name:"JOJI Bar, Restaurant & Game Zone",address:"Opposite Honest Restaurant, Nakki Lake, Mount Abu, Rajasthan 307501, India",phone:"94601 54488"},
+        {name:"The Mulberry Tree Restaurant",address:"Main Road, Mount Abu, Rajasthan 307501, India",phone:"2974 238391"},
+        {name:"SINDH A PUNJAB Non‑veg Restaurant",address:"Taxi Stand Circle, near Bank of Baroda, Mount Abu, Rajasthan 307501, India",phone:"99287 76963"},
+        {name:"Berlin Bar & Restaurant",address:"Rock Regency Hotel, Pilgrim Rd, Kumarwada, Mount Abu, Rajasthan 307501, India",phone:"75970 03388"},
+        {name:"Anjani Parathas",address:"Between Raj Mobile and Amrapali Provision Store, Sani Gaon, Mount Abu, Rajasthan 307501, India",phone:""},
+        {name:"Shanti Restaurant",address:"MDR60, Machgoan, Mount Abu, Rajasthan 307501, India",phone:""},
+        {name:"Chacha Cafe",address:"Main Market, near Chacha Museum, Sani Gaon, Mount Abu, Rajasthan 307501, India",phone:"94602 87848"},
+        {name:"The Grand Arbuda",address:"Near Arbuda Circle Municipal Complex, Nakki Lake, Mount Abu, Rajasthan 307501, India",phone:""}
+      ],
+      Cab:[
+        {name:"Mount Abu Taxi Service",phone:"78220 34131"},
+        {name:"Hill Tours – Taxi & Sightseeing",phone:"98879 64401"},
+        {name:"Jain Tour & Travels (Taxi)",phone:"81284 24391"},
+        {name:"HR Bike & Car Rental",phone:"89048 82480"}
+      ]
+    },
+    Kumbalgarh:{
+      Hotel:[
+        {name:"Kumbhal Palace Hotel And Resort",address:"Kumbhalgarh Fort Rd, Qila Kumbhalgarh, Rajasthan 313325, India",phone:"91169 22570"},
+        {name:"Kavish The Haveli Resort – A Heritage Resort",address:"Maharana Pratap Circle, Saira Rd, Qila Kumbhalgarh, Rajasthan 313325, India",phone:"93279 58780"},
+        {name:"Trulyy The Kumbha Residency – A Luxury Resort",address:"Near Lakhela Talao, Near Kelwara, Kumbhalgarh, Rajasthan 313325, India",phone:"79239 77600"},
+        {name:"The Kumbha Bagh",address:"Sadri – Rajpura – Parshuramji Cave Rd, Village Udawar, Kumbhalgarh, Rajasthan 313325, India",phone:"83063 00609"},
+        {name:"Kumbhalgarh Fort Resort – Pure Veg",address:"Kadia Road, Kumbhalgarh, Qila Kumbhalgarh, Rajasthan 313325, India",phone:"89800 16255"},
+        {name:"Garh Kumbha Resort",address:"Fort Road, Kumbhalgarh Kelwara, Rajasthan 313325, India",phone:"87692 26024"},
+        {name:"The Aodhi Kumbhalgarh",address:"P.O: Kelwara, Qila Kumbhalgarh, Rajasthan 313325, India",phone:"73404 55566"},
+        {name:"Lemon Tree Resort Kumbhalgarh",address:"Maharana Pratap Marg, VOP, Kelwara, Kumbhalgarh, Rajasthan 313325, India",phone:"97845 42275"},
+        {name:"Raajsa, Kumbhalgarh – IHCL SeleQtions",address:"Maharana Pratap Marg, Beer Ki Bhagal, Kelwara, Kumbhalgarh, Rajasthan 313325, India",phone:"97999 37000"},
+        {name:"The Everest Hill Resort & Spa, Kumbhalgarh",address:"Village Udawar, Kumbhalgarh, Udawar, Rajasthan 313325, India",phone:"72720 32000"},
+        {name:"Dera Kumbhalgarh",address:"Kumbhalgarh Post, Kelwara, Qila Kumbhalgarh, Rajasthan 313325, India",phone:"99839 96511"},
+        {name:"Shahpura Kumbhal Villas",address:"Bid, Fort Road, Kunthwas Ki Bhagal, Kumbhalgarh, Rajasthan 313325, India",phone:"86960 08880"},
+        {name:"Mount Valley Resort",address:"Kumbhalgarh Main Road, After Club Mahindra, Kumbhalgarh, Rajasthan 313325, India",phone:""},
+        {name:"Bhawani Heritage Kumbhalgarh – By Turban Hotels",address:"Kamboda, Sayra Road, Kumbhalgarh, Rajasthan 313325, India",phone:"95878 95712"},
+        {name:"The Aravali Kumbhalgarh",address:"Main Road, Kumbhalgarh, Qila Kumbhalgarh, Rajasthan 313325, India",phone:"78787 33381"}
+      ],
+      Restaurant:[
+        {name:"Swagat Restaurant, Kumbhalgarh",address:"Fort Road, Beer Ki Bhagal, opposite Rawala Sagrun, near At Wine shop, Kumbhalgarh, Rajasthan 313325, India",phone:"98283 16633"},
+        {name:"Pangat – Multi Cuisine Vegetarian Restaurant",address:"Kumbhalgarh, Beer Ki Bhagal, Rajasthan 313325, India",phone:"29542 43333"},
+        {name:"1458 AD Kumbhalgarh Camp & Restaurant",address:"Fort area, Kumbhalgarh, Rajasthan 313325, India",phone:"91665 46612"},
+        {name:"Gujarat Restaurant",address:"Qila Kumbhalgarh, Rajasthan 313325, India",phone:""},
+        {name:"La Pizzeria",address:"Qila Road, Qila Kumbhalgarh, Rajasthan 313325, India",phone:"93525 53879"},
+        {name:"Pals Pizzeria",address:"Near Radisson Blu Resort / Club Mahindra, Kumbhalgarh, Rajasthan 313325, India",phone:"96105 73143"},
+        {name:"Chowka – The Aodhi",address:"The Aodhi, Kumbhalgarh National Highway, Rajasthan 313325, India",phone:"63670 41866"},
+        {name:"KKR Restaurant",address:"Near Club Mahindra, Beer Ki Bhagal, Kumbhalgarh, Rajasthan 313325, India",phone:"96361 15552"},
+        {name:"Radhe Radhe Restaurant",address:"Club Mahindra Circle Road, Qila Kumbhalgarh, Rajasthan 313325, India",phone:"88900 38010"},
+        {name:"Gorbandh Veg Restaurant",address:"Qila Kumbhalgarh, Rajasthan 313325, India",phone:""}
+      ],
+      Cab:[
+        {name:"Payal Cab – Taxi Service in Kumbhalgarh",phone:"84600 07788"},
+        {name:"Kumbhalgarh Taxi – Rajputana Cabs",phone:"99830 10250 /99283 99846"}
+        {name:"Noru Cab",phone:"96940 54509"},
+        {name:"Kumbhalgarh Taxi Service",phone:"94603 24919"}
+      ]
+    },
+    Chittorgarh:{
+      Hotel:[
+        {name:"Hotel Sai Kripa Chittorgarh",address:"Nimbahera-Chittorgarh Rd, Railway Station Area, Chittorgarh, Rajasthan 312001, India",phone:"77424 02257"},
+        {name:"Hotel The Grand Chittor & Alfresco",address:"Near Gangour Garden, Basant Nagar, Gandhi Nagar, Chittorgarh, Rajasthan 312001, India",phone:"83060 08891"},
+        {name:"Hotel Pride of Chittor",address:"58-59, Radhe Empire, Gatiyawali Road, Gandhi Nagar Sec 5, Chittorgarh, Rajasthan 312001, India",phone:"87647 52025"},
+        {name:"Hotel Kumbha Retreat",address:"Fort Road, near City Petrol Pump, Chittorgarh, Rajasthan 312001, India",phone:"80949 26666"},
+        {name:"Hotel Royal Palace Chittorgarh",address:"1 Plot No. 1, Maharana Pratap Setu Marg, R.A. Colony, Kailash Nagar, Chittorgarh, Rajasthan 312001, India",phone:"63771 26349"},
+        {name:"Hotel Keshav Residency",address:"Sector 1, near Chandralok Cinema, Chittorgarh, Rajasthan 312001, India",phone:"85039 89889"},
+        {name:"Hotel Amrit Manthan",address:"Nimbahera Rd, behind Mundra Petrol Pump, Madhuban Extension, Chittorgarh, Rajasthan 312001, India",phone:"72300 90272"},
+        {name:"Hotel Hari Leela Fort View Palace",address:"Ganpati Plaza, Fort Rd, Sector 1, Gandhi Nagar, Chittorgarh, Rajasthan 312001, India",phone:"76888 08444"},
+        {name:"Hotel Paras Chittorgarh",address:"Raj Paras Plaza, Maharana Pratap Setu Marg, near City Petrol Pump, Chittorgarh, Rajasthan 312001, India",phone:"74774 70060"},
+        {name:"Hotel Shivam Fort View Chittorgarh",address:"27, near Circuit House, Kumbha Nagar, Chittorgarh, Rajasthan 312001, India",phone:"98296 55022"},
+        {name:"Hotel Anant Resort Chittorgarh",address:"15 A, Old Industrial Area, Chittorgarh, Rajasthan 312001, India",phone:"82786 61006"},
+        {name:"Hotel The Aadimata & Banquets",address:"Kalika Bazaar, near Pawta Chowk, Chandan Pura, Chittorgarh, Rajasthan 312001, India",phone:"97998 71789"},
+        {name:"Hotel Parvati Chittorgarh",address:"Bundi Road, opp. NCM SBI Bank, Chandan Pura, Chittorgarh, Rajasthan 312001, India",phone:"97820 50270"},
+        {name:"Hotel Frontier Chittorgarh",address:"Collectorate Circle, Meera Nagar, Chittorgarh, Rajasthan 312001, India",phone:"86904 78910"},
+        {name:"Kukda Resort",address:"Near Kukda Residency, opposite Ambe Market, Shivlok Colony, Chittorgarh, Rajasthan 312001, India",phone:"91166 67051"},
+        {name:"Chittorgarh Fort Haveli",address:"Fort Rd, Chittorgarh Fort Village, Chittorgarh, Rajasthan 312025, India",phone:"98291 70190"},
+        {name:"Hotel The Padmavati Fort View Chittorgarh",address:"Fort Road, Maharana Pratap Setu Marg, near City Petrol Pump, Chittorgarh, Rajasthan 312001, India",phone:"73401 96333"},
+        {name:"The Elegance Resort",address:"State Highway 9, Kapasan Rd, near Petrol Pump, Zinc Nagar, Chittorgarh, Rajasthan 312201, India",phone:"97999 29271"},
+        {name:"Hotel Pratap Palace (The Heritage Hotel)",address:"Near H.P.O., Bijaipur, Chittorgarh, Rajasthan 312001, India",phone:"94611 41153"},
+        {name:"Hotel Meera",address:"Near Railway Station, Scheme No.7, Neemuch Rd, Chittorgarh, Rajasthan 312001, India",phone:"14722 40934"}
+      ],
+      Restaurant:[
+        {name:"Shri Barbarik Restaurant Chittorgarh",address:"Inside Fort, near Ratan Singh Palace, Fort Village, Chittorgarh, Rajasthan 312025, India",phone:"77339 67117"},
+        {name:"Rajasthan Restaurant",address:"Fort Rd, near LIC Office, Chittorgarh, Rajasthan 312001, India",phone:"82099 66022"},
+        {name:"Bhagyashree Restaurant Chittorgarh",address:"Shop No.30, Ganpati Plaza, Gandhi Nagar, Chittorgarh, Rajasthan 312001, India",phone:"96022 77366"},
+        {name:"Gangour Restaurant",address:"Padan Pole, Fort Rd, Chittorgarh, Rajasthan 312001, India",phone:""},
+        {name:"Jain Food Court",address:"A-29, Kumbha Nagar, Chittorgarh, Rajasthan 312001, India",phone:"97726 93210"},
+        {name:"Dine & View Rooftop Restaurant",address:"4th Floor, Hotel Hari Leela Fort View Palace, Gandhi Nagar, Chittorgarh, Rajasthan 312001, India",phone:"77429 54043"},
+        {name:"Kanha Cafe & Restaurant",address:"Opposite Shree Ji Hotel, near V2 Mall, Railway Colony, Chittorgarh, Rajasthan 312001, India",phone:"80790 83171"},
+        {name:"Angeethi Restaurant And Cafe",address:"Near Ratan Singh Palace, Chittorgarh Fort Village, Chittorgarh, Rajasthan 312025, India",phone:"98874 88277"},
+        {name:"Jai Chittor Restaurant",address:"Fort Rd, opposite Income Tax Office, Uparala Para, Chittorgarh, Rajasthan 312001, India",phone:""},
+        {name:"Mahaveer Bhojnalay And Restaurant",address:"RJ SH 9, opposite R.T.O. Office, Rawla Dagla Ka Khera, Bodiyana, Chittorgarh, Rajasthan 312001, India",phone:"99506 22977"}        
+      ],
+      Cab:[
+        {name:"Chittorgarh Taxi Services",phone:"96022 68863"},
+        {name:"Shree Sanwariya Taxi Service Chittorgarh",phone:"91163 63434"},
+        {name:"Jai Maa Sagra Tours And Travels",phone:"80057 35654"},
+        {name:"RawatTaxi Chittorgarh",phone:"81071 86234"}, 
+        {name:"Chittorgarh Auto Taxi Tour & Guide",phone:"95878 63925"},
+        {name:"Mahakal Taxi Service",phone:"96366 49177"},
+        {name:"M.S.E Taxi Tour And Travels",phone:"81078 55211"},
+        {name:"Shri Agrasen Tour & Travels",phone:"94141 10184"},
+        {name:"Green All India Tourist",phone:"97851 70623"},
+        {name:"Sailani Tours And Travels",phone:"94141 11352"},
+        {name:"Paras Mani Taxi Services",phone:"99284 59077"},
+        {name:"Chittorgarh Car Rental",phone:"70730 35335"}      ]
+    },
+    Ranthombore:{
+      Hotel:[
+        {name:"The Oberoi Vanyavilas Wildlife Resort",address:"Ranthambhore Rd, Sawai Madhopur, Rajasthan 322001, India",phone:"7462 353999"},
+        {name:"Taj Sawai Ranthambore",address:"Ranthambhore Rd, near Ranthambore National Park, Sawai Madhopur, Rajasthan 322001, India",phone:"7462 294003"},
+        {name:"Aman‑i‑khas",address:"Village Sherpur, near Ranthambore National Park, Khilchipur, Sawai Madhopur, Rajasthan 322001, India",phone:"7462 252052"},
+        {name:"The Maharaja's Lodge, Ranthambore",address:"Ranthambore National Park Road, Ranthambhore Rd, Sawai Madhopur, Rajasthan 322001, India",phone:"7462 225155"},
+        {name:"Aamaghati Wildlife Resort",address:"Sherpur Ranthambore Road, near Govt Primary School, Sawai Madhopur, Rajasthan 322001, India",phone:"8440 888111"},
+        {name:"The Tigress, Ranthambore",address:"Ranthambore Road, near Helipad, Sawai Madhopur, Rajasthan 322001, India",phone:"99834 23234"},
+        {name:"Sawai Shivir Ranthambore by TUTC",address:"Kundera, Rajasthan 322034, India",phone:""},
+        {name:"Ranthambore Tiger Machan Resort",address:"Village Kutalpur, Sherpur, Ranthambore Road, Sawai Madhopur, Rajasthan 322001, India",phone:"99505 21870"},
+        {name:"The Baagh Ananta Elite, Ranthambore",address:"Ranthambhor Road village Sherpur, Khilchipur, Rajasthan 322001, India",phone:"1413 540500"},
+        {name:"Bookmark Resorts, Jogi Mahal, Ranthambore",address:"near Sherpur Helipad, Khilchipur, Sawai Madhopur, Rajasthan 322001, India",phone:"97733 31341"},
+        {name:"ZANA Forest Resort, Ranthambore",address:"Shooting Lodge Road, Saptar, Sawai Madhopur, Rajasthan 322001, India",phone:"78382 03203"},
+        {name:"Ranthambore Tiger Resort",address:"Village Sherpur Near Ranthambore National Park, Ranthambore Road, Sawai Madhopur, Rajasthan 322001, India",phone:"97827 05705"},
+        {name:"Ranthambhore National Resort",address:"Ranthambhore Rd, opposite Saras Dairy, Saptar, Sawai Madhopur, Rajasthan 322001, India",phone:"92144 22440"},
+        {name:"Regenta Resort Vanya Mahal, Ranthambore",address:"Ranthambhore Rd, Subhash Nagar, Railway Colony, Sawai Madhopur, Rajasthan 322001, India",phone:"7462 20868"},
+        {name:"Abhyaran Resort & Spa, Ranthambore",address:"MDR111, Ranwal, Rajasthan 322029, India",phone:"87666 77778"},
+        {name:"The Fern Ranthambhore Forest Resort",address:"Ranthambhore Rd, Vivekanandapuram Colony, Sawai Madhopur, Rajasthan 322001, India",phone:"90014 13555"},
+        {name:"The Earth at Ranthambore",address:"Village Khilchipur, Ranthambore Road, near Helipad, Sawai Madhopur, Rajasthan 322001, India",phone:"91161 69001"},
+        {name:"SinghVilas, Ranthambore",address:"Chharoda, Rajasthan 322029, India",phone:"92576 75557"},
+        {name:"The Tiger Villa – Ranthambore",address:"Ranthambhore Rd, Sawai Madhopur, Rajasthan 322001, India",phone:"96101 11039"}
+      ],
+      Restaurant:[
+        {name:"Jharokha Restaurant – Mount Valley Resort",address:"Ranthambore Mount Valley Resort, Ranthambhore Rd, Vivekanandapuram Colony, Sawai Madhopur, Rajasthan 322001, India",phone:""},
+        {name:"Ranthambore Restaurant & Café",address:"Ranthambhor Rd, opposite Krishna Marriage Garden, Subhash Nagar, Saptar, Sawai Madhopur, Rajasthan 322001, India",phone:"80587 74035"},
+        {name:"Ranthambhore Chopati – AC Restaurant & Multi‑Cuisine",address:"Ranthambhor Rd, opposite FCI godown, Subhash Nagar, Saptar, Sawai Madhopur, Rajasthan 322001, India",phone:"97833 79833"},
+        {name:"Tokio House Cafe & Rooftop Restaurant Ranthambore",address:"3 & 4 Floor, Hotel Saif, Ranthambhor Rd, near Ramsingh Hospital, Saptar, Sawai Madhopur, Rajasthan 322001, India",phone:""},
+        {name:"Chulha Restaurant",address:"Ranthambhor Rd, Saptar, Sawai Madhopur, Rajasthan 322001, India",phone:"98751 08402"},
+        {name:"Goyal’s (Food Circle)",address:"Ranthambore Cir, New Colony, Sawai Madhopur, Rajasthan 322001, India",phone:"96944 54776"},
+        {name:"Angeethi Restaurant",address:"Ranthambore National Park, Kisanpura Dhani Road, Subhash Nagar, Saptar, Sawai Madhopur, Rajasthan 322001, India",phone:"88756 06661"},
+        {name:"The Taste Cafe and Restaurant",address:"Ranthambhor Rd, near Ramsingh Hospital, Saptar, Sawai Madhopur, Rajasthan 322001, India",phone:"98874 85950"}        
+      ],
+      Cab:[
+        {name:"Ranthambore Taxi",phone:"99283 99846"},
+        {name:"Ranthambore Cab Service",phone:"70738 61725"},
+        {name:"Nandini Cab Ranthambore",phone:"97853 05995"},
+        {name:"Ranthambore Car Rental Taxi Service",phone:"77422 40574"}, 
+        {name:"Rajputana Cabs – Ranthambore Service",phone:"99283 99846"}
+      ]
+    }
   },
 
   Goa:{
@@ -926,6 +1564,7 @@ document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("city").addEventListener("change", loadServices);
 
 });
+
 
 
 
