@@ -75,7 +75,7 @@ const data = {
         { name: "Harsh Pal Varanasi Taxi",  phone: "6307878579" },
         { name: "Varanasi Taxi & Tempo",  phone: "9451819171" },
         { name: "Varanasi Taxi Cab",  phone: "9839239496" }
-      ],
+      ]
     },
     Prayagraj:{
       Hote:[
@@ -144,7 +144,8 @@ const data = {
         {name:"Udupi Ayodhya Food Palace",address:"Ram Path Rd, beside Chhoti Devkali Mandir, Tulsi Nagar, Ayodhya, Uttar Pradesh 224123, India",phone:""},
         {name:"The Aura Restaurant (Pure Vegetarian)",address:"1633, Ram Path Rd, opposite ITI Phase 3, Awadhpuri Colony, Beniganj, Ayodhya, Uttar Pradesh 224001, India",phone:"63869 03300"},
         {name:"Classic Awadh Restaurant",address:"Bypass near Mohobra, near Yash Hotel & Resort, Deokali, Ayodhya, Uttar Pradesh 224135, India",phone:"78270 83997"},
-        {name:"Chandra Marwadi – Best Veg Family Restaurant",address:"Shringar Haat, near Hanuman Ghadi & Janmabhoomi Path, Tulsi Nagar, Ayodhya, Uttar Pradesh 224123, India",phone:"90444 33866"}      ],
+        {name:"Chandra Marwadi – Best Veg Family Restaurant",address:"Shringar Haat, near Hanuman Ghadi & Janmabhoomi Path, Tulsi Nagar, Ayodhya, Uttar Pradesh 224123, India",phone:"90444 33866"}    
+      ],
       Cab:[
         {name:"Ayodhya Taxi (General Service)",phone:"72758 80088"},
         {name:"Rajputana Cabs – Ayodhya Taxi Service",phone:"82093 51141 / +91 99283 99846 / +91 99830 10250"},
@@ -710,7 +711,8 @@ const data = {
         {name:"Green All India Tourist",phone:"97851 70623"},
         {name:"Sailani Tours And Travels",phone:"94141 11352"},
         {name:"Paras Mani Taxi Services",phone:"99284 59077"},
-        {name:"Chittorgarh Car Rental",phone:"70730 35335"}      ]
+        {name:"Chittorgarh Car Rental",phone:"70730 35335"}    
+      ]
     },
     Ranthombore:{
       Hotel:[
@@ -967,8 +969,8 @@ const data = {
         {name:"Munnar Taxi Service / Love And Peace / Tourist Places",Phone:"94465 85792 /94961 91567"},
         {name:"Munnar Green Parrot Tours",Phone:"85906 95428 / 75598 89428"},
         {name:"Munnar Taxi – Royal Travels",Phone:"98423 35457 / 73738 12345"},
-        {name:"Munnar Cabs – Munnar Cabs & Taxi Service",Phone:"99617 74772"},
-        {name:"",Phone:""}
+        {name:"Munnar Cabs – Munnar Cabs & Taxi Service",Phone:"99617 74772"}
+       
       ]
     },
     Kochi:{
@@ -1141,19 +1143,8 @@ const data = {
         {name:"Rice Boat pure vegetarian Restaurant",address:"Mullakkal area",Phone:"477 2232500"},
         {name:"AL RAZI RESTAURANT ALAPPUZHA",address:"Pazhaveedu, Alappuzha",Phone:"90370 45377"},
         {name:"HOTEL BROTHERS",address:"General Hospital Rd, Alappuzha",Phone:"477 2238844"},
-        {name:"Avees Puttu House Restaurant",address:"Pulincunnoo area",Phone:"94950 41234"},
-        {name:"",address:"",Phone:""},
-        {name:"",address:"",Phone:""},
-        {name:"",address:"",Phone:""},
-        {name:"",address:"",Phone:""},
-        {name:"",address:"",Phone:""},
-        {name:"",address:"",Phone:""},
-        {name:"",address:"",Phone:""},
-        {name:"",address:"",Phone:""},
-        {name:"",address:"",Phone:""},
-        {name:"",address:"",Phone:""},
-        {name:"",address:"",Phone:""},
-        {name:"",address:"",Phone:""},
+        {name:"Avees Puttu House Restaurant",address:"Pulincunnoo area",Phone:"94950 41234"}
+       
       ],
       Cab:[
         {name:"Alleppey Cab Taxi Service",phone:"94007 73028 /94965 62292"},
@@ -1439,7 +1430,7 @@ const data = {
         {name:"Kalimpong Cabs (Private)",phone:"97336 55055"},
         {name:"Sunrise Taxi & Tours Kalimpong",phone:"97330 44999"}
       ]
-    },
+    }
   }
 };
 
@@ -1505,6 +1496,7 @@ document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("city").addEventListener("change", loadServices);
 
 });
+
 
 
 
