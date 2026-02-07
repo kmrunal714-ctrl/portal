@@ -1439,11 +1439,16 @@ function loadCities() {
   const state = document.getElementById("state").value;
   const city = document.getElementById("city");
 
-  city.innerHTML = `<option value="">Select City</option>`;
-  document.getElementById("serviceButtons").innerHTML = "";
-  document.getElementById("cards").innerHTML = "";
+  console.log("Selected state:", state);
+  console.log("Data object:", data);
+  console.log("State data:", data ? data[state] : "data missing");
 
-  if (!state || !data[state]) return;
+  city.innerHTML = `<option value="">Select City</option>`;
+
+  if (!data || !data[state]) {
+    alert("State data NOT FOUND. Check console.");
+    return;
+  }
 
   Object.keys(data[state]).forEach(c => {
     const opt = document.createElement("option");
@@ -1452,6 +1457,7 @@ function loadCities() {
     city.appendChild(opt);
   });
 }
+
 
 /* ---------------- LOAD SERVICES ---------------- */
 function loadServices() {
@@ -1496,6 +1502,7 @@ document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("city").addEventListener("change", loadServices);
 
 });
+
 
 
 
