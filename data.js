@@ -245,16 +245,7 @@ const data = {
         {name:"Prayagraj-Agra Taxi",phone:"93058 98722"}
       ]
     }
-  },
-
-  Maharashtra:{
-    
-  },
-
-  Gujarat: {
-    
-  },
-  
+  }, 
   Rajasthan:{
     Jaipur:{
       Hotel:[
@@ -590,7 +581,7 @@ const data = {
       ],
       Cab:[
         {name:"Payal Cab – Taxi Service in Kumbhalgarh",phone:"84600 07788"},
-        {name:"Kumbhalgarh Taxi – Rajputana Cabs",phone:"99830 10250 /99283 99846"}
+        {name:"Kumbhalgarh Taxi – Rajputana Cabs",phone:"99830 10250 /99283 99846"},
         {name:"Noru Cab",phone:"96940 54509"},
         {name:"Kumbhalgarh Taxi Service",phone:"94603 24919"}
       ]
@@ -1433,6 +1424,7 @@ document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("city").addEventListener("change", loadServices);
 
 });
+
 
 
 
