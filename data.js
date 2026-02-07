@@ -2,51 +2,15 @@ const data = {
   Uttarapradesh: {
     Varanasi: {
       Hotel: [
-        {
-           name: "Teerth Guest House",
-           address: "D 8/9 Kalika Gali, Near Golden Temple, Dashashwamedh, Varanasi 221001",
-           phone: "9452790257"
-       },
-       {
-         name: "Gayatri Paying Guest House",
-         address: "Nathusha Bramhapuri, D27/2,Near Joshi Tour Travels, Bangali Tola, Varanasi 221001",
-         phone: "9236176224"},
-
-         {
-          name: "Primeland Hotel ",
-          address: "Lakhanpur, GT road , Bhullanpur, Varanasi 221108",
-          phone: "9151800876"
-         },
-        {
-          name: "Hotel The Rising Banaras",
-          address: "Building No. 257, Kanchan vihar  colony, Manduwadih, Varanasi 221103",
-          phone: "9005550920"
-         },
-          {
-            name: "Vanshivat ",
-            address: "D63/11-A-N, A-K, Mahmoorganj, Varanasi 221010",
-            phone: "7080150354"
-            },
-          {
-            name: "Shree Sai Kripa Guest House",
-            address: "B3/ 226, Shivala, Varanasi 221001",
-            phone: "8707896452"
-          },
-          {
-            name: "Collection O",
-            address: "Karaudi Marg Chittaipur Monja, Newada, Varanasi 221005",
-            phone: "0124 4330599"
-          },
-          {
-          name: "A P Residency",
-          address: "K 61/150, Bulanala, Varanasi 221001",
-          phone: "8400511581 , 9598500302"
-        },
-        {
-          name: "Go Stops Lite Varanasi ",
-          address: "Plot No. B-20/47, A-2 Vijaya Nagaram Colony Behind LG Store on Three Way Junction next to Bhelupur Overhead Water Tank, Bhelupur, Varanasi, 221010",
-          phone: "7428882828"
-        }
+        { name: "Teerth Guest House", address: "D 8/9 Kalika Gali, Near Golden Temple, Dashashwamedh, Varanasi 221001",phone: "9452790257"},
+        {name: "Gayatri Paying Guest House", address: "Nathusha Bramhapuri, D27/2,Near Joshi Tour Travels, Bangali Tola, Varanasi 221001",phone: "9236176224"},
+        { name: "Primeland Hotel ",address: "Lakhanpur, GT road , Bhullanpur, Varanasi 221108",phone: "9151800876"},
+        { name: "Hotel The Rising Banaras", address: "Building No. 257, Kanchan vihar  colony, Manduwadih, Varanasi 221103",phone: "9005550920"},
+        {name: "Vanshivat ",address: "D63/11-A-N, A-K, Mahmoorganj, Varanasi 221010",phone: "7080150354"},
+        {name: "Shree Sai Kripa Guest House",address: "B3/ 226, Shivala, Varanasi 221001",phone: "8707896452"},
+        {name: "Collection O",address: "Karaudi Marg Chittaipur Monja, Newada, Varanasi 221005",phone: "0124 4330599"},
+        {name: "A P Residency",address: "K 61/150, Bulanala, Varanasi 221001",phone: "8400511581 / 9598500302" },
+        {name: "Go Stops Lite Varanasi ",address: "Plot No. B-20/47, A-2 Vijaya Nagaram Colony Behind LG Store on Three Way Junction next to Bhelupur Overhead Water Tank, Bhelupur, Varanasi, 221010",phone: "7428882828"}
       ],
       
       Cab: [
@@ -59,7 +23,7 @@ const data = {
         { name: "Varanasi Airport Cab", phone: "9956274000" },
         { name: "Sachin Travels",  phone: "8299503337" },
         { name: "Varanasi Book Taxi",  phone: "9616055877" },
-        { name: "Varanai Taxi wale",  phone: "9335940050" },
+        { name: "Varanasi Taxi wale",  phone: "9335940050" },
         { name: "Kashi Cabs",  phone: "7705980251" },
         { name: "Varanasi Best Cab",  phone: "9616761641" },
         { name: "Book Cab Varanasi",  phone: "9838409911" },
@@ -148,7 +112,6 @@ const data = {
         {name:"Taxi Upadhyay – Ayodhya Cab Partner",phone:"91515 19555"},
         {name:"99 City Cabs (Ayodhya)",phone:"89418 08081"}
       ]
-
     },
     Mathura:{
       Hotel:[
@@ -285,36 +248,11 @@ const data = {
   },
 
   Maharashtra:{
-    Pune: {
-      Hotel: [
-    {
-      name: "Pune Residency",
-      address: "FC Road",
-      phone: "3333333333",
-      link: "https://maps.google.com"
-    },
-    {
-      name: "Grand Pune Hotel",
-      address: "Baner",
-      phone: "4444444444",
-      link: "https://maps.google.com"
-    }      
-  ],
-      Restaurant: [
-        { name: "Spice Garden", address: "JM Road", phone: "9898989898", link: "https://maps.google.com" }
-      ],
-      Cab: [
-
-      ],
-    }
+    
   },
 
   Gujarat: {
-    Surat: {
-      Hotel: [
-        { name: "Surat Inn", address: "Station Road", phone: "2222222222", link: "https://maps.google.com" }
-      ]
-    }
+    
   },
   
   Rajasthan:{
@@ -1495,6 +1433,7 @@ document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("city").addEventListener("change", loadServices);
 
 });
+
 
 
 
