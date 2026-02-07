@@ -5,71 +5,55 @@ const data = {
         {
            name: "Teerth Guest House",
            address: "D 8/9 Kalika Gali, Near Golden Temple, Dashashwamedh, Varanasi 221001",
-           phone: "9452790257",
-          link: ""
+           phone: "9452790257"
        },
        {
          name: "Gayatri Paying Guest House",
          address: "Nathusha Bramhapuri, D27/2,Near Joshi Tour Travels, Bangali Tola, Varanasi 221001",
-         phone: "9236176224",
-         link: ""
-        },
+         phone: "9236176224"},
 
          {
           name: "Primeland Hotel ",
           address: "Lakhanpur, GT road , Bhullanpur, Varanasi 221108",
-          phone: "9151800876",
-          link: "https://maps.google.com"
+          phone: "9151800876"
          },
         {
           name: "Hotel The Rising Banaras",
           address: "Building No. 257, Kanchan vihar  colony, Manduwadih, Varanasi 221103",
-          phone: "9005550920",
-          link: "https://maps.google.com"
+          phone: "9005550920"
          },
           {
             name: "Vanshivat ",
             address: "D63/11-A-N, A-K, Mahmoorganj, Varanasi 221010",
-            phone: "7080150354",
-            link: "https://maps.google.com"
+            phone: "7080150354"
             },
           {
             name: "Shree Sai Kripa Guest House",
             address: "B3/ 226, Shivala, Varanasi 221001",
-            phone: "8707896452",
-            link: "https://maps.google.com"
+            phone: "8707896452"
           },
           {
             name: "Collection O",
             address: "Karaudi Marg Chittaipur Monja, Newada, Varanasi 221005",
-            phone: "0124 4330599",
-            link: "https://maps.google.com"
+            phone: "0124 4330599"
           },
           {
           name: "A P Residency",
           address: "K 61/150, Bulanala, Varanasi 221001",
-          phone: "8400511581 , 9598500302",
-          link: "https://maps.google.com"
+          phone: "8400511581 , 9598500302"
         },
         {
           name: "Go Stops Lite Varanasi ",
           address: "Plot No. B-20/47, A-2 Vijaya Nagaram Colony Behind LG Store on Three Way Junction next to Bhelupur Overhead Water Tank, Bhelupur, Varanasi, 221010",
-          phone: "7428882828",
-          link: "https://maps.google.com"
-        },
+          phone: "7428882828"
+        }
       ],
       Restaurant: [
         {
-          name: "Royal Dhaba",
-          address: "Highway",
-          phone: "8888888888",
-          link: "https://maps.google.com"
+         
         },
         {
-          name: "Food Court",
-          address: "City Center",
-          phone: "6666666666",
-          link: "https://maps.google.com"
+         
         }
       ],
       Cab: [
@@ -90,262 +74,219 @@ const data = {
         { name: "Anay Car Rental",  phone: "8707460480" },
         { name: "Harsh Pal Varanasi Taxi",  phone: "6307878579" },
         { name: "Varanasi Taxi & Tempo",  phone: "9451819171" },
-        { name: "Varanasi Taxi Cab",  phone: "9839239496" },
+        { name: "Varanasi Taxi Cab",  phone: "9839239496" }
       ],
     },
     Prayagraj:{
       Hote:[
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""}
+        {name:"WelcomHeritage Badi Kothi",address:"Nirala Marg, Buxi Khurd, Daraganj, Prayagraj, Uttar Pradesh 211006, India",phone:"95192 92271"},
+        {name:"Hotel Kanha Shyam",address:"22/1, Strachey Road, Civil Lines, Prayagraj, Uttar Pradesh 211001, India",phone:"97922 03853"},
+        {name:"Grand Continental Hotel",address:"No 13, The Grand Plaza, Sardar Patel Marg, near PVR Cinemas, Civil Lines, Prayagraj, Uttar Pradesh 211001, India",phone:"95175 56630"},
+        {name:"Radisson Hotel Prayagraj",address:"Mauza Naseebpur Bakhtiara, Plot no. 24/19D, Sarojini Naidu Marg, Prayagraj, Uttar Pradesh 211001, India",phone:"53235 06400"},
+        {name:"The Legend Hotel",address:"23C, Thornhill Road, Civil Lines, Prayagraj, Uttar Pradesh 211001, India",phone:"70803 05807"},
+        {name:"Hotel Ganges Majestic",address:"Bakshi Kala, Buxi Khurd, Daraganj, Prayagraj, Uttar Pradesh 211006, India",phone:"91409 56939"},
+        {name:"Millennium Inn, Prayagraj",address:"07F/06A, Hastings Rd, near Allahabad High Court, Canton, Dhoomanganj, Prayagraj, Uttar Pradesh 211001, India",phone:"72338 85888"},
+        {name:"Hotel Raj mahal palace",address:"Plot No 21A, Maharshi Dayanand Marg, Mohalla, Pargana, Prayagraj, Uttar Pradesh 211001",phone:"12443 30599"},
+        {name:"Hotel Yatrik",address:"33, Sardar Patel Marg, Agnipath Colony, Civil Lines, Prayagraj, Uttar Pradesh 211001, India",phone:"95599 90926"},
+        {name:"Hotel Golden Tree",address:"3/15, Patrika Marg, Agnipath Colony, Civil Lines, Prayagraj, Uttar Pradesh 211001, India",phone:"79058 42039"},
+        {name:"Hotel Placid",address:"161/48 Anukool Chandra Banarjee Marg, Tagore Town, Prayagraj, Uttar Pradesh 211002, India",phone:"73111 75175"},
+        {name:"PICASSO",address:"10-14 Layall Road, Patrika Marg, Agnipath Colony, Civil Lines, Prayagraj, Uttar Pradesh 211001, India",phone:"88583 26190"},
+        {name:"Ganga Yamuna View",address:"Arazi no. 31K, in front of VIP Ghat, Barail Road, Sachcha Baba Nagar, Prayagraj, Uttar Pradesh 211008, India",phone:"85650 84946"},
+        {name:"Kushwaha stayroom",address:"527, Kushwaha Nagar, Naini, Prayagraj, Uttar Pradesh 211008, India",phone:"90698 79587"},
+        {name:"HIGHSEAS HOTEL",address:"H-70, near ADA, Mukta Vihar, Naini, Prayagraj, Uttar Pradesh 211010, India",phone:"81301 17959"}
       ],
       Restaurant:[
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""}
-      ],
+        {name:"Krazy Panda Cafe & Veg Restaurant",address:"17/23A, Shiv Ram Das Gulati Marg, Manmohan Park, Old Katra, Prayagraj, Uttar Pradesh 211002, India",phone:"96966 44054"},
+        {name:"The Art of Spices (AOS) - A Pure Veg Multicuisine Restaurant",address:"Millennium Inn, Nyaya Marg, near Hanuman Mandir, Canton, Dhoomanganj, Prayagraj, Uttar Pradesh 211001, India",phone:"95658 83888"},
+        {name:"Flavours Restaurant",address:"Hanuman Mandir, Mahatma Gandhi Marg, near High Court, Canton, Dhoomanganj, Prayagraj, Uttar Pradesh 211001, India",phone:""},
+        {name:"Sardaar Ji Dhaba - Prayagraj",address:"138C, Mahatma Gandhi Marg, near El Chico, Civil Lines, Prayagraj, Uttar Pradesh 211001, India",phone:"88828 97431"},
+        {name:"The Yellow Chilli Prayagraj",address:"5th Floor, WP Arena Mall, Lal Bahadur Shastri Marg, Civil Lines, Prayagraj, Uttar Pradesh 211001, India",phone:"78806 01524"},
+        {name:"Rasoi Restaurant Pure Veg",address:"22 Leader Road, Junction, inside Hotel Swagatam, Prayagraj, Uttar Pradesh 211003, India",phone:""},
+        {name:"Khana Khazana Restaurant & Cafe",address:"Aditi Apartment, Tashkent Marg, near Aditi Apartment, Civil Lines, Prayagraj, Uttar Pradesh 211001, India",phone:"73760 48336"},
+        {name:"EL Chico Restaurant",address:"142, Mahatma Gandhi Marg, Civil Lines, Prayagraj, Uttar Pradesh 211001, India",phone:"77050 23555"}
+        ],
       Cab:[
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""}
+        {name:"Prayagraj Taxi Service",phone:"93058 98722"},
+        {name:"Pik Cab Service",phone:"88107 51210 / +91 97177 38754"},
+        {name:"SP Taxi Service Prayagraj",phone:"90681 03961"},
+        {name:"EasyGo Cabs (Taxi Booking)",phone:"76688 800800"}
       ]
     },
     Ayodhya:{
-      Hote:[
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""}
+      Hotel:[
+        {name:"The Ramayana Hotel, Ayodhya",address:"Booth No. 4, Shahnewazpur Manjha, Ayodhya, Uttar Pradesh 224135, India",phone:"63869 01835"},
+        {name:"Clarks Inn Express, Ayodhya",address:"Plot No. 79, Basti-Lucknow Rd, Ghatam Pur, Ayodhya, Uttar Pradesh 224001, India",phone:"74598 14200"},
+        {name:"Wanna Stay Ayodhya",address:"Near Rajarshi Dashrath Medical College Devkali Bypass Rd, Darshan Nagar, Faizabad, Uttar Pradesh 224135, India",phone:"94583 94130"},
+        {name:"Hotel Panchsheel, Ayodhya",address:"Near Bypass Crossing NH-27, Deokali, Faizabad, Uttar Pradesh 224001, India",phone:"77068 29463"},
+        {name:"Collection O Ram Mandir Ayodhya (Formerly Hotel Aarambh)",address:"Pargana Haweli, Ghata No. 2476, Shahjahanpur, Faizabad, Uttar Pradesh 224001, India",phone:"12443 30599"},
+        {name:"Hotel Krinoscco",address:"249, Ayodhya-Faizabad Rd, Awadhpuri Colony, Amanigunj, Faizabad, Uttar Pradesh 224001, India",phone:"72750 02525"},
+        {name:"Ramayana Grand Hotel Ayodhya",address:"652/2, Chhoti Devkali Mandir Rd, Tulsi Nagar, Ayodhya, Uttar Pradesh 224123, India",phone:"91513 95008"},
+        {name:"Shree Park Hotel",address:"14, Kosi Parikrama Rd, near R.B.S Lawn, Deen Dayal Nagar, Faizabad, Uttar Pradesh 224133, India",phone:"94557 25238"},
+        {name:"Ramam Hotel – Best Hotels In Ayodhya",address:"Asharfi Bhawan Chauraha Rd, near Union Bank of India, Tulsi Nagar, Ayodhya, Uttar Pradesh 224123, India",phone:"80041 43649"},
+        {name:"Hotel Fortune",address:"Railway Station Rd, near Kori Mandir, Jalwanpura, New Colony, Ayodhya, Uttar Pradesh 224123, India",phone:"92350 01181"},
+        {name:"Hotel Siddhi Palace, Ayodhya",address:"Kami Ganj, Ayodhya, Uttar Pradesh 224123, India",phone:""},
+        {name:"Hotel Sahu Rooms, Ayodhya",address:"Darshan Nagar Market, Faizabad Rd, near Surya Kund, Ayodhya, Uttar Pradesh 224135, India",phone:"75259 35132"},
+        {name:"Hotel The Raghavas’",address:"Jain Mandir Rd, New Colony, Faizabad, Ayodhya, Uttar Pradesh 224123, India",phone:"94534 51513"},
+        {name:"Shree Guest House, Ayodhya",address:"Bypass, Naka, Devkali, Ayodhya, Uttar Pradesh 224133, India",phone:"70071 71809"},
+        {name:"Hotel Raghupati ‑ Ayodhya",address:"State Bank of India, Main Street, Kami Ganj, Faizabad, Ayodhya, Uttar Pradesh 224123, India",phone:"63986 56524"},
+        {name:"RAMA GRAND PALACE",address:"Ayodhya, Uttar Pradesh 224123, India",phone:"81739 41571"},
+        {name:"Ayodhya Palace Hotel and Restaurant",address:"Ashapur Village, Darshan Nagar, Sanethu, Deokaali, Uttar Pradesh 224135, India",phone:"63944 45639"},
+        {name:"Hotel Jayaditya Palace",address:"Shree Ayodhya Ji, Begampura Rd, Tulsi Nagar, Ayodhya, Uttar Pradesh 224123, India",phone:"70682 71144"},
+        {name:"Maa Vaishno Paying Guest House",address:"Anjani Puram Colony Rd, Gayatri Puram, Faizabad, Uttar Pradesh 224001, India",phone:""}
       ],
       Restaurant:[
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""}
-      ],
+        {name:"Dalmia’s Saffron Vatika Restaurant",address:"Shringar Haat, Main Ram Path Rd, near Hanuman Garhi Tiraha, New Colony, Ayodhya, Uttar Pradesh 224123, India",phone:"99363 29497"},
+        {name:"Kake Di Hatti Ayodhya",address:"The Govind Palace, Railway Station Rd, Ayodhya, Uttar Pradesh 224123, India",phone:""},
+        {name:"AWADH KA SWAAD",address:"In front of Tulsi Udyan Rd, near Ram Mandir, Rani Bazar Colony, Ayodhya, Uttar Pradesh 224123, India",phone:"81780 99151"},
+        {name:"Shabri Rasoi",address:"Arundhati Commercial Complex, Tedhi Bazar Rd, Ayodhya, Uttar Pradesh 224123, India",phone:""},
+        {name:"Radha Ratna Restaurant and Rooms",address:"Ram Path Rd, near Lata Mangeshkar Chowk, Nayaghat, Ayodhya, Uttar Pradesh 224123, India",phone:"83539 47477"},
+        {name:"Narus Cafee – Best Restaurant in Ayodhya",address:"Deokali, Ayodhya, Faizabad, Uttar Pradesh 224001, India",phone:"96480 43131"},
+        {name:"Udupi Ayodhya Food Palace",address:"Ram Path Rd, beside Chhoti Devkali Mandir, Tulsi Nagar, Ayodhya, Uttar Pradesh 224123, India",phone:""},
+        {name:"The Aura Restaurant (Pure Vegetarian)",address:"1633, Ram Path Rd, opposite ITI Phase 3, Awadhpuri Colony, Beniganj, Ayodhya, Uttar Pradesh 224001, India",phone:"63869 03300"},
+        {name:"Classic Awadh Restaurant",address:"Bypass near Mohobra, near Yash Hotel & Resort, Deokali, Ayodhya, Uttar Pradesh 224135, India",phone:"78270 83997"},
+        {name:"Chandra Marwadi – Best Veg Family Restaurant",address:"Shringar Haat, near Hanuman Ghadi & Janmabhoomi Path, Tulsi Nagar, Ayodhya, Uttar Pradesh 224123, India",phone:"90444 33866"}      ],
       Cab:[
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""}
+        {name:"Ayodhya Taxi (General Service)",phone:"72758 80088"},
+        {name:"Rajputana Cabs – Ayodhya Taxi Service",phone:"82093 51141 / +91 99283 99846 / +91 99830 10250"},
+        {name:"A.K. Tour Travels – Taxi & Cab Service",phone:"79051 10930"},
+        {name:"SRG Holidays – Ayodhya Taxi Service",phone:"96492 74278"},
+        {name:"Chiku Cab (Taxi Service)",phone:"84484 45504"},
+        {name:"Taxi Upadhyay – Ayodhya Cab Partner",phone:"91515 19555"},
+        {name:"99 City Cabs (Ayodhya)",phone:"89418 08081"}
       ]
 
     },
     Mathura:{
       Hote:[
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""}
+        {name:"Hotel Wingston A Treehouse (Mathura)",address:"Masani Road, Mathura, Uttar Pradesh 281001",phone:"93595 30910"},
+        {name:"Centrum Hotel (Mathura)",address:"Near New Bus Stand, Bhuteshwar Road, Mathura, Uttar Pradesh 281001",phone:"72510 17999 / 72510 18999"},
+        {name:"Hotel Silver Star",address:"Agrasen Chowk, Masani Road, Mathura, Uttar Pradesh 281121",phone:"82187 21674"},
+        {name:"Hotel Silver Star",address:"Agrasen Chowk, Masani Road, Mathura, Uttar Pradesh 281121",phone:"82187 21674"},
+        {name:"Hotel Heera Crystal Inn",address:"Maghora, Dampier Nagar, Mathura, Uttar Pradesh 281001",phone:"90129 29000"},
+        {name:"Yogiraj Hotel and Restaurant",address:"Opposite Roadways Workshop, Near New Bus Stand, Mathura, Uttar Pradesh 281001",phone:"96349 30400"},
+        {name:"Classic Hotel / Restaurant",address:"Opposite Shri Krishna Janmabhoomi Main Gate, Mathura, Uttar Pradesh 281004",phone:"90581 94884"},
+        {name:"Gokul Residency (typical guest house in Mathura)",address:"Near Shri Krishna Janmabhoomi, Mathura, Uttar Pradesh 281004",phone:""},
+        {name:"Hotel Braj Heritage",address:"Mathura – Vrindavan Road, Mathura, Uttar Pradesh",phone:""},
+        {name:"Brijvasini Palace",address:"Station Road, Mathura, Uttar Pradesh",phone:""},
+        {name:"Hotel Radha Govind Palace",address:"Near Vishram Ghat, Mathura, Uttar Pradesh",phone:""}
       ],
       Restaurant:[
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""}
-      ],
+        {name:"Hotel Wingston Restaurant (Mathura)",address:"Masani Road, Mathura, Uttar Pradesh",phone:"93595 30910"},
+        {name:"Centrum Restaurant (Mathura)",address:"Near New Bus Stand, Bhuteshwar Road, Mathura, Uttar Pradesh",phone:"72510 17999 / 72510 18999"},
+        {name:"Hotel Silver Star Restaurant",address:"Agrasen Chowk, Masani Road, Mathura, Uttar Pradesh",phone:"82187 21674"},
+        {name:"Yogiraj Restaurant",address:"Opposite Roadways Workshop, Near New Bus Stand, Mathura, Uttar Pradesh",phone:"96349 30400"},
+        {name:"Classic Hotel Restaurant",address:"Opposite Shri Krishna Janmabhoomi Main Gate, Mathura, Uttar Pradesh",phone:"90581 94884"},
+        {name:"Braj Bhoomi Restaurant",address:"Near Vishram Ghat, Mathura, Uttar Pradesh",phone:""},
+        {name:"Prem Rasoi Family Restaurant",address:"Near Prem Mandir Road, Mathura, Uttar Pradesh",phone:""},
+        {name:"Govardhan Restaurant & Café",address:"Near Radha Kund Rd, Mathura, Uttar Pradesh",phone:""}
+        ],
       Cab:[
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""}
+        {name:"Mathura Taxi Service (General)",phone:"91490 97395"},
+        {name:"Mathura Taxi (alternate local cab)",phone:"92588 75464"},
+        {name:"Vrindavan Mathura Taxi",phone:"73028 66720"},
+        {name:"Mathura Cab Hub",phone:"96345 28385 / +91 90589 36002"},
+        {name:"Bharat Taxi (Mathura taxi)",phone:"96960 09999"},
+        {name:"Matrix Cab (Mathura)",phone:"86029 20292"},
+        {name:"Laksh Taxi (Mathura)",phone:"95326 07945"},
+        {name:"Mathura Vrindavan Taxi Office",phone:"81715 80444"}
       ]
-
     },
     Vrindavan:{
       Hote:[
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""}
+        {name:"Nidhivan Sarovar Portico",address:"Radha Raman Mandir Rd, Nidhivan, Vrindavan, Uttar Pradesh 281121",phone:"98976 48150"},
+        {name:"Park Plaza Vrindavan",address:"Govardhan Rd, opposite ISKCON Temple, Vrindavan, Uttar Pradesh 281121",phone:"92199 44222"},
+        {name:"Hotel Giriraj International",address:"44, Chhatikara Rd, Vrindavan, Uttar Pradesh 281121",phone:"98180 11447"},
+        {name:"Govind Grand Hotel",address:"Radha Raman Mandir Rd, Nidhivan, Vrindavan, Uttar Pradesh 281121",phone:"98375 99924"},
+        {name:"Hotel Brij Vasini",address:"Birju Bazar, Vrindavan, Uttar Pradesh 281121",phone:"99582 12226"},
+        {name:"Radhe Inn Vrindavan",address:"Bansipura, Vrindavan, Uttar Pradesh 281121",phone:"98370 31090"},
+        {name:"Hotel Vrindavan Dham",address:"Big Bazaar Rd, Vrindavan, Uttar Pradesh 281121",phone:"95878 12701"},
+        {name:"Brijwa Resort & Spa",address:"Goverdhan Rd, Vrindavan, Uttar Pradesh 281121",phone:"87547 77771"},
+        {name:"Hotel Rajmahal",address:"Vrindavan Main Rd, Vrindavan, Uttar Pradesh 281121",phone:"99173 65221"},
+        {name:"Brijvasini Villa",address:"Opposite Prem Mandir, Vrindavan, Uttar Pradesh 281121",phone:"94125 05127"},
+        {name:"Hotel Sheela Inn",address:"Radha Rani Bazaar, Vrindavan, Uttar Pradesh 281121",phone:"98971 90717"},
+        {name:"Hotel Tower Inn Vrindavan",address:"NH2, Govardhan Rd, Near Kosi Crossing, Vrindavan, Uttar Pradesh 281121",phone:"98378 40656"},
+        {name:"Populyar Inn Vrindavan",address:"Big Bazaar Rd, Vrindavan, Uttar Pradesh 281121",phone:"98739 99953"},
+        {name:"Hotel Radha Ashok",address:"Prem Mandir Rd, Vrindavan, Uttar Pradesh 281121",phone:"81711 32786"},
+        {name:"Hotel Paras Vrindavan",address:"Radha Rani Bazaar, Vrindavan, Uttar Pradesh 281121",phone:"93587 65478"},
+        {name:"Brij International Hotel",address:"Radha Rani Bazaar, Vrindavan, Uttar Pradesh 281121",phone:"98978 21345"},
+        {name:"Hotel Amar Palace",address:"NH2, Govardhan Rd, Kosi, Vrindavan, Uttar Pradesh 281121",phone:"98182 22410"}
       ],
       Restaurant:[
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""}
+        {name:"Brijwasi Rasoi Restaurant",address:"Radha Rani Bazaar, Vrindavan, Uttar Pradesh 281121",phone:"95374 23007"},
+        {name:"Govinda’s Restaurant (ISKCON)",address:"ISKCON Temple Complex, Goverdhan Rd, Vrindavan, Uttar Pradesh 281121",phone:"78918 88880"},
+        {name:"The Palate Restaurant",address:"Park Plaza, Govardhan Rd, Vrindavan, Uttar Pradesh 281121",phone:"92199 44222"},
+        {name:"Chappan Bhog Restaurant",address:"Near ISKCON Temple, Backside, Govardhan Rd, Vrindavan, Uttar Pradesh 281121",phone:"94540 14888"},
+        {name:"Brijwale Restaurant & Kitchen",address:"Radha Rani Bazaar, Vrindavan, Uttar Pradesh 281121",phone:"92196 92882"},
+        {name:"Sattvik Restaurant",address:"Prem Mandir Rd, Vrindavan, Uttar Pradesh 281121",phone:"99581 22055"},
+        {name:"Lassi Wala (Classic Lassi & Sweets)",address:"Radha Rani Bazaar, Vrindavan, Uttar Pradesh 281121",phone:"94123 55544"},
+        {name:"Madhuban Restaurant",address:"Goverdhan Rd, Vrindavan, Uttar Pradesh 281121",phone:"95266 99887"},
+        {name:"Brj Food Court",address:"Near Big Bazaar Rd, Vrindavan, Uttar Pradesh 281121",phone:"99582 77441"},
+        {name:"Prem Rasoi Family Restaurant",address:"Near Prem Mandir, Vrindavan, Uttar Pradesh 281121",phone:"81711 32786"},
+        {name:"Brij Fast Food Center",address:"Radha Rani Bazaar, Vrindavan, Uttar Pradesh 281121",phone:"89568 22011"}
       ],
       Cab:[
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""}
+        {name:"Vrindavan Taxi Service (Local & Outstation)",phone:"73028 66720"},
+        {name:"Mathura-Vrindavan Cab Service",phone:"96345 28385"},
+        {name:"Bharat Taxi (Vrindavan)",phone:"96960 09999"},
+        {name:"Matrix Cab (Vrindavan)",phone:"86029 20292"},
+        {name:"Laksh Taxi (Vrindavan)",phone:"95326 07945"},
+        {name:"Ayodhya - Mathura-Vrindavan Taxi",phone:"82093 51141"},
+        {name:"EasyGo Cabs (Vrindavan/Mathura region)",phone:"76688 800800"},
+        {name:"SP Taxi Service (Vrindavan Region)",phone:"90681 03961"},
+        {name:"Prayagraj/Vrindavan Taxi Service",phone:"93058 98722"}     
       ]
-
     },
     Agra:{
       Hote:[
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""}
+        {name:"The Oberoi Amarvilas",address:"Taj East Gate Road, Agra, Uttar Pradesh 282001",phone:"562 223 4100"},
+        {name:"ITC Mughal, a Luxury Collection Hotel",address:"Taj Ganj, Agra, Uttar Pradesh 282001",phone:"562 222 0111"},
+        {name:"Taj Hotel & Convention Centre Agra",address:"Fatehabad Road, Agra, Uttar Pradesh 282001",phone:"562 490 0000"},
+        {name:"Trident Agra",address:"Fatehabad Road, Agra, Uttar Pradesh 282001",phone:"562 223 1234"},
+        {name:"Jaypee Palace Hotel & Convention Centre Agra",address:"Taj Ganj, Agra, Uttar Pradesh 282001",phone:"562 223 1234"},
+        {name:"Hotel Clarks Shiraz",address:"Fatehabad Road, Agra, Uttar Pradesh 282001",phone:"562 223 8018"},
+        {name:"Courtyard by Marriott Agra",address:"Fatehabad Road, Agra, Uttar Pradesh 282001",phone:"562 405 5000"},
+        {name:"Maurya Agra",address:"SBI Bank Road, Railway Station, Agra, Uttar Pradesh 282002",phone:"562 223 4777"},
+        {name:"Radisson Hotel Agra",address:"Pacific Heights, Taj Nagri Phase 2, Agra, Uttar Pradesh 282001",phone:"562 223 3000"},
+        {name:"Hotel Taj Resorts",address:"Fatehabad Road, Agra, Uttar Pradesh 282001",phone:"562 490 8999"},
+        {name:"Hotel Sidhartha",address:"Fatehabad Road, Agra, Uttar Pradesh 282001",phone:"562 401 4000"},
+        {name:"Hotel Amar",address:"Fatehabad Road, Agra, Uttar Pradesh 282001",phone:"562 233 4000"},
+        {name:"Howard Plaza The Fern",address:"Fatehabad Road, Agra, Uttar Pradesh 282001",phone:"562 223 2300"},
+        {name:"Hotel Alleviate",address:"Fatehabad Road, Agra, Uttar Pradesh 28200",phone:"90693 95959"},
+        {name:"Hotel Crystal Inn",address:"Taj Nagri Phase II, Agra, Uttar Pradesh 282001",phone:"98970 13903"},
+         {name:"The Retreat Agra by My Fortune",address:"Fatehabad Road, Agra, Uttar Pradesh 282001",phone:"562 490 2700"},
+         {name:"Hotel Atulyaa Taj",address:"Fatehabad Road, Agra, Uttar Pradesh 282001",phone:"562 490 0222"},
+         {name:"Hotel Clarks Avadh",address:"SBI Bank Road, Agra, Uttar Pradesh 282002",phone:"562 400 2222"},
+         {name:"Hotel Kamal Heritage",address:"Opposite Sadar Bazar, Agra, Uttar Pradesh 282001",phone:"562 222 7770"},
+         {name:"Hotel Maanagar",address:"Near Agra Fort, Agra, Uttar Pradesh 282001",phone:"98182 28123"}
       ],
       Restaurant:[
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""},
-        {name:"",address:"",phone:""}
+        {name:"Pinch of Spice",address:"32/26, Fatehabad Road, Agra, Uttar Pradesh 282001",phone:"562 401 9100"},
+        {name:"Peshawri Restaurant",address:"ITC Mughal Hotel, Taj Ganj, Agra, Uttar Pradesh 282001",phone:"562 222 0111"},
+        {name:"Esphahan",address:"The Oberoi Amarvilas Hotel, Agra, Uttar Pradesh 282001",phone:"562 223 4100"},
+        {name:"Jahanpanah Bistro & Cafe",address:"Taj Nagri Phase II, Agra, Uttar Pradesh 282001",phone:"562 223 2200"},
+        {name:"Dasaprakash Restaurant (South Indian)",address:"Fatehabad Road, Agra, Uttar Pradesh 282001",phone:"562 329 9800"},
+        {name:"Shankara Vegis Restaurant",address:"Fatehabad Road, Agra, Uttar Pradesh 282001",phone:"562 402 2323"},
+        {name:"The Mango Tree Restaurant",address:"Fatehabad Road, Agra, Uttar Pradesh 282001",phone:"562 223 4455"},
+        {name:"Joney’s Place",address:"Fatehabad Road, Agra, Uttar Pradesh 282001",phone:"92195 45454"},
+        {name:"Tea’se Me Café",address:"Opposite Taj Mahal, Taj Ganj, Agra, Uttar Pradesh 282001",phone:"95699 67999"},
+        {name:"Shankara Restaurant & Bar",address:"Fatehabad Road, Agra, Uttar Pradesh 282001",phone:"562 402 2323"},
+        {name:"Cream Centre",address:"Fatehabad Road, Agra, Uttar Pradesh 282001",phone:"562 329 9800"},
+        {name:"Balaji Restaurant Agra",address:"Fatehabad Road, Agra, Uttar Pradesh 282001",phone:"562 223 4555"},
+        {name:"Oasis Restaurant",address:"Near Agra Fort, Agra, Uttar Pradesh 282001",phone:"562 223 5566"},
+        {name:"Raja Ki Rasoi",address:"Fatehabad Road, Agra, Uttar Pradesh 282001",phone:"562 490 1234"}
       ],
       Cab:[
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""},
-        {name:"",phone:""}
+        {name:"Agra Taxi Service (Local & Outstation)",phone:"99280 14777"},
+        {name:"Agra Cab Service",phone:"93588 31510"},
+        {name:"Rajputana Cabs – Agra Taxi Service",phone:"82093 51141"},
+        {name:"Mathura-Agra Taxi Service",phone:"73028 66720"},
+        {name:"Bharat Taxi (Agra)",phone:"96960 09999"},
+        {name:"Matrix Cab (Agra)",phone:"86029 20292"},
+        {name:"Laksh Taxi (Agra)",phone:"95326 07945"},
+        {name:"EasyGo Cabs (Agra / NCR)",phone:"76688 800800"},
+        {name:"SP Taxi Service (Agra Region)",phone:"90681 03961"},
+        {name:"Prayagraj-Agra Taxi",phone:"93058 98722"}
       ]
-
     }
   },
 
@@ -1564,6 +1505,7 @@ document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("city").addEventListener("change", loadServices);
 
 });
+
 
 
 
