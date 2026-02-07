@@ -48,14 +48,7 @@ const data = {
           phone: "7428882828"
         }
       ],
-      Restaurant: [
-        {
-         
-        },
-        {
-         
-        }
-      ],
+      
       Cab: [
         { name: "Varanasi CAB",  phone: "9453788158" },
         { name: "Varanasi Taxi Services",  phone: "8887999562"},
@@ -1502,6 +1495,7 @@ document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("city").addEventListener("change", loadServices);
 
 });
+
 
 
 
