@@ -78,7 +78,7 @@ const data = {
       ]
     },
     Prayagraj:{
-      Hote:[
+      Hotel:[
         {name:"WelcomHeritage Badi Kothi",address:"Nirala Marg, Buxi Khurd, Daraganj, Prayagraj, Uttar Pradesh 211006, India",phone:"95192 92271"},
         {name:"Hotel Kanha Shyam",address:"22/1, Strachey Road, Civil Lines, Prayagraj, Uttar Pradesh 211001, India",phone:"97922 03853"},
         {name:"Grand Continental Hotel",address:"No 13, The Grand Plaza, Sardar Patel Marg, near PVR Cinemas, Civil Lines, Prayagraj, Uttar Pradesh 211001, India",phone:"95175 56630"},
@@ -158,7 +158,7 @@ const data = {
 
     },
     Mathura:{
-      Hote:[
+      Hotel:[
         {name:"Hotel Wingston A Treehouse (Mathura)",address:"Masani Road, Mathura, Uttar Pradesh 281001",phone:"93595 30910"},
         {name:"Centrum Hotel (Mathura)",address:"Near New Bus Stand, Bhuteshwar Road, Mathura, Uttar Pradesh 281001",phone:"72510 17999 / 72510 18999"},
         {name:"Hotel Silver Star",address:"Agrasen Chowk, Masani Road, Mathura, Uttar Pradesh 281121",phone:"82187 21674"},
@@ -193,7 +193,7 @@ const data = {
       ]
     },
     Vrindavan:{
-      Hote:[
+      Hotel:[
         {name:"Nidhivan Sarovar Portico",address:"Radha Raman Mandir Rd, Nidhivan, Vrindavan, Uttar Pradesh 281121",phone:"98976 48150"},
         {name:"Park Plaza Vrindavan",address:"Govardhan Rd, opposite ISKCON Temple, Vrindavan, Uttar Pradesh 281121",phone:"92199 44222"},
         {name:"Hotel Giriraj International",address:"44, Chhatikara Rd, Vrindavan, Uttar Pradesh 281121",phone:"98180 11447"},
@@ -238,7 +238,7 @@ const data = {
       ]
     },
     Agra:{
-      Hote:[
+      Hotel:[
         {name:"The Oberoi Amarvilas",address:"Taj East Gate Road, Agra, Uttar Pradesh 282001",phone:"562 223 4100"},
         {name:"ITC Mughal, a Luxury Collection Hotel",address:"Taj Ganj, Agra, Uttar Pradesh 282001",phone:"562 222 0111"},
         {name:"Taj Hotel & Convention Centre Agra",address:"Fatehabad Road, Agra, Uttar Pradesh 282001",phone:"562 490 0000"},
@@ -1496,6 +1496,7 @@ document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("city").addEventListener("change", loadServices);
 
 });
+
 
 
 
