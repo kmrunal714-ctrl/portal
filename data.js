@@ -874,7 +874,7 @@ const data = {
         {name:" Ramee International Surat",address:"Vivanta Icon, LP Savani Rd, Adajan Gam, Surat, Gujarat 395009",phone:"74860 01615"},
         {name:"HOTEL CASA RIVA",address:"Near Auro University, Bhatpore, Surat, Gujarat 394510",phone:"77789 92992"},
         {name:" The Long - D Hotel & Banquet",address:"Piplod, Dumas Rd, Surat, Gujarat 395007",phone:"99986 54999"},
-        {name:" Lords Plaza Surat",address:" Delhi Gate, Ring Rd, Japan Market, Begampura, Surat, Gujarat 39500",phone:73777 34777 ""},
+        {name:" Lords Plaza Surat",address:" Delhi Gate, Ring Rd, Japan Market, Begampura, Surat, Gujarat 39500",phone:"73777 34777"},
         {name:"De Glance Hotel",address:"Railway Station Rd, opp Sufi Baug, Lal Darwaja, Surat, Gujarat 395003",phone:"95125 55110"},
         {name:"Hotel Sifat International Surat",address:"Railway Station Rd, opp Surat Railway Station, Lal Darwaja, Surat, Gujarat 395003",phone:"261-2431 001"},
         {name:" Weekend Address",address:"Near Surat Airport, Dumas, Gujarat 394550",phone:"90168 23391"},
@@ -904,7 +904,7 @@ const data = {
       Cab:[
         {name:"Krishna Cab",phone:" 91736 69332"},
         {name:"One Side Cab",phone:"77790 76244"},
-        {name:"A D CAB INDIA",phone: 99255 33271""},
+        {name:"A D CAB INDIA",phone: "99255 33271"},
         {name:"Taxi Hub 24/7",phone:"81550 44488"},
         {name:"VP Best Taxi Service",phone:"97266 66996"},
         {name:"Surat Car Rental & Cab Service",phone:"92270 32523"},
@@ -1176,7 +1176,7 @@ const data = {
         {name:"Nilkanth Dining Hall Bhavnagar",address:" Rajhans Complex, RTO Cir, Shastrinagar, Bhavnagar, Gujarat 364003",phone:"94086 45677"},
         {name:"New City Point Restaurant & Banquet",address:"1st Floor, Himalaya Mall, Icon Mega City Opp. Victoria Park Rd, Bhavnagar, Gujarat 364002",phone:"78741 36287"},
         {name:"ROCKS N LOGS",address:"Waghawadi Rd, Hill Drive, Bhavnagar, Gujarat 364001",phone:"27825 63601"},
-        {name:"BIZZ MULTICUISINE RESTAURANT & BANQUET LAWN",address:"1188, Ambawadi Rd, Nawa Para, Bhavnagar, Gujarat 364001",phone:99130 12828""},
+        {name:"BIZZ MULTICUISINE RESTAURANT & BANQUET LAWN",address:"1188, Ambawadi Rd, Nawa Para, Bhavnagar, Gujarat 364001",phone:"99130 12828"},
         {name:"Sankalp Restaurant & Saffron Restaurant",address:"Surabhi Complex, EVA Complex, Waghawadi Rd., Opp. Swaminarayan Temple, Bhavnagar, Gujarat 364001",phone:"95582 65437"},
         {name:"Vrundavan Garden Restaurant",address:"Plot No.1, Brahma Park Society, 150 Feet Ring Rd, Bhavnagar, Gujarat 364002",phone:"98986 86798"}
       ],
@@ -2013,7 +2013,6 @@ document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("city").addEventListener("change", loadServices);
 
 });
-
 
 
 
