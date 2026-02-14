@@ -1942,6 +1942,721 @@ const data = {
         {name:"Sunrise Taxi & Tours Kalimpong",phone:"97330 44999"}
       ]
     }
+  },
+  Uttarakhanda:{
+    Nainital:{
+      Hotel:[
+        {name:"The Naini Retreat, Nainital",address:"Ayarpatta, Slopes, Mallital, Nainital, Uttarakhand 263001",phone:"95550 88000"},
+        {name:"THE MIRCHONI RESORTS, NAINITAL",address:"Ayarpatta Slopes, Mallital, Nainital, Uttarakhand 263001",phone:"97200 81100"},
+        {name:"Namah Nainital, Radisson Individuals Retreats",address:"Grassmere Estate, Mallital, Nainital, Uttarakhand 263001",phone:"59422 37342"},
+        {name:"Shervani Hilltop Nainital",address:" Mallital, Nainital, Uttarakhand 263001",phone:"98999 54150"},
+        {name:" Swiss Hotel and Spa Nainital",address:" High Ct Rd, Opp. St John’s Church, Mallital, Nainital 263001",phone:"86869 47478"},
+        {name:"Sterling Nainital",address:"7th Milestone, Jokhia, Nainital-Bhowali Rd, Uttarakhand 263132",phone:"79697 92032"},
+        {name:"WELCOMHERITAGE ASHDALE",address:"High Ct Rd, Sherwani, Nainital, Uttarakhand 263001",phone:"63977 37834"},
+        {name:"Ayar Jungle Resort",address:"College Rd, Barapathar-Sherwood, Mallital, Nainital 263001",phone:"90901 01028"},
+        {name:"Hotel Silverton, By Aspen",address:"Upper Mall Rd, Sher Ka Danda, Nainital 263002",phone:"98103 06282"},
+        {name:"DLS Hotels Emerald",address:"Near Aurbindo Ashram, Ayarpatta, Nainital 263001",phone:"70566 66118"}
+      ],
+      Restaurant:[
+        {name:"Zooby's Kitchen",address:"Mall Road, Mallital, Nainital, Uttarakhand 263001",phone:"89586 07050"},
+        {name:"Giannis Pure Veg Restaurant",address:"Mall Road, Mallital, Nainital, Uttarakhand 263001",phone:"94120 85857"},
+        {name:" Anupam Restaurant",address:"Shop No. 99, Bara Bazar Road, Mallital, Nainital, Uttarakhand 263001",phone:"5942 236417"},
+        {name:" Machan Restaurant",address:"Mall Road, Mallital, Nainital, Uttarakhand 263001",phone:"5942 237672"},
+        {name:"The Sakley's Restaurant & Pastry Shop",address:"Poplar Estate, Alps Hotel Compound, Mallital, Nainital, Uttarakhand 263001",phone:"98999 96737"},
+        {name:"Embassy Restaurant",address:"The Mall Road, Mallital, Nainital, Uttarakhand 263001",phone:"5942 235597"},
+        {name:"The Dhaba by Royal Kitchen",address:"Rickshaw Stand, Mallital, Nainital, Uttarakhand 263001",phone:"96398 88999"},
+        {name:"Dilli Darbar Deluxe Restaurant",address:"Mall Road, Mallital, Nainital, Uttarakhand 263001",phone:" 98378 51954"},
+        {name:"The Himalayan Kitchen",address:"101, Bara Bazar Road, Mallital, Nainital, Uttarakhand 263001",phone:"99172 19444"},
+        {name:"Snow View Heritage Bar & Restaurant",address:"Rope Way Office, Maldon Cottage Road, Mallital, Nainital, Uttarakhand 263001",phone:"92123 92495"},
+        {name:"Evergreen Restaurant",address:" Dina Lodge Compound, Ayarpatta, Nainital, Uttarakhand 263001",phone:"70176 71313"},
+        {name:"Shiva Pure Vegetarian Restaurant",address:"35 Bara Bazar Road, Mallital, Nainital, Uttarakhand 263001",phone:"97197 24069"},
+        {name:"Simz Cafe & Restaurant",address:"Thandi Road, Tallital, Nainital, Uttarakhand 263001",phone:"80066 38700"},
+        {name:"Tadka Restaurant",address:"Near Drishti Cottage, Naina Range, Nainital, Uttarakhand 263132",phone:"5942 297191"},
+        {name:"The Moonlight Restaurant",address:"41 Mall Road, Mallital, Nainital, Uttarakhand 263002",phone:"81268 83377"}
+      ],
+      Cab:[
+        {name:"Nainital Cab Service",phone:" 75059 12332"},
+        {name:"Taxi Nainital / Taxi Services Nainital",phone:"89543 33356"},
+        {name:"Nainital Cabs (Bhimtal Rd)",phone:"82670 77712"},
+        {name:"Trippymania Taxi",phone:"95480 88653"},
+        {name:"MTS Cab",phone:"81265 58224 / +91 83348 60189"}
+       ]
+    },
+    Corbett:{
+      Hotel:[
+        {name:"Welcomhotel By ITC Hotels, Jim Corbett",address:"Village Kyari, Tehsil Salt, Betalghat Road, Ramnagar, Uttarakhand 263646",phone:"59663 51000"},
+        {name:"Taj Corbett Resort & Spa, Uttarakhand",address:"Zero Garjia, Dhikuli, Ramnagar, Uttarakhand 244715",phone:"74550 28252"},
+        {name:"Namah Resort Jim Corbett, a member of Radisson Individuals",address:"Dhikuli, Ramnagar, Uttarakhand 244715",phone:"59472 66666"},
+        {name:"Resort De Coracao - Corbett",address:"National Park, Dhela Rd, Dhela, Kanda Range, Uttarakhand 244715",phone:"92929 28787"},
+        {name:"Seven Corbett Resort",address:"Pawalgarh, Ramnagar, Uttarakhand 263140",phone:"78360 40000"},
+        {name:"Aahana Resort | Luxury Resorts in Jim Corbett",address:"P.O. Semalkhaliya, Sawal Deh West, Ramnagar, Uttarakhand 244715",phone:"70886 00024"},
+        {name:"The Den Corbett Resort & Spa",address:"Ranikhet Rd, Kumeriya, Chilkiya Range, Uttarakhand 263646",phone:"97114 88820"},
+        {name:"Lemon Tree Premier Jim Corbett",address:" Zero Milestone, Mohaan, Ranikhet Rd, Ramnagar, Uttarakhand 244715",phone:"72530 00518"},
+        {name:"The Forest Resort Corbett Deep Jungle Trail By 3Tree Group",address:"Sitabani Eco-tourism Zone, Makandpur Pawalgarh, Uttarakhand 263140",phone:"93551 12123"},
+        {name:"Resorts By The Baagh",address:" Near Govt School, Patkote, Ramnagar, Uttarakhand 244715",phone:"93194 58575"},
+        {name:"Corbett Machaan Resort",address:"Teda Rd, Ramnagar, Uttarakhand 244715",phone:"99109 44246"},
+        {name:"Corbett The Grand",address:"Santoshpur Choi, Near Hanuman Dham, Ramnagar, Uttarakhand 244715",phone:"89589 88800"},
+        {name:"The Solluna Resort",address:"NH-309, Marchula, Mohan Range, Uttarakhand 263646",phone:"11458 74728"},
+        {name:"The Tattwaa Corbett Spa & Resort",address:"Jhirna Rd, Himmatpur Dotiyal, Ramnagar, Uttarakhand 244715",phone:"90121 00051"},
+        {name:"Corbett Treat Resort®",address:"Village Dhela, Jhirna Tourist Zone, Ramnagar, Uttarakhand 244715",phone:"80570 94258"},
+        {name:"Corbett View Resort ®",address:"Safari Gate, Near Jhirna, Ramnagar, Uttarakhand 244715",phone:" 70175 96718"}
+      ],
+      Restaurant:[
+        {name:"Litchi Corbett Cafe & dining",address:"Jhirna, Himmatpur Dotiyal, Dhela Rd, Ramnagar, Uttarakhand 244715",phone:"84474 58507"},
+        {name:"Diner's Villa -A Multi Cuisine Restaurant",address:" Village Dhikuli, Ramnagar, Uttarakhand 244715",phone:"74095 82000"},
+        {name:"Corbett Havelie",address:"Ramnagar Road, Chandrapur Tiwari, Peerumadara, Ramnagar, Uttarakhand 244715",phone:"70888 00866"},
+        {name:"THE CORBETT KING - Pure Veg Restaurant & Hotel",address:"Gebua Khas, Ramnagar, Uttarakhand 244715",phone:"95285 36427"},
+        {name:"Village Vatika Restaurant",address:" NH-309, Ladwachaur, Ramnagar, Uttarakhand 244715",phone:"98374 02538"},
+        {name:"Karans Corbett Motel and Restaurant",address:"Shankarpur Bhud, Ramnagar, Uttarakhand 244715",phone:" 98374 68933"},
+        {name:"Tree House",address:"NH-309, Sankar, Marchula, Uttarakhand 263646",phone:"82795 96060"}      ],
+      Cab:[
+        {name:"Corbett Taxi Booking",phone:"90589 99858"},
+        {name:"Corbett Jeep Booking ",phone:"95365 66872"},
+        {name:"Jim Corbett Uttarakhand",phone:"89231 11636"},
+        {name:"Corbett Tiger Reserve Safari Booking Office",phone:"91919 0123 / +91 91190 13028 "}      ]
+
+    },
+    Mussoorie:{
+      Hotel:[
+        {name:"Welcomhotel By ITC Hotels, The Savoy",address:"Library Bazar, Gandhi Chowk, Mussoorie, Uttarakhand 248179 🇮🇳",phone:"135 6171000"},
+        {name:"JW Marriott Mussoorie Walnut Grove Resort & Spa ",address:"Siya Village, Kempty Fall Rd, Mussoorie, Uttarakhand 248179 🇮🇳",phone:"135 2635700"},
+        {name:" Ramada By Wyndham Mussoorie Mall Road",address:" Mall Rd, opposite Picture Palace, Kulri, Mussoorie, Uttarakhand 248179 🇮🇳",phone:"95360 01126"},
+        {name:"Hotel Sun N Snow Mussoorie ",address:"Near Library Chowk, The Mall Road, Mussoorie, Uttarakhand 248179 🇮🇳",phone:"76684 66709"},
+        {name:"Mussoorie Gateway",address:"Grand Park, Kenilworth Estate, Kincraig Road, Near Library, Mall Road, Mussoorie 🇮🇳",phone:"135 2635599"},
+        {name:" Hotel EllBee Mussoorie Hills",address:"Gandhi Chowk, Mall Rd, Library Road, Mussoorie 🇮🇳",phone:"98112 41577"},
+        {name:"The Solitaire Resort by Lawrence Hotels",address:"Near Picture Palace Bend, Mall Road, Mussoorie 🇮🇳",phone:"95186 81824"},
+        {name:" Hotel North Wood ",address:"Behind The Green Vegetarian, Kulri Bazar, Mall Road, Mussoorie 🇮🇳",phone:"93682 24345"},
+        {name:"Luxury Inn by Stotrak Hotels",address:"Picture Place, The Mall Road, Mussoorie 🇮🇳",phone:"80915 00151"},
+        {name:"The Hosteller Mussoorie, Mall Road",address:"Tibetan Market Gali, Mall Road, Mussoorie 🇮🇳",phone:"98101 87717"},
+        {name:"Zostel Mussoorie (Mall Road)",address:"Kulri, Picture Palace, Mall Rd, Mussoorie 🇮🇳",phone:"11411 70844"},
+        {name:"The Fern Brentwood Resort Mussoorie ",address:"Picture Palace, Mall Road, Mussoorie 🇮🇳",phone:"135 2632102"},
+        {name:" Mango Tree Courtyard Mussoorie ",address:"Camel’s Back Road, The Mall Road, Mussoorie 🇮🇳",phone:"85277 95198"},
+        {name:"Jaypee Residency Manor",address:"Road, Barlow Ganj, Mussoorie 🇮🇳",phone:"135 2631800"},
+        {name:" Hotel Phoenix ",address:"Behind Hakman’s Hotel, Jhula Ghar, Mall Road, Mussoorie 🇮🇳",phone:"75791 76562"},
+        {name:"Country Inn Premier Pacific Resort ",address:"Camel’s Back Road, Mall Road, Mussoorie 🇮🇳",phone:"86508 88070"}
+      ],
+      Restaurant:[
+        {name:"Kissa ",address:"First Floor, Mall Rd, near Jawahar Fish Aquarium, Mussoorie 🇮🇳",phone:"83759 99988"},
+        {name:"Bellamount Restro & Bar",address:"Hotel Garhwal Terrace GMVN, The Mall Road, Mussoorie 🇮🇳",phone:"73107 64296"},
+        {name:"Swad South Indian Restaurant",address:"Mall Rd, Luxmanpuri, Rajmandi, Mussoorie 🇮🇳",phone:"99718 92477"},
+        {name:"Maharaja Restaurant",address:"Rialto, The Mall, near Hotel Hammers, Mussoorie 🇮🇳",phone:"90681 30707"},
+        {name:"Cafe Hinge",address:"Kurli Chowk, near Picture Palace, Mall Road, Mussoorie 🇮🇳",phone:" 98189 03900"},
+        {name:"Emily's Mussoorie by Rokeby Manor ",address:" Cantt, Rajmandi, Landour, Mussoorie 🇮🇳",phone:"98979 90666"},
+        {name:"19th Century Restaurant",address:"Castle, Jharipani Rd, Jharipani, Mussoorie 🇮🇳",phone:"76699 11008"},
+        {name:"Neelam Restaurant ",address:"New Market, Kulri, Mussoorie 🇮🇳",phone:"87551 07500"}
+        ],
+      Cab:[
+        {name:"Mussoorie Taxi Service",phone:"70178 81947 / 72499 0452"},
+        {name:"Mussoorie Taxi Service (Local & 24/7)",phone:"96752 12169"},
+        {name:"Khushi Taxi Service –",phone:"8979 892473 / 74560 20114"},
+        {name:"Home Cabs (Taxi Booking)",phone:"82228 73873"}      ]
+
+    },
+    Rishikesh:{
+      Hotel:[
+        {name:"Aloha On The Ganges",address:"NH 58, Tapovan, Rishikesh, Uttarakhand 249192, India",phone:"95550 88000"},
+        {name:"Lemon Tree Premier, Rishikesh",address:"Shesdhara, Laxman Jhula Rd, Tapovan, Rishikesh, Uttarakhand 249192, India",phone:"135 7111001"},
+        {name:" Lemon Tree Hotel, Rishikesh",address:"Tapovan, Rishikesh, Uttarakhand 249192, India",phone:"135 3509100"},
+        {name:"Hotel Rishikesh Grand",address:" Badrinath Rd, Tapovan, Rishikesh, Uttarakhand 249192, India",phone:"88266 10888"},
+        {name:" Moustache Rishikesh Luxuria",address:"Badrinath Rd, opp. Deecon Valley Apts, Tapovan, Rishikesh",phone:"89291 00705"},
+        {name:"Hotel Ishan - A Riverside Retreat by Salvus, Rishikesh",address:"Lakshman Jhula Chowk, Tapovan, Rishikesh",phone:"81818 28393"},
+        {name:"Natraj Hotel Rishikesh",address:"Natraj Chowk, Dehradun Rd, Rishikesh",phone:"63967 54535"},
+        {name:"Hotel Ganga Ashoka Rishikesh",address:"Veerbhadra Rd, Opp. LIC/HDFC, Rishikesh",phone:"70119 24037"},
+        {name:"Hotel EllBee Ganga View",address:"Haridwar Rd, Palika Nagar, Rishikesh",phone:"88826 61577"},
+        {name:"GANGA KINARE – A Riverside Boutique Resort",address:"Barrage Road, Virbhadra Rd, Rishikesh",phone:"90155 44000"},
+        {name:"Yog Niketan By Sanskriti – A Riverside Boutique Resort",address:"Badrinath Rd near Ram Jhula, Ganga Vatika, Rishikesh",phone:"70604 03802"},
+        {name:"Divine Resort",address:"Laxman Jhula Rd, Tapovan, Rishikesh",phone:"81719 57799"},
+        {name:" Regenta Inn On The Ganges Rishikesh",address:"Badrinath Rd, Tapovan, Rishikesh",phone:"73021 11190"},
+        {name:"The Hosteller Rishikesh, Upper Tapovan",address:" Balaknath Rd, Upper Tapovan, Rishikesh",phone:"98101 87717"},
+        {name:"Skyard Hostel Rishikesh (Laxman Jhula)",address:"opp. Little Buddha Cafe, Laxman Jhula, Rishikesh",phone:"78954 78538"},
+        {name:"Zostel Rishikesh (Tapovan)",address:" Balaknath Rd, Tapovan, Rishikesh",phone:"22489 62269"}
+      ],
+      Restaurant:[
+        {name:"The Sitting Elephant",address:"Hotel EllBee Ganga View, Haridwar Rd, Rishikesh",phone:"88826 61577"},
+        {name:"Anna's Mess (South-Indian Restaurant)",address:" Lower Balaknath Mandir Rd, Badrinath Rd, Tapovan, Rishikesh",phone:"88648 14017"},
+        {name:"The FoodLoft",address:"Shop No. 9A, 4th Floor, Aiims Rd, near SBI, IDPL Colony, Rishikesh",phone:"95606 01990"},
+        {name:"Garh Bhoj Restaurant – Authentic Pahadi Food",address:"Maniram Marg, Opp. Panjab Sindh School, Doctor Colony, Rishikesh",phone:"70178 11461"},
+        {name:"Sky Deck Restaurant",address:" 19, Dehradun Rd, Adarsh Gram, Rishikesh",phone:"95208 87794"},
+        {name:"Secret Garden Cafe",address:"Tapovan Rd, Tapovan, Rishikesh",phone:" 89549 09001"},
+        {name:"SHIVANI'S Cafe",address:"Neelkanth Rd, Opp. Govt Hospital, Laxman Jhula, Rishikesh",phone:"74568 99637"},
+        {name:"GANGA VIEW CAFE",address:"near 13 Stories Temple, Laxman Jhula, Rishikesh",phone:"92979 72929"},
+        {name:" Tulsi Restaurant",address:"Tapovan, Ghugtyani Malli, Rishikesh",phone:"75005 19943"},
+        {name:" Bistro Nirvana",address:"Swami Omkarananda Saraswati Rd, Near Green Valley Cottage, Tapovan, Rishikesh",phone:"72175 10222"}      ],
+      Cab:[
+        {name:"Rishikesh Taxi Cab Service ",phone:" 90276 75051 / +91 94563 14753 "},
+        {name:"Rishikeshtaxis.com (Local / Sightseeing Taxi)",phone:"99972 75184 / +91 96349 60460"},
+        {name:"Texy Cab / Himalayan Taxi Service",phone:"94101 01287 / +91 94101 01286"}
+        ]
+
+    },
+    Haridwar:{
+      Hotel:[
+        {name:"Pilibhit House, Haridwar",address:" 38/1 Niranjani Akhara Marg, Sharvan Nath Nagar, Haridwar 249401",phone:"1334 362300 "},
+        {name:"Ganga Lahari Haridwar",address:"Opposite Deen Dayal Parking, Gau Ghat, Har Ki Pauri, Haridwar 249401",phone:"95550 88000 "},
+        {name:" Pride Elite Haridwar",address:"Roorkee Road, near JURS Country Flats, Haridwar 249407",phone:" 73007 08805"},
+        {name:"Yashail Hotel Haridwar",address:"Plot C-1, Sidcul Rd, BHEL Township, Haridwar 249403",phone:" 89548 87818"},
+        {name:"Godwin Haridwar",address:"Rishikesh Rd, Opp. Shantikunj Rd, Haripur Kalan, Haridwar 249205",phone:" 90122 11111"},
+        {name:" The Forest Hill Hotel",address:"Bypass Rd, Railway Colony, Industrial Area, Haridwar 249401",phone:"76184 41188"},
+        {name:" HOTEL Le ROI, Haridwar",address:"Station Complex, Railway Station, Devpura, Haridwar 249401",phone:" 95483 01717"},
+        {name:"The Urmi Haridwar",address:"Ganga Vihar Colony, Bhupatwala, Near Shantikunj, Haridwar 249410",phone:" 80061 01001"},
+        {name:"HOTEL HARI GANGA",address:"Shiv Murti Gali, Jassa Ram Rd, Sharvan Nath Nagar, Haridwar 249401",phone:"92197 18407"}
+        ],
+      Restaurant:[
+        {name:"Govindam Restaurant",address:"8 Railway Rd, Shivmurti Chowk, Sharvan Nath Nagar, Haridwar 249401",phone:" 74095 56650"},
+        {name:"South Indian Upahar",address:" Gali No. 5, Naval Kishore Ashram, Vishwavidyalaya Rd, Haripur Kalan, Haridwar 249205",phone:"81972 73685"},
+        {name:" Sattvik Restaurant",address:"Niranjani Akhara Marg, Mayapur, Haridwar 249401",phone:" 90684 85106 "},
+        {name:"Dilliwasi Fine Dine Restaurant and Rooftop Cafe",address:"Amar Complex, Shivalik Nagar, Haridwar 249403",phone:"90588 82691"},
+        {name:"THE PINNACLE (Pure Vegetarian)",address:"Arya Nagar Chowk, Jwalapur, Haridwar 249407",phone:"81262 73001 "},
+        {name:"Masala Club Best Restaurant in Haridwar",address:"4th Floor, Hotel Ganga Amrit, Jwalapur Rd, Haridwar 249407",phone:"79020 11011"},
+        {name:"Indian Era Restaurant",address:"Brij Vihar Colony Gali No.2, Jagjeetpur, Haridwar 249408",phone:"91190 84837 "},
+        {name:"Elite's Diner",address:"",phone:" 95489 07207"},
+        {name:"Satvik Appetite",address:" 3rd Floor, Hotel The Reverent Ganga, Har Ki Pauri, Haridwar 249401",phone:"73107 59988 "},
+        {name:" The Buffet At Haridwar",address:"Hotel Skaga, Ranipur More, Devpura, Haridwar 249407",phone:"81910 52078"},
+        {name:"Sky High Restaurant & Terrace Cafe",address:"Shivalik Nagar, Haridwar 249403",phone:"78400 47736"},
+        {name:" Sagar Ratna",address:" Arya Nagar Chowk, Jwalapur, Haridwar 249407",phone:" 96751 45155 "},
+        {name:"Pavitra Punjabi Dhaba",address:"Opp. Railway Station, Haridwar Main Rd, Haridwar 249401",phone:" 98979 71001 "},
+        {name:" Hoshiyarpuri",address:"Upper Rd, Ram Ghat, Haridwar 249401",phone:"93580 05005"}
+      ],
+      Cab:[
+        {name:" Haridwar Taxi Service",phone:" 94101 92179"},
+        {name:"Haridwar Royal Cab Service",phone:" 90275 45040 "},
+        {name:"Singh Tour and Travels",phone:"80779 89386"},
+        {name:"Haridwar Cab Service",phone:"89095 42642 "},
+        {name:"Haridwar Taxi Service - Taxi in Haridwar",phone:" 90847 23005"},
+        {name:"Haridwar Taxi Car Rental Service",phone:"97603 75417 "},
+        {name:"Haridwar Taxi Rental",phone:"93682 55528"}
+      ]
+
+    },
+    Guptkashi:{
+      Hotel:[
+        {name:"Hotel Azad Cottages & Restaurant ",address:"Kedarnath Road, Guptkashi, Uttarakhand 246439",phone:"98973 21569 / +91 81716 26874 / +91 80577 00264"},
+        {name:"Hotel Rajpalace (also Hotel Rajhans)",address:"Kedarnath Road, Vill – Devidhar & Main Market, Guptkashi, Uttarakhand 246471",phone:"95570 41767 / +91 89792 91587"},
+        {name:"Kedar Valley Resorts",address:"NH-58, Kedarnath Road, Devidhar, Guptkashi, Uttarakhand 246471",phone:"70554 25555 / +91 70880 01703 "},
+        {name:"Hotel Kedar Darshan ",address:"Main Market, Guptkashi, Dewar, Uttarakhand 246439",phone:"99534 14741"},
+        {name:"Kalash Resorts",address:"434, Jaakhdhar Bansu Rd, Guptkashi, Deosal, Uttarakhand 246439",phone:"99538 72720"},
+        {name:"Hotel Vivek Guptkashi ",address:"Semi Guptkashi Near Gas Godam, Main Kedarnath Road, Guptkashi, Uttarakhand 246439",phone:"78368 05840 / +91 89544 46577 "},
+        {name:"Himalayan Comforts Resort ",address:"Vill-Narainkoti (on Kedarnath Road), Guptkashi, Uttarakhand 246439",phone:"83685 97058 "}
+      ],
+      Restaurant:[
+        {name:"Om Resorts & Restaurant",address:"Garhtara, Guptkashi, Rudraprayag, Uttarakhand 246439",phone:" 94111 54047 / +91 89239 03765"},
+        {name:"JoShi Love Bird Restaurant ",address:"NH-109, Dewar Vishwanath Mandir Marg, Guptkashi, Rudraprayag 246439",phone:"84492 84303 "},
+        {name:"Santushti Restaurant (at Hotel Vivek)",address:"Main Kedarnath Road, Semi Guptkashi",phone:"78368 05840 / +91 89544 46577"},
+        {name:"R & R Hotel & Restaurant ",address:"Main Market, Guptkashi, Rudraprayag, Uttarakhand 246439",phone:"84492 84303"},
+        {name:"BadriKedar Restaurant ",address:"Kedarnath Road, Guptkashi (open 24 hrs)",phone:""},
+        {name:"Hotel New Senik (Restaurant) ",address:"Main Market, Guptkashi (veg & multi-cuisine)",phone:""},
+        {name:"Dhaba at NH 107 (Dhaba style eatery)",address:"Kedarnath Road, Guptkashi (local dhaba)",phone:""}
+      ],
+      Cab:[
+        {name:"Swift Dzire Cab Services",phone:"96672 66620"},
+        {name:" Rinocab Guptkashi Tourism & Car Rental",phone:"96672 66620"},
+        {name:" Uttarakhand Cab 24/7",phone:"96752 12169 "},
+        {name:"ChoosEATaxi",phone:" 80586 02516 / +91 86191 44832"}
+      ]
+
+    },
+    Kedarnath:{
+      Hotel:[
+        {name:"Gayatri Bhawan ",address:" Kedarnath, Rudraprayag District, Uttarakhand — close to temple and market",phone:"81260 83237 / +91 95576 96744"},
+        {name:"Vivek Hotel & Restaurant",address:" Kedarnath",phone:""},
+        {name:"GMVN Cottages / Swargarohini Cottages (Government) ",address:"Near Kedarnath; managed by Garhwal Mandal Vikas Nigam (booking via GMVN office). ",phone:""},
+        {name:"Hotel Punjab Sindh Awas (Dharamshala)",address:"Near Temple; basic pilgrims’ accommodation",phone:""},
+        {name:"Jodhpur House Hotel ",address:"Approx. walkable distance from Kedarnath Temple",phone:""},
+        {name:"Hotel San Kedar Inn & Restaurant",address:"Nyalsu, Kedarnath Road, near Phata helipad route",phone:"96349 65066"},
+        {name:"Tent & Camp Stays (Budget)",address:"Various seasonal camps near temple",phone:"99177 58171 "}
+      ],
+      Restaurant:[
+        {name:" In-house Dining at Gayatri Bhawan ",address:"Pure veg & satvik meals for pilgrims.",phone:"81260 83237 / +91 95576 96744"},
+        {name:"Kedarnath Cottage Restaurant",address:"Kedarnath Cottage, Sersi, Uttarakhand, India",phone:"63959 60333"}
+      ],
+      Cab:[
+        {name:"SP Taxi Service",phone:"90681 03961"},
+        {name:"ChooseATaxi – Kedarnath Taxi Bookings",phone:"80586 02516 / +91 86191 44832"},
+        {name:"Kedarnath Yatra Taxi (Rishikesh Taxi Service)",phone:"97603 75417 / +91 81265 40655"},
+        {name:"Veda Cabs – Chardham & Kedarnath Taxi",phone:"98976 90200 / +91-98976 80200"}
+      ]
+
+    },
+    Barkot:{
+      Hotel:[
+        {name:"Prakash hotel & Restaurant Barkot",address:"Barkot, Kanseru, Uttarakhand 249141",phone:"8449827376"},
+        {name:"PINE HILLS RESORT & RESTAURANT",address:"Molda Beet, Barkot, UK 249141",phone:"9760830994"},
+        {name:"Hotel Parash Palace",address:" Uprari, Barkot, Uttarakhand 249141",phone:"7037486799"},
+        {name:"Hotel 7 Oaks",address:"R642+2C5, Barkot, UK 249141",phone:"7817879770"},
+        {name:"Hotel Mountain Paradise Barkot",address:"Yamunotri Road, Chhatanga, Barkot 249141",phone:" 8506050464"},
+        {name:"Hotel Necklace Moon",address:" Near Old Tehsil, Barkot 249141",phone:"9872365465"},
+        {name:"HOTEL DIYA RAJ BARKOT UTTRAKASHI",address:"Near powerhouse Sarukhet, Barkot 249141",phone:" 7895728577"},
+        {name:"La Monal Hotel",address:"Yamunotri Road, near Buddhi Hotel, Barkot 249141",phone:"8171981871"},
+        {name:"Hotel lord Shiva",address:" Bus Station, Barkot – Yamunotri Rd 249141",phone:"8077238085"},
+        {name:"Hotel Devbhoomi",address:"Barkot – Yamunotri Rd, Barkot 249141" ,phone:" 8171754463"},
+        {name:"Hotel Aditya Palace Barkot",address:" Dobata, NH-94, Barkot 249193 (near Barkot)",phone:"8958672406"},
+        {name:"Hotel Viraj",address:" Yamunotri Road, near Vivek Hotel, Barkot 249141",phone:"9760498549"},
+        {name:"Shivlinga Villa Hotel Barkot",address:" Near Yamunotri Highway, Barkot, Uttarakhand 249141",phone:"8755544335"},
+        {name:"The Monkey Tail Resort",address:" Village Chatanga, Barkot 249141",phone:"8979663432"},
+        {name:"Himalaya View Resort",address:" Uprari, Yamunotri Road, Barkot 249141",phone:" 9557725394"},
+        {name:"Shivalik Resorts (Formerly Shivalik Camps)",address:"Village Chhatang, Barkot 249141",phone:"9536846777"},
+        {name:"Shri Vikram Resort",address:" Yamunotri Road, Kuthnaur, Barkot 249141",phone:"6397356659"},
+        {name:"Swarnim resort",address:"Gangnani, Yamunotri Road, Barkot 249141",phone:"8082922967"},
+        {name:"UJJWAL RESORT",address:"NH 134, Yamunotri road, Barkot 249141",phone:" 8171115555"},
+        {name:"Rigveda Resort Barkot Yamunotri Uttarkashi",address:" Barkot – Yamunotri Rd, Chhatanga 249141",phone:"9023480234"},
+        {name:"Mountain View Resorts",address:"Kanseru Road, Barkot 249141",phone:"9410766464"},
+        {name:"Shivkunj Resort",address:"Barkot – Yamunotri Rd, Nandgaon 249141",phone:""},
+        {name:"Divyam Resort Barkot",address:"Yamunotri Road, Sarukhet, Barkot 249171",phone:" 8006555888"},
+        {name:"Veda Cottage",address:" Chatanga Yamunotri Road, Barkot 249141",phone:"7505997680"},
+        {name:"The Gangotri homestay by Preet rS",address:" Bagasu, Barkot 249171",phone:"9897382512"}
+      ],
+      Restaurant:[
+        {name:"Adhikari Bhojnalay",address:" Indian restaurant near Barkot Bus Stand",phone:" 9410752284"},
+        {name:"Duck Tales Restaurant ",address:"At Shivlinga Villa Resort",phone:"9410101992"},
+        {name:"Hotel Hari Om tourist complex",address:"Restaurant/guest dining",phone:"8171459307"},
+        {name:"Devbhoomi Restaurant & Cafe",address:"At Hotel Devbhoomi",phone:"9004400914"},
+        {name:"The First Cafe",address:" Café in Barkot",phone:""}
+      ],
+      Cab:[
+        {name:"Barkot Taxi Service",phone:"9457523803 (local taxi operator)"}      ]
+
+    },
+    Uttarkashi:{
+      Hotel:[
+        {name:"Hotel Him Deep Uttarkashi ",address:"PFXM+WCC, Barahat Range, Uttarkashi 249193, India",phone:"80770 64895"},
+        {name:"Gomukh Hotel ",address:"Birla Gali, Uttarkashi 249193, India",phone:"84456 46906"},
+        {name:"RAJAJI HOTELS",address:"Gangotri Rd, Dunda Range, Uttarkashi 249151, India",phone:"85275 21888"},
+        {name:"Hotel KNB Heritage ",address:" Bhadri Chowk, Gangotri National Highway, Uttarkashi 249193, India",phone:"96900 69804"},
+        {name:"Hotel Lake View Paradise ",address:"Police line Road, Gyanshu, Barahat Range, Uttarkashi 249193, India",phone:"89796 84425"},
+        {name:"Celestial Dream –",address:"Indravati Bridge area, Uttarkashi 249193, India",phone:"97115 52226"},
+        {name:"Hotel Royal Sainik ",address:"Mando, Ladari, Uttarkashi 249193, India",phone:" 94563 48752"},
+        {name:"Uniyal Residencey",address:"Gangotri Rd, Matli, Uttarkashi 249193, India",phone:"75006 93540"},
+        {name:"Hotel Nagraja Palace",address:"Matli, Uttarkashi 249193, India",phone:"97604 56649"},
+        {name:"Shikhar Nature Resort , Uttarkashi",address:"Garampani, Gawana Village, Uttarkashi 249193, India",phone:"98106 22238"},
+        {name:"Toorani Resort",address:"Near Ganeshpur, Gangotri National Highway, Uttarkashi 249193, India",phone:"94101 77315"},
+        {name:"Mahima resort",address:" Gangotri Rd, Netala, Barahat Range, Uttarkashi 249193",phone:"98972 19711"},
+        {name:"Hotel namami Gange Gangori Uttarkashi ",address:"Gangori, Barahat Range, Uttarkashi 249193",phone:"85340 27742"},
+        {name:"Geetanjali Resort ",address:"Garam Pani, Gangori, Uttarkashi 249193",phone:"94123 12339"},
+        {name:"Hill dew camps uttarkashi ",address:"Ward 01, Gangori, Uttarkashi 249193",phone:"94581 23120"},
+        {name:"Hill dew homestay uttarkashi ",address:"Gangori, Barahat Range, Uttarkashi 249193",phone:"94581 23120"},
+        {name:"Amba Niwas Home Stay and Cafe",address:"Kedarnath Bypass Road, Mando, Uttarkashi 249193",phone:"75056 99116"},
+        {name:"Jai Maa Gange Homestay ",address:"Nim Rd, Joshiyara, Uttarkashi 249193",phone:"81261 53727"}
+      ],
+      Restaurant:[
+        {name:"Anushka Restaurant Breakfast, Lunch And dinner ",address:"Rana Bhawan, near Kandar Devta Mandir, Uttarkashi 249193",phone:"82728 72544"},
+        {name:"Jay butter momos wala and JH cafe – ",address:"Gaur Bhawan, Azad Maidan, Uttarkashi 249193",phone:""},
+        {name:"The Dosa Hut and Snacks Point, Uttarkashi ",address:"Mall Rd, opposite Goswami School, Uttarkashi 249193",phone:"96347 07110"},
+        {name:"Vasudha Restaurant",address:"Joshiyara, Uttarkashi 249193",phone:""},
+        {name:"Annapurna Restaurant ",address:"Uttarkashi 249193",phone:""},
+        {name:"CAFE 18 ",address:"Court Rd, Uttarkashi 249193",phone:""},
+        {name:"AMIGO's CAFE ",address:" near Jaipur Mandir, Hanuman Chowk, Uttarkashi 249193",phone:"81716 85686"},
+        {name:"FOODIE POINT",address:"Bus Stand Complex, Uttarkashi 249193",phone:""},
+        {name:"Hunger Bites!",address:" Joshiyara NIM Rd, Uttarkashi 249193",phone:""},
+        {name:"Cafe TFH The food habit",address:"Tekhla, Mando Road, Uttarkashi 249193",phone:""}
+      ],
+      Cab:[
+        {name:"Taxi union uttarkashi – ",phone:"97603 93933"},
+        {name:"Dev Tour & Travels Uttarkashi Gangotri",phone:"73517 07882"},
+        {name:"Sneha & ansh Tour and Travels ",phone:" 96752 95770"},
+        {name:"Negi cab service ",phone:"97568 43390"},
+        {name:"Rawat Tour and Travels",phone:"98978 84185"},
+        {name:"Gusain Tour And Trevles",phone:"74179 60048"},
+        {name:"Beeru Taxi service Uttarkashi",phone:"84494 24587"},
+        {name:"Veer Singh Garhwali Cab Service ",phone:"84494 24587"},
+        {name:"Taxi service Diwan negi uttarkashi",phone:"99274 65633"},
+        {name:"Himalayan punctual Taxi Service Netala UKI ",phone:"70558 63125"}
+      ]
+
+    },
+    Dehradun:{
+      Hotel:[
+        {name:"Red Fox by Lemon Tree Hotels, Dehradun",address:"Rajpur Rd, Dehradun 248001",phone:"135-7135223"},
+        {name:"HOTEL DOONS PRIDE - Best Hotel in Dehradun",address:"Gandhi Rd, near Railway Station, Prince Chowk, Dehradun 248001",phone:"70603 51353"},
+        {name:"Lemon Tree Hotel, Dehradun",address:"Rajpur Rd, Pacific Mall, Jakhan, Dehradun 248009",phone:"135-2737777"},
+        {name:"Hyatt Centric Dehradun",address:" 3-4, 152, Rajpur Rd, Jakhan, Dehradun 248001",phone:"135-6141234"},
+        {name:"Ginger Dehradun Rajpur Road",address:"189, Rajpur Rd, Dehradun 248001" ,phone:"135-6910600"},
+        {name:"Le Roi, Dehradun",address:"Railway Colony Road, Race Course, Dehradun 248001",phone:"85959 25070"},
+        {name:"Hotel Doon Regency",address:" Haridwar Rd, Prince Chowk, Dehradun 248001",phone:"78309 00555"},
+        {name:"Ida Hotel",address:" Eastern Canal Rd, Race Course, Dehradun 248001",phone:" 80776 92968"},
+        {name:"MJ Residency | Family Hotel",address:" Race Course, Haridwar Rd, Dehradun 248001",phone:"63994 48844"},
+        {name:"FabHotel City Palace - Dehradun Railway Station",address:" Court Rd, near D.M. Office, Race Course, Dehradun 248001",phone:"70424 24242"},
+        {name:"Hyatt Regency Dehradun Resort and Spa",address:" Forest Edge, Mussoorie Rd, Malsi, Dehradun 248009",phone:" 135-6171234"},
+        {name:"Tree of Life Resort, Dehradun Foothills",address:" Bharatwala, Bisht Gaon, Uttarakhand 248003",phone:"90152 42000"},
+        {name:"AAR Resort & Spa, Pondha, Uttarakhand",address:"Palawali, Pondha, Dehradun 248001",phone:"80067 05252"},
+        {name:"Glenville Forest Resort & Spa",address:"Mothorowala Village, near Dudhali, Dehradun 248002",phone:"76184 10002"},
+        {name:"Four Banyans Spirit & Nature Resort",address:"Seraki, Maldevta, Dehradun 248008",phone:"90685 84101"},
+        {name:"The Punarnava Wellness Resort",address:"Bhitar Wali, Kimadi Lambidhar Bypass Rd, Dehradun 248003",phone:" 72170 11476"},
+        {name:"Riverwoods Resort - In the Lap of Nature",address:"Robbers Cave, Johri, Malsi, Dehradun 248003",phone:" 70605 73005"},
+        {name:"The River’s Edge Farm - A Boutique Stay",address:"Bhagwant Pur, Dehradun 248001",phone:" 90040 30101"},
+        {name:"Sterling Marbella Dehradun",address:" Rajpur Rd, Hathibarkala, Dehradun 248001",phone:" 79697 92049"},
+        {name:"Nauvati Resorts Nature Retreat",address:" Saura Dwada Village, Raipur, Dehradun 248008",phone:"89797 90795"}
+      ],
+      Restaurant:[
+        {name:"Black Pepper Restaurant",address:"3, Rajpur Rd, Ashtley Hall, Dehradun 248001",phone:"99970 00909"},
+        {name:"Pind Balluchi Restaurant & Bar Rajpur Road Dehradun",address:"119, Rajpur Rd, Jakhan, Dehradun 248001",phone:"84750 30330"},
+        {name:"Countdown Restaurant Since 1984",address:"Subhash Rd, near Parade Ground, Dehradun 248001",phone:"99977 00788"},
+        {name:"Monsoon",address:"Hotel LP Residency, Kaulagarh Rd, Rajender Nagar, Dehradun 248001",phone:"70600 08859"},
+        {name:"South Indian Vibes",address: "Rajpur Rd, Astley Hall, Karanpur, Dehradun 248001",phone:"70782 34567"},
+        {name:"Udupi Cafe Bangalore Idli",address:"EC Road, near Canara Bank, Karanpur, Dehradun 248001",phone:"73029 07965"},
+        {name:"Yellow Hills Uttarakhandi and Multi Cuisine Restaurant",address:"NH 7, Saraswati Vihar, Ajabpur Khurd, Dehradun 248121",phone:"90587 88881"},
+        {name:"PUBLIQ_DOON (देहरादून) The People’s Place",address:"Bansal Plaza, Kaulagarh Rd, Rajender Nagar, Dehradun 248001",phone:"72519 91199"}
+      ],
+      Cab:[
+        {name:"Devbhumi Taxi Service - Best Taxi Services in Dehradun Airport",phone:" 97608 39379"},
+        {name:"Uttarakhand Cab 24/7",phone:"96752 12169"},
+        {name:"Dehradun Cabs",phone:" 96349 99394"},
+        {name:"Badri Vishal Taxi Service - Jolly Grant Airport Taxi",phone:"84779 20629"},
+        {name:"Rock On Wheels Travels - Taxi in Dehradun",phone:"86308 25351"},
+        {name:"Dehradun Taxies",phone:"70170 34362"},
+        {name:"Trueway Taxis Pvt. Ltd.",phone:"78956 65566"},
+        {name:"Dehradun Taxi Services",phone:"80775 51661"},
+        {name:"Nautiyal Taxi Service Pvt .Ltd",phone:"94111 66707"},
+        {name:"Doon Cabs",phone:" 96340 04007"},
+        {name:"Sai Taxi Service",phone:"90586 03545"},
+        {name:"Doon Taxi Travels",phone:"70177 05058"},
+        {name:"Big Day Taxi Service",phone:" 94129 15984"},
+        {name:"Cab services",phone:"82189 50655"}
+      ]
+
+    },
+    Badrinath:{
+      Hotel:[
+        {name:"Amritara The Avadh, Badrinath",address:"Luxurious hotel near Helipad, Badrinath, Uttarakhand 246422",phone:" 01140 752200"},
+        {name:"Hotel Panchvati Inn",address:"Opposite ISBT, Badrinath, Uttarakhand 246422",phone:"90680 17142"},
+        {name:"Sarovar Portico Badrinath",address:"Chamoli District, Badrinath 246422",phone:"93103 33317"},
+        {name:"Hotel SNR Grand ",address:"Bypass Road, Mana, Badrinath 246422",phone:"73008 16679"},
+        {name:"New Hotel Snow Crest ",address:"Main Road Badrinath Dham",phone:"99801 00123"},
+        {name:" Hotel Yoga Badrinath by Mudras",address:"Near Bus Stand, NH-58, Badrinath",phone:"95991 90222"},
+        {name:"Narayan Palace Hotel ",address:"Near Bus Stand, Badrinath 246422",phone:"94120 58824"},
+        {name:" Hotel New Urvashi ",address:"Mana Road near Seshnetra Ashrama",phone:"63978 02862"},
+        {name:"Hotel Laxmi Divine ",address:"Opposite ISBT / Petrol Pump",phone:"99119 80652"},
+        {name:" Hotel Yagya",address:"Near Old Bus Stand",phone:" 84335 56390"},
+        {name:"VijayLord's Palace Badrinath",address:"Bamni, Badrinath",phone:"99972 63664"},
+        {name:" Temple View Badrinath House ",address:"Badrinath Temple Road",phone:"70224 76100"},
+        {name:"Janki Guest House Badrinath",address:"Badrinath",phone:"94113 15413"},
+        {name:"Bhajan Ashram Badrinath",address:"Near Old Taxi Stand, Badrinath",phone:"81267 55735 / +91 94111 41280. "}
+      ],
+      Restaurant:[
+        {name:"Sardeswari Restaurant ",address:"Vegetarian restaurant in Badrinath",phone:"94101 22893"},
+        {name:"Vankatesh Restaurant ",address:"Near Petrol Pump & Bus Stand",phone:""},
+        {name:"Braham Kamal Restaurant",address:"Family restaurant on Bypass Rd",phone:"84475 17759"},
+        {name:"Mishra Restaurant ",address:"Near Badrinath Dham",phone:"63968 31875"},
+        {name:"Chandralok Hotel (Restaurant)",address:"Eatery in Badrinath",phone:""},
+        {name:"Urvashi Restaurant ",address:"Near Temple Road",phone:""},
+        {name:"Shri Maheshwar restaurant",address:"Opposite Petrol Pump",phone:" 95576 40065"}
+      ],
+      Cab:[
+        {name:"Dehradun Car Rentals – Badrinath Taxi Service",phone:"77038 80430"},
+        {name:"Devbhoomi Travels ",phone:"75052 83206"},
+        {name:"Negi Taxi Service Joshimath ",phone:"89549 08265"},
+        {name:"Dillu Negi Taxi Service",phone:"96346 65734"},
+        {name:"Bisht Taxi Service",phone:" 89585 24906"},
+        {name:"Shree Vaikunth Taxi Service",phone:"80570 79847"},
+        {name:"Mayank Taxi Service",phone:"96270 81302"},
+        {name:"TravelODesk",phone:"88819 00900"},
+        {name:"Elite Taxi Services Joshimath",phone:"90585 82393"},
+        {name:"Taxi Services Joshimath to Haridwar",phone:"81267 42124"},
+        {name:"Rishikesh to Badrinath Taxi Service",phone:"97603 75417"},
+        {name:"Kotdwara / Haridwar Taxi (Badrinath Yatra)",phone:"92581 44401 "},
+        {name:"SP Taxi Service (Badrinath region network)",phone:"90681 03961 "},
+        {name:"Local Badrinath Cab",phone:"94178 95566 "}
+      ]
+
+    },
+    Yamunotri:{
+      Hotel:[
+        {name:"Yamunotri Heli Resort",address:"Yamunotri Road, Phoolchatti, Near GMVN Guest House, Post Office – Kharsali, Uttarkashi, Uttarakhand – 249141",phone:"81714 58879 | +91 80779 05474"},
+        {name:"Yamunotri Cottages (Yamunotri Resorts Pvt. Ltd.)",address:"Near Helipad, Kharsali Village, Janki Chatti, Uttarakhand – 249141",phone:"96502 44553 | +91 96671 87553"},
+        {name:"Hotel Yamuna Raj Yamunotri (Kharsali)",address:"Near Helipad Parking, Kharsali, Janaki Chatti, Uttarkashi, Uttarakhand – 249141",phone:"99991 01637"},
+        {name:" Yamunotri River Bank Resort",address:"Yamunotri Highway, Gangani (5 km from Barkot en route to Yamunotri), Uttarakhand",phone:" 98911 58725"}
+      ],
+      Restaurant:[
+        {name:"Food Embassy By Anantam",address:"Yamunotri, Uttarkashi – (Near Kharsali on Yamunotri Road)",phone:""},
+        {name:"Hotel RNB Paradise – Janki Chatti Yamunotri",address:"Janki Chatti, Barkot – Yamunotri Rd, Uttarkashi – 249141",phone:""},
+        {name:"Rana House – Yamuna View",address:"Kharsali, Uttarkashi – 249141",phone:""},
+        {name:"Aarav Restaurant",address:"Barkot Road, Yamunotri (towards Kharsali)",phone:""},
+        {name:"Paras Restaurant",address:"Near Taxi Stand, Barkot – Yamunotri Rd, Uttarkashi – 249141",phone:""},
+        {name:"Hotel Yamuna Dham Restaurant (Kharsali)",address:" Near Helipad, Kharsali, Yamunotri – 249141",phone:""}      ],
+      Cab:[
+        {name:"Yamunotri Yatra – Shared/Private Cabs",phone:"98974 83516"},
+        {name:"Himalayan Taxi Service (Char Dham Route)",phone:"94101 01287 / +91 94101 01286"},
+        {name:"Bharat Taxi – Char Dham & Yamunotri Routes",phone:"96960 00999"}      ]
+
+    },
+    Harsil:{
+      Hotel:[
+        {name:"Harsil Retreat",address:"Opposite Willson Cottage, Harsil, Uttarakhand 249135, India" ,phone:"93893 28335"},
+        {name:" Hotel Royal Hillcrest ",address:"Opposite Buddha Temple, Bagori, Harsil, Uttarakhand 249135, India",phone:"94101 77777"},
+        {name:"Harsil Homestay",address:"Bagori, Harsil, Uttarakhand 249135, India",phone:"82731 95646"},
+        {name:"Harsil apple homestay",address:"Harsil, Uttarakhand 249135, India",phone:""}
+      ],
+      Restaurant:[
+        {name:"Cafe Harsil & Hotel Narayana palace",address:"Uttarkashi – Gangotri Rd, Jhala, Harsil, Uttarakhand 249135, India",phone:"63970 22090"},
+        {name:"Hotel Harishila bhawan & restaurant",address:"Market, Bus Stop, Taknaur Renge, Harsil, Uttarakhand 249135, India",phone:""},
+        {name:"Harshil Delight Multiple Cuisine Cafe and Restaurant ",address:"Uttarkashi – Gangotri Rd, Harsil, Uttarakhand 249135, India",phone:""},
+        {name:"Harsila Restaurant ",address:"Bagori, Harsil, Uttarakhand 249135, India",phone:""},
+        {name:"Urmila's Kitchen Harshil Valley ",address:"Bagori, Harsil, Uttarakhand 249135, India",phone:" 89796 33070"},
+        {name:"Harshil View Point ",address:"Near Jaspur Band Jhala, Harsil, Uttarkashi, Uttarakhand 249135, India",phone:"93891 63448"}      ],
+      Cab:[
+        {name:"Taxi service",phone:"78200 60725"},
+        {name:"Chandrabadni taxi service",phone:""}      ]
+
+    },
+    Almora:{
+      Hotel:[
+        {name:"Hotel Himsagar",address:"Mall Road, Almora – 263601, Uttarakhand",phone:"5962-230711 / +91 5962-232256"},
+        {name:" Hotel Surmool",address:"Mall Road, Near Head Post Office, Dharanaula, Almora – 263601",phone:" 5962-230460"},
+        {name:" Hotel Aparna",address:"Dharanaula, Near Gular, Almora – 263601",phone:"5962-230192"},
+        {name:"Hotel Ranjana",address:"The Mall Road, Almora – 263601",phone:"5962-231349"},
+        {name:" Hotel Savoy",address:"Near Forest Office, Mall Road, Almora – 263601",phone:"5962-230329"},
+        {name:"Hotel Pawan",address:"The Mall Road, Choganphata, Almora – 263601",phone:"5962-230252"},
+        {name:"Snow View Resort Almora",address:"Almora, Uttarakhand",phone:"5962-233650 / +91 5962-233651"},
+        {name:"Binsar Valley Resort",address:"Near Almora, Uttarakhand",phone:"5962-253028"}
+      ],
+      Restaurant:[
+        {name:"Soni Restaurant",address:" Municipal Market Rd, Paltan Bazar, Dharanaula, Almora – 263601",phone:""},
+        {name:"Sumanglam Restaurant",address:"Karkhana Bazar, Near District Hospital, Almora – 263601",phone:"94129 09560"},
+        {name:"Pandey Restaurant & Bhojanalay",address:"Link Road / Paltan Bazar, Almora – 263601",phone:"82669 72307"},
+        {name:" Glory Restaurant",address:"Dharanaula, Palari Garh, Almora – 263601",phone:"94123 14595"},
+        {name:"Bhumika Restaurant",address:"Paltan Bazar, Dharanaula, Almora – 263601",phone:" 94105 01105"},
+        {name:" Famous Jalebi Shop",address:"Karkhana Bazar, Near Lohe Ka Sher, Almora – 263601",phone:"94113 66084"},
+        {name:" Alka Restaurant",address:"Paltan Bazar, Almora – 263601",phone:""},
+        {name:"Chill Out Restaurant",address:" Dharanaula, Palari Garh, Almora – 263601",phone:"94129 76851"}      ],
+      Cab:[
+        {name:"Rakesh Cab Service Mukteshwar",phone:"88594 90284"},
+        {name:"Alm Travels – Almora Taxi Service",phone:"90844 88229"},
+        {name:"Ganpati Tours",phone:"70553 33356"}
+      ]
+
+    },
+    Ranikhet:{
+      Hotel:[
+        {name:"The Ranikhet Continental",address:"JCR3+Q93, Talla Biswa, Uttarakhand 263645, India",phone:"87552 95293"},
+        {name:"Hotel Chevron Rosemount, Ranikhet",address:"The Mall, Pandey Kota, Nehru Road, Ranikhet, Uttarakhand 263645, India",phone:"98100 06395"},
+        {name:"Xomotel Ranikhet Heights",address:"Birla Boys School, Chillianaula Rd, Ranikhet, Uttarakhand 263645, India",phone:" 98711 40305"},
+        {name:" HOTEL MEGHDOOT",address:" Mall Road, Pandey Kota, Ranikhet, Uttarakhand 263645, India",phone:"5966 220475"},
+        {name:"Wood castle",address:"Cooperative Drug Factory Rd, Ranikhet, Uttarakhand 263645, India",phone:""},
+        {name:"KMVN Tourist Rest House Raniket",address:" Mall Road, Pandey Kota, Ranikhet, Uttarakhand 263645, India",phone:"86500 02533"},
+        {name:"West View",address:"Pandey Kota, Ranikhet Range, Uttarakhand 263645, India",phone:"98688 08107"},
+        {name:"Windsor Lodge Ranikhet",address:" Kalika Estate, Dadgallia, near Golf Course, Ranikhet, Uttarakhand 263645, India",phone:"99177 94522"},
+        {name:"Seed at Queens Meadows Ranikhet",address:"Village-Badhan, Chiliyanaula, near Heda Khan Temple, Ranikhet, Uttarakhand 263645, India",phone:"95991 85961"},
+        {name:"Sukoon Wellness Resources",address:"Dharar Post Office, Bhatrojkhan, Uttarakhand 263680, India",phone:"98111 68777"}
+      ],
+      Restaurant:[
+        {name:"Regards, The Family Restaurant in Ranikhet",address:"Hotel Rajdeep, Sadar Bazaar Rd, Airari, Ranikhet, Uttarakhand 263645, India",phone:"80776 98252"},
+        {name:"SWAD Sweets & Restaurant",address:"Alka Hotel, Gandhi Chowk, Ranikhet, Uttarakhand 263645, India",phone:"98708 19295"},
+        {name:"Dolia Pahadi Roof Top Café And Restaurant",address:"509, Sadar Bazaar Rd, Airari, Ranikhet, Uttarakhand 263645, India",phone:"74549 56536"},
+        {name:"Prasad Restaurant",address:"Airari, Ranikhet, Uttarakhand 263645, India",phone:""},
+        {name:"Vicky Da Momo",address:" Sadar Bazaar Rd, Khari Bazar, Ranikhet, Uttarakhand 263645, India",phone:""},
+        {name:"Chef the kitchen",address:"BD Complex, Subhash Chowk, Ranikhet, Uttarakhand 263645, India",phone:""},
+        {name:" The Coffee Cellar",address:"Alpine Rhapsody Bubu Dham, Kalika, Ranikhet, Uttarakhand 263645, India",phone:""},
+        {name:"Seven stones foresta cafe and restaurant",address:" Chaubatiya Rd, Garhi, Ranikhet, Uttarakhand 263651, India",phone:"87439 35785"},
+        {name:" Flavours of Heaven",address:" Plot No. 3520-21, Majkhali, Ranikhet, Uttarakhand 263652, India",phone:""},
+        {name:"Rawat Restaurant",address:"Kausani-Baijnath Rd, Chaukuni, Dadgaliya, Uttarakhand 263645, India",phone:"98377 12908"}
+      ],
+      Cab:[
+        {name:"Kumaoni Tour & Travels Ranikhet",phone:"73020 53533"},
+        {name:"Mehra tour s travels",phone:"70656 89740"},
+        {name:"Karayat taxi services",phone:""},
+        {name:"Yahit Tours",phone:" 80763 61772"},
+        {name:"Anytime taxi service",phone:"94129 60464"},
+        {name:"Taxi Service Majkhali",phone:" 87553 88440"},
+        {name:"Uttarakhand rangers & travels",phone:"76680 85053"},
+        {name:" Ankit Car Shringar",phone:""},
+        {name:"The Queen's taxi service",phone:""}      ]
+
+    },
+    Binsar:{
+      Hotel:[
+        {name:"Binsar Forest Retreat",address:"Post Ayarpani, Almora, Uttarakhand 263601, India",phone:"99103 45220"},
+        {name:"Binsar Eco Resort",address:" Binsar Road, Dinapani, Matena, Uttarakhand 263601, India",phone:"96908 81818"},
+        {name:"Suman Nature Resort",address:"Binsar Road, ahead of Kalimat Chungi, Sunderpur, Uttarakhand 263601, India",phone:"99972 55933"},
+        {name:"Binsar Eco Camp & Cottages",address:"Wildlife Sanctuary, Jageshwar Rd, Om-Nagar, Binsar, Uttarakhand 263624, India",phone:"96755 44799"},
+        {name:"Mary Budden Estate | Luxury Resorts in Binsar",address:"Wildlife Sanctuary, Binsar, Regariya, Uttarakhand 263601, India",phone:"97111 71350"},
+        {name:" Simba Jungle Lodge, Binsar",address:" Jhandi Dhar – Binsar Sanctuary Gate Rd, Regariya, Uttarakhand 263601, India",phone:""},
+        {name:"Tree of Life Grand Oak Manor Binsar",address:"Jhandi Dhar – Binsar Sanctuary Gate Rd, Regariya, Uttarakhand 263601, India",phone:"96020 91000"},
+        {name:"Club Mahindra Resort - Binsar Villa",address:"Almora-Bageshwar Rd, Bhaisori, Binsar, Uttarakhand 263601, India",phone:"83929 10583"},
+        {name:" Binsar Oak Paradise Resort",address:"Wildlife Sanctuary, Jageshwar Rd, Dhaulchhina, Binsar, Uttarakhand 263624, India",phone:""},
+        {name:"The Kumaon",address:" Binsar Road, Gadholi, Uttarakhand 263601, India",phone:"75794 49997"},
+        {name:"Nine Furlongs - Luxury Resort in Binsar",address:"Jhandi Dhar, Sanctuary Gate Rd, Regariya, Uttarakhand 263628, India",phone:"94162 08655"},
+        {name:" Mohan's Binsar Retreat",address:"Kasar Devi Road, Binsar, Uttarakhand 263601, India",phone:"78305 99986"},
+        {name:"Mountain Resort, Khali Estate",address:"Ayarpani, Almora, Uttarakhand 263601, India",phone:"96399 89902"},
+        {name:"Imperial Heights Binsar",address:"Kasar Devi, Almora-Bageshwar Rd, Uttarakhand 263601, India",phone:"86502 69454"},
+        {name:" Kasar Himalaya Holiday Resort",address:"Kasar Devi Road, Binsar, Uttarakhand 263601, India",phone:" 97392 70306"},
+        {name:"KMVN Tourist Rest House Binsar",address:"Binsar Road, Binsar, Regariya, Uttarakhand 263601, India",phone:"86500 02537"},
+        {name:" Binsar Jungle House Eco Stay",address:"Buffer Zone, Eco Binsar Area, Village Diyarkuna, Uttarakhand 263624, India",phone:""},
+      ],
+      Restaurant:[
+        {name:"Bird Song Restaurant at Club Mahindra Resort Binsar Valley",address:" Club Mahindra Resort – Binsar Valley Sunoli Mafi, Almora-Bageshwar Rd, Binsar 263601",phone:" 92288 17707"},
+        {name:"Silver Oak Restaurant at Club Mahindra Resort Binsar Villa",address:"Club Mahindra Binsar Villa Resort, Bhainsori, Binsar, Uttarakhand 263601",phone:"83929 10583"},
+        {name:"Shri Hayat Hotel & Restaurant",address:"Almora-Bageshwar Rd, Basholi, Binsar, Uttarakhand 263601",phone:"94113 18686"},
+        {name:"The Kasar Kitchen",address:" Village Matena Deenapani, Road, near TRH, Binsar 263601",phone:"95363 61171"},
+        {name:"Himalayan Hobbit House",address:" Kasar Devi, Gadholi, Binsar, Uttarakhand 263601",phone:"82875 00179"},
+        {name:"Mohan's Cafe",address:"Near Kasar Devi Temple, Binsar, Mat, Uttarakhand 263601",phone:"94129 77968"}      ],
+      Cab:[
+        {name:"Binsar Valley Taxi Service",phone:""}      ]
+
+    },
+    Kausani:{
+      Hotel:[
+        {name:"Kausani Regency",address:"near Anasakti Ashram, Kausani, Someshwar Range, Uttarakhand 263639",phone:"90680 75114"},
+        {name: "Kausani Best Inn",address:" KMVN Road, near Kendriya Vidyalaya Estate, Kausani, Almora, Uttarakhand 263620",phone:"90125 05678"},
+        {name:"The Buransh",address:"HSCR, Baijnath Road, Kausani, Uttarakhand 263639",phone:""},
+        {name:"Suman Royal Resort",address:" View Point, VIP Road, Kausani, Uttarakhand 263639",phone:" 99972 55933"},
+        {name:"Uttarakhand Resort",address:"Bhataria Road, Kausani, Uttarakhand 263639",phone:"90129 24222"},
+        {name:"Pratiksha Himalayan Retreat",address:" Kausani-Baijnath Rd, Kausani, Uttarakhand 263639",phone:"99175 54618"},
+        {name:"Stay inn Kausani",address:" Baijnath Road, near Dream Village Garden, Kausani, Uttarakhand 263639",phone:"90844 83298"},
+        {name:"The Heritage Resort",address:" Baijnath Road, near Tea Garden, Kausani, Uttarakhand 263639",phone:"97201 93444"},
+        {name:"Chevron Eco Lodge",address:" View Point, Kausani, Uttarakhand 263620",phone:"98100 06395"},
+        {name:"Lap of Himalayas Resort Kausani",address:"Kausani, Dyorana, Uttarakhand 263639",phone:"74090 68848"},
+        {name:"Sunita Himalayan Paradise",address:" View Point Road, Kausani, Uttarakhand 263639",phone:"83950 28862"},
+        {name:"Hotel Kausani Retreat",address:"Near UCO Bank, Kausani, Uttarakhand 263639",phone:"98111 63273"},
+        {name:" Snow View Guest House Kausani & Homestay",address:" View Point KMVN Road, near Suman Royal Resort, Kausani, Uttarakhand 263639",phone:"75993 67364"},
+        {name:"Himvadi Resorts",address:"Kausani, Someshwar Range, Uttarakhand 263639",phone:"90685 83334"}
+      ],
+      Restaurant:[
+        {name:" Bro's Café",address:"Anashakti, Ashram Road, Kausani, Uttarakhand 263639",phone:" 73027 03746"},
+        {name:"Garden Restaurant",address:" View Point, Kausani, Uttarakhand 263639",phone:"90129 24222"},
+        {name:"Hill Queen Restaurant - Since 1989",address:"Kausani, Someshwar Range, Uttarakhand 263639",phone:""},
+        {name:"Ashoka Restaurant",address:"Unnamed Road, Kausani, Someshwar Range, Uttarakhand 263639",phone:"94103 09451"},
+        {name:"Live Kitchen Kausani",address:"Kausani-Baijnath Road, Kausani, Uttarakhand 263639",phone:""},
+        {name:"Zayka Vegetarian Kausani",address:"Near SBI Kausani, Uttarakhand 263639",phone:"92945 63695"},
+        {name:"Veshnavi Paradise Hotel Restaurant",address:"Baijnath Road, Bhana Padiyar, Kausani, Uttarakhand 263641",phone:""},
+        {name:"Quality Restaurant",address:"Main Market, Kausani, Uttarakhand 263639",phone:""},
+        {name:"Himalaya Valley Restaurant, Kausani",address:"Baijnath Road, near Tea Factory, Kausani, Uttarakhand 263641",phone:"81918 21003"},
+        {name:"Yogi Food Point",address:"Mall Road, Kausani-Almora Rd, Kausani, Uttarakhand 263639",phone:""}      ],
+      Cab:[
+        {name:"Maa Vaishnavi Taxi Service - Kausani",phone:"96273 52056"}      ]
+
+    },
+    Kanatal:{
+      Hotel:[
+        {name:"Club Mahindra Resort - Kanatal",address:"11 km Stone, Chamba Mussoorie Rd, Kanatal, Tehri, Uttarakhand 249145",phone:"74550 58155"},
+        {name:" The Terraces",address:"Chamba Mussoorie Rd, Lam Kande, Tehri Range, Kanatal, Uttarakhand 249145",phone:"99106 00118"},
+        {name:" Vinyasa Resort, Kanatal ",address:"Vinyasa Resort, Chamba Mussoorie Road, Chopariyal Gaon, Kanatal 249145",phone:"81789 08381"},
+        {name:"The Mountilla Resort ",address:"Village Bhamorikhal, off Chamba Mussoorie Road, Kanatal 249145",phone:"98977 58911"},
+        {name:"Himalayan Roots kanatal",address:"Chamba Mussoorie Rd, near Club Mahindra Resort, Kanatal 249145",phone:"81001 50150"},
+        {name:"The Hillans Resort & Cottages",address:"Jadipani, Sakalana Range, Kanatal 249145",phone:"96542 19907"},
+        {name:"Nilayam Resorts",address:"C942+M25, Chamba Mussoorie Rd, Kanatal 249145",phone:"99711 24626"},
+        {name:"Owl's Nest Home Stay, KANATAL",address:"Barwalgaon, Nair Kaithogi Thauldhar, Kanatal 249145",phone:"99990 99110"},
+        {name:"Avalon Cottage",address:"Kanatal, Tehri Range, Uttarakhand 249145",phone:"99717 46555"},
+        {name:"Hotel LA Riqueza - Kanatal",address:"Rauslikhal, Chamba Mussoorie Rd, Kanatal 249145",phone:"98109 65967"},
+        {name:"The Hermitage Kanatal",address:"Rauslikhal, Chamba Mussoorie Rd, Kanatal 249145",phone:"99176 74830"},
+        {name:"Into the woods resort, Kanatal",address:"Rauslikhal, Chamba Mussoorie Rd, Kanatal 249145",phone:"98118 52812"},
+        {name:"Amala Villa and Cottages",address:"Vill-Bhamorikhal PO Bangiyal, Jwarna, Uttarakhand 249145",phone:"97977 67777"}
+      ],
+      Restaurant:[
+        {name:"Da‑Milano Restaurant, Kanatal",address:" near Club Mahindra Resort, Kanatal",phone:" 63981 84845"},
+        {name:"Auli Cafe & Restaurant",address:"next to Club Mahindra, Kanatal",phone:"90279 42554"},
+        {name:"Hotel Milan Kanatal Resort & Restaurant",address:"Chamba Mussoorie Rd, Kanatal",phone:"98976 63381"},
+        {name:"Green Terrasse Restaurant club Mahindra Kanatal ",address:"Kanatal",phone:"95613 35037"},
+        {name:"Sahay Home Stay and Cafe",address:"Chamba Mussoorie Rd, Saur, Kanatal",phone:"99532 47313"},
+        {name:"Usha Home Stay - Kanatal ",address:"near Club Mahindra, Kanatal",phone:"99904 12622"},
+        {name:" Pahadi style dhaba ",address:"Thagdhar, Kanatal",phone:"77423 20782"}      ],
+      Cab:[
+        {name:"Triveego Taxi Service",phone:"79066 36662"},
+        {name:"Kanatal taxi service",phone:"63976 18013"},
+        {name:"Aaditri Tour & Travels Kanatal ",phone:"99904 12622"}      ]
+
+    },
+    Lansdowne:{
+      Hotel:[
+        {name:" The Woods Retreat, Lansdowne",address:" Mandoli Road, Jaiharikhal, Lansdowne, Uttarakhand 246193, India",phone:"63987 88929"},
+        {name:"Peaks And Pines Resort, Lansdowne",address:" Lansdowne Milestone, Goyun – 6 km, Lansdowne, Uttarakhand 246155",phone:"82828 23642"},
+        {name:"Zone Connect by The Park Lansdowne",address:" Deriyakhal, Tarkeshwar Road, near Himalayan Hotel, Lansdowne 246155",phone:"81714 64445"},
+        {name:"Lans Castle",address:"Dehriyakhal, Lansdowne, Uttarakhand 246155",phone:"98713 08627"},
+        {name:"Hotel LeOsh",address:"Lansdowne Market Rd, Lansdowne, Uttarakhand 246155",phone:"81491 29944"},
+        {name:"Eden Resort Lansdowne",address:"Deriyakhal Village, Lansdowne, Uttarakhand 246155",phone:" 94107 70916"},
+        {name:"Hotel Ravine Palace Lansdowne",address:"Palkot, Lansdowne, Uttarakhand 246155",phone:"93681 37415"},
+        {name:"The Garhwali Inn, lansdowne uttarakhand",address:"Lansdowne, Sauli, Uttarakhand 246155",phone:"97590 01960"},
+        {name:"GMVN Tip N Top Resort",address:"NH119, Bonda, Lansdowne, Uttarakhand 246155",phone:"1386 263109"},
+        {name:"Viceroy Lansdowne By ALIVAA",address:"Palkot P.O., Lansdowne, Uttarakhand 246155",phone:" 92582 96002"},
+        {name:"Q' Nest‑Hotel Cloud End Lansdowne",address:"Jaiheri, Lansdowne, Uttarakhand 246193",phone:"92204 33367"},
+        {name:" The Lanswood Estate",address:"Village Jadla, Patti Talla Badalpur, Lansdowne 246155",phone:"76459 79970"}      ],
+      Restaurant:[
+        {name:"Divine Cafe & Restaurant Lansdowne",address:" Near Kotnala Bakery, LeOsh Hotel, Lansdowne 246155",phone:"81491 29944"},
+        {name:" Northern Flavours",address:" Lansdowne Market Rd, Sadar Bazaar, Lansdowne 246155",phone:"94129 22007"},
+        {name:" Tipsy Cafe & Restaurant",address:"Gandhi Chowk, Lansdowne, Uttarakhand 246155",phone:"63973 03050"},
+        {name:"The Lansdowne Kitchen",address:"Jaiharikhal, Lansdowne 246193",phone:"92201 56565"},
+        {name:"Lansdowne Trip Travel Café",address:"Near Saint Mary’s Church, Lansdowne 246155",phone:" 99999 31484"},
+        {name:"THE TERRACE A FAMILY RESTURENT",address:"Kura Range, Lansdowne 246155",phone:"70378 86348"},
+        {name:"Day night Dhabha",address:"Sisaldi, Tadkeshwar Road, Lansdowne 246155",phone:" 95575 08540"},
+        {name:"Oak Town's Flavor Tadka Restaurant",address:" Lansdowne Market Rd, Lansdowne 246155",phone:"94124 06901"},
+        {name:" New Zayka Restaurant",address:" Lansdowne Market Rd, Lansdowne 246155",phone:"73020 19406"},
+        {name:"Kaludanda Cafe",address:" Lansdowne, Uttarakhand 246155",phone: "89795 60988"}      ],
+      Cab:[
+        {name:"uttarakhand cab service",phone:" 95578 16708"},
+        {name:" srrp cab services lansdown",phone:"99107 26374"},
+        {name:"ARUN TAXI SERVICES",phone:"97194 36582"},
+        {name:" Lansdowne tour & travels taxi service",phone:"74569 83895"},
+        {name:"Tadkeshwar Tour and travel cab service",phone:"88650 84919"},
+        {name:"D.k Texi Cabs services in Lansdowne",phone:"72486 67800"}      ]
+
+    },
+    Chopta:{
+      Hotel:[
+        {name:"Chopta Resort",address:"Chopta, Uttarakhand 246469",phone:"97586 67755"},
+        {name:"Chopta Eco Resort",address: "Hudu Road, Chopta, Uttarakhand 246469",phone:" 97615 59052"},
+        {name:"Snow Hills Resort & Camps Chopta",address:"Bhiri Makku Road, Chopta, Uttarakhand 246419",phone:"84759 53929"},
+        {name:"Hotel Snow View, Chopta",address:"Road Pothibasa, Kanda Road, Chopta, Uttarakhand 246469",phone:"73516 37172"},
+        {name:"Himrab Chopta Resort",address:"Ukhimath – Chopta – Gopeshwar Rd, Chopta, Uttarakhand 246469",phone:"83906 94476"},
+        {name:"Himalaya Resort Chopta",address:" Ukhimath – Chopta – Gopeshwar Rd, Dilangwar, Chopta, Uttarakhand 246469",phone:"80061 01055"},
+        {name:"The Meadows Chopta",address:"Ukhimath – Chopta – Gopeshwar Rd, Chopta, Uttarakhand 246469",phone:"96344 35911"},
+        {name:" Hotel Chopta Heavens",address:"Masura Road, Mastura, Chopta, Uttarakhand 246469",phone:"98102 29464"},
+        {name:"Snow N Shades Resort and Cafe",address:" Snow N Shades Village, Ukhimath – Chopta – Mandal Gopeshwar Rd, Uttarakhand 246469",phone:"79884 26305"},
+        {name:"Lake Haven Resort, Sari, Chopta",address:"Ukhimath, Sari, Dilmi, Uttarakhand 246469",phone:"80771 55130"},
+        {name:"Chopta Delights",address:"Sari Village, Deoria Tal, Uttarakhand 246469",phone:" 94105 05230"},
+        {name:"The Aipan Resort",address:" Tala Daira, Ushara, Ukhimath, Uttarakhand 246469",phone:"81789 27519"},
+        {name:"PeaceTrips",address:"Ukhimath – Chopta – Gopeshwar Rd, Bhulkan, Uttarakhand 246469",phone:"78950 31411"},
+        {name:"Chopta Meadows Heritage Camps",address:"Ukhimath – Chopta – Gopeshwar Rd, Pangair, Chopta, Uttarakhand 246469",phone:"98113 53736"}
+      ],
+      Restaurant:[
+        {name:"The Zen Cafe",address:"Ukhimath – Chopta – Mandal Gopeshwar Rd, Chopta, Uttarakhand 246469",phone:"83859 51517"},
+        {name:"Chopta House Hotel and Restaurant",address:" Pothibasa, Kanda Rd, Chopta, Uttarakhand 246469, India",phone:"90122 55041"},
+        {name:"The Meadows Chopta",address:" Ukhimath–Chopta–Gopeshwar Rd, Chopta, Uttarakhand 246469, India",phone:"96344 35911"},
+        {name:" Himrab Chopta Resort",address:"Ukhimath – Chopta – Gopeshwar Rd, Bhulkan, Chopta, Uttarakhand 246469, India",phone:"83906 94476"},
+        {name:"Chopta Resort, Chopta Uttarakhand ",address:"Chopta, Uttarakhand 246469, India",phone:"97586 67755"},
+        {name:"Chopta Magpie Jungle Camp ",address:"Duggal Bittha, Chopta, Uttarakhand 246469, India",phone:"97586 67755"}      ],
+      Cab:[
+        {name:"Chopta Taxi Service",phone:"80061 01054"},
+        {name:"taxi / cab booking service",phone:"6398485008"},
+        {name:"taxi",phone:"9368812911"}      ]
+
+    },
+    Auli:{
+      Hotel:[
+        {name:"Aaryam Resort, Auli",address:"Auli Rd, Lower Auli, Joshimath, Uttarakhand 246443",phone:" 98118 52812"},
+        {name:"Satopanth The Auli resort",address:"TV Tower Sunil, Joshimath, Uttarakhand 246443",phone:"89370 35480"},
+        {name:"Blue Poppy Resort, Auli ",address:"Near GMVN, Auli Laga Salude, Uttarakhand 246443",phone:"78141 99093"},
+        {name:" The Royal Village",address:"Next to GMVN Govt Tourist Complex, Auli, Uttarakhand 246443",phone:"96394 19882"},
+        {name:"Auli Eco Nature Resort",address:"Auli Rd, Lower Auli, Uttarakhand 246443",phone:" 82875 94116"},
+        {name:"Faraway Cottages, Auli",address:"Farkiyaguar, Parsari, Lower Auli, Uttarakhand 246443",phone:" 88002 44626"},
+        {name:"Hotel Manik Resort Auli ",address:"Auli Laga Salude, Joshimath, Uttarakhand 246443",phone:"94120 30262"},
+        {name:"Nandan Kanan Auli Resort",address:"Auli Rd, Joshimath, Uttarakhand 246443",phone:"74538 06597"},
+        {name:"Mountain Rover, Auli- Resort",address:"ITBP Rd, Auli Laga Joshimath, Uttarakhand 246443",phone:"97589 03236"},
+        {name:"Casa Himalaya, Auli",address:"ITBP Rd, Auli Laga Joshimath, Uttarakhand 246443",phone:"97568 13236"},
+        {name:"The Cliff Top Club, Auli ",address:"Auli Skiing Village, Joshimath, Uttarakhand 246443",phone:"94111 07939"},
+        {name:"Auli homestay and hotel ",address:"Auli Laga Salude, Joshimath, Uttarakhand 246443",phone:"90454 61953"},
+        {name:"GMVN Auli ",address:"Auli Rd, Auli Laga Salude, Uttarakhand 246443",phone:"95680 06602"},
+        {name:"Snow City Auli ",address:"Army Helipad, Auli Laga Joshimath, Uttarakhand 246443",phone:"74550 09922"},
+        {name:"Snow Mount Hotel Auli ",address:"Near Army Helipad, Auli Rd, Uttarakhand 246443",phone:"70370 90721"}
+      ],
+      Restaurant:[
+        {name:" Auli D Food Plaza ",address:"Plaza Market, NH 58, Joshimath, Uttarakhand 246443",phone:"97601 35467"},
+        {name:"The Mountain Valley Restaurant Hailang",address:" Main, Badrinath Rd, Hailang, Joshimath",phone:"87552 21717"},
+        {name:"Bawarchi the Family Restaurant ",address:" NH 7, Joshimath, Uttarakhand 246443",phone:"95207 94730"},
+        {name:"Alpenrose Restaurant ",address:"The Tattva Resort, Joshimath",phone:"92103 56789"},
+        {name:"Snow Bliss Hotel And Restaurant",address:"Auli Laga Salude, Auli, Uttarakhand 246443",phone:"90583 06648"},
+        {name:"J.M.S Restaurant",address:" Narsingh Mandir Marg, Upper Bazar, Joshimath",phone:"99974 82177"}      ],
+      Cab:[
+        {name:"Dillu Negi Taxi Service",phone:"96346 65734"},
+        {name:"Negi Taxi Service Joshimath",phone:"89549 08265"},
+        {name:" Shree Vaikunth Taxi Service",phone:"80570 79847"},
+        {name:" Devbhoomi Travel’s",phone:"75052 83206"},
+        {name:"Bisht Taxi Service ",phone:"89585 24906"},
+        {name:"Mayank Taxi Service",phone:"96270 81302"},
+        {name:"Anil Taxi Service ",phone:"89799 19527"},
+        {name:"Elite Taxi Services Joshimath",phone:"90585 82393"},
+        {name:"Auli Taxi Service (Mayapur – Pipalkoti – Daswan)",phone:"78952 20348"}
+      ]
+
+    }
+
   }
 };
 
@@ -2013,7 +2728,6 @@ document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("city").addEventListener("change", loadServices);
 
 });
-
 
 
 
