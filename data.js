@@ -1725,7 +1725,7 @@ const data = {
         {name:"Hotel Raj Ville Darjeeling", address:"Mall Rd, P.O. Limbugaon, Darjeeling",phone:"97330 88688"},
         {name:"Darjeeling Hillside Inn", address:"Hill Cart Rd, West Point, Darjeeling",phone:"81677 88913"},
         {name:"Hotel Viceroy Darjeeling", address:"Gandhi Rd, near Clock Tower, Limbugaon",phone:"35422 59556 ·"},
-        {name:"INDUS MOUNT ROYALE - 3 STAR HOTEL IN DARJEELING MALL", address:"Dr Zakir Hussain Rd",phone:"97335 32211"},
+        {name:"INDUS MOUNT ROYALE ", address:"Dr Zakir Hussain Rd",phone:"97335 32211"},
         {name:"Darjeeling Guest House Deluxe", address:"DB Giri Rd, Chota Kak Jhora",phone:""}
       ],
       Restaurant:[
@@ -2642,7 +2642,8 @@ const data = {
         {name:"Bawarchi the Family Restaurant ",address:" NH 7, Joshimath, Uttarakhand 246443",phone:"95207 94730"},
         {name:"Alpenrose Restaurant ",address:"The Tattva Resort, Joshimath",phone:"92103 56789"},
         {name:"Snow Bliss Hotel And Restaurant",address:"Auli Laga Salude, Auli, Uttarakhand 246443",phone:"90583 06648"},
-        {name:"J.M.S Restaurant",address:" Narsingh Mandir Marg, Upper Bazar, Joshimath",phone:"99974 82177"}      ],
+        {name:"J.M.S Restaurant",address:" Narsingh Mandir Marg, Upper Bazar, Joshimath",phone:"99974 82177"} 
+     ],
       Cab:[
         {name:"Dillu Negi Taxi Service",phone:"96346 65734"},
         {name:"Negi Taxi Service Joshimath",phone:"89549 08265"},
@@ -2654,9 +2655,7 @@ const data = {
         {name:"Elite Taxi Services Joshimath",phone:"90585 82393"},
         {name:"Auli Taxi Service (Mayapur – Pipalkoti – Daswan)",phone:"78952 20348"}
       ]
-
     }
-
   }
 };
 
@@ -2728,7 +2727,6 @@ document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("city").addEventListener("change", loadServices);
 
 });
-
 
 
 
