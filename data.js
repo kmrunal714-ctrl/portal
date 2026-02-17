@@ -2008,12 +2008,14 @@ const data = {
         {name:"THE CORBETT KING - Pure Veg Restaurant & Hotel",address:"Gebua Khas, Ramnagar, Uttarakhand 244715",phone:"95285 36427"},
         {name:"Village Vatika Restaurant",address:" NH-309, Ladwachaur, Ramnagar, Uttarakhand 244715",phone:"98374 02538"},
         {name:"Karans Corbett Motel and Restaurant",address:"Shankarpur Bhud, Ramnagar, Uttarakhand 244715",phone:" 98374 68933"},
-        {name:"Tree House",address:"NH-309, Sankar, Marchula, Uttarakhand 263646",phone:"82795 96060"}      ],
+        {name:"Tree House",address:"NH-309, Sankar, Marchula, Uttarakhand 263646",phone:"82795 96060"}      
+      ],
       Cab:[
         {name:"Corbett Taxi Booking",phone:"90589 99858"},
         {name:"Corbett Jeep Booking ",phone:"95365 66872"},
         {name:"Jim Corbett Uttarakhand",phone:"89231 11636"},
-        {name:"Corbett Tiger Reserve Safari Booking Office",phone:"91919 0123 / +91 91190 13028 "}      ]
+        {name:"Corbett Tiger Reserve Safari Booking Office",phone:"91919 0123 / +91 91190 13028 "}     
+       ]
 
     },
     Mussoorie:{
@@ -2049,7 +2051,8 @@ const data = {
         {name:"Mussoorie Taxi Service",phone:"70178 81947 / 72499 0452"},
         {name:"Mussoorie Taxi Service (Local & 24/7)",phone:"96752 12169"},
         {name:"Khushi Taxi Service –",phone:"8979 892473 / 74560 20114"},
-        {name:"Home Cabs (Taxi Booking)",phone:"82228 73873"}      ]
+        {name:"Home Cabs (Taxi Booking)",phone:"82228 73873"}      
+      ]
 
     },
     Rishikesh:{
@@ -2081,7 +2084,8 @@ const data = {
         {name:"SHIVANI'S Cafe",address:"Neelkanth Rd, Opp. Govt Hospital, Laxman Jhula, Rishikesh",phone:"74568 99637"},
         {name:"GANGA VIEW CAFE",address:"near 13 Stories Temple, Laxman Jhula, Rishikesh",phone:"92979 72929"},
         {name:" Tulsi Restaurant",address:"Tapovan, Ghugtyani Malli, Rishikesh",phone:"75005 19943"},
-        {name:" Bistro Nirvana",address:"Swami Omkarananda Saraswati Rd, Near Green Valley Cottage, Tapovan, Rishikesh",phone:"72175 10222"}      ],
+        {name:" Bistro Nirvana",address:"Swami Omkarananda Saraswati Rd, Near Green Valley Cottage, Tapovan, Rishikesh",phone:"72175 10222"}     
+       ],
       Cab:[
         {name:"Rishikesh Taxi Cab Service ",phone:" 90276 75051 / +91 94563 14753 "},
         {name:"Rishikeshtaxis.com (Local / Sightseeing Taxi)",phone:"99972 75184 / +91 96349 60460"},
@@ -2213,7 +2217,8 @@ const data = {
         {name:"The First Cafe",address:" Café in Barkot",phone:""}
       ],
       Cab:[
-        {name:"Barkot Taxi Service",phone:"9457523803 (local taxi operator)"}      ]
+        {name:"Barkot Taxi Service",phone:"9457523803 (local taxi operator)"}     
+       ]
 
     },
     Uttarkashi:{
@@ -2371,11 +2376,13 @@ const data = {
         {name:"Rana House – Yamuna View",address:"Kharsali, Uttarkashi – 249141",phone:""},
         {name:"Aarav Restaurant",address:"Barkot Road, Yamunotri (towards Kharsali)",phone:""},
         {name:"Paras Restaurant",address:"Near Taxi Stand, Barkot – Yamunotri Rd, Uttarkashi – 249141",phone:""},
-        {name:"Hotel Yamuna Dham Restaurant (Kharsali)",address:" Near Helipad, Kharsali, Yamunotri – 249141",phone:""}      ],
+        {name:"Hotel Yamuna Dham Restaurant (Kharsali)",address:" Near Helipad, Kharsali, Yamunotri – 249141",phone:""}    
+        ],
       Cab:[
         {name:"Yamunotri Yatra – Shared/Private Cabs",phone:"98974 83516"},
         {name:"Himalayan Taxi Service (Char Dham Route)",phone:"94101 01287 / +91 94101 01286"},
-        {name:"Bharat Taxi – Char Dham & Yamunotri Routes",phone:"96960 00999"}      ]
+        {name:"Bharat Taxi – Char Dham & Yamunotri Routes",phone:"96960 00999"}     
+       ]
 
     },
     Harsil:{
@@ -2391,10 +2398,12 @@ const data = {
         {name:"Harshil Delight Multiple Cuisine Cafe and Restaurant ",address:"Uttarkashi – Gangotri Rd, Harsil, Uttarakhand 249135, India",phone:""},
         {name:"Harsila Restaurant ",address:"Bagori, Harsil, Uttarakhand 249135, India",phone:""},
         {name:"Urmila's Kitchen Harshil Valley ",address:"Bagori, Harsil, Uttarakhand 249135, India",phone:" 89796 33070"},
-        {name:"Harshil View Point ",address:"Near Jaspur Band Jhala, Harsil, Uttarkashi, Uttarakhand 249135, India",phone:"93891 63448"}      ],
+        {name:"Harshil View Point ",address:"Near Jaspur Band Jhala, Harsil, Uttarkashi, Uttarakhand 249135, India",phone:"93891 63448"}     
+       ],
       Cab:[
         {name:"Taxi service",phone:"78200 60725"},
-        {name:"Chandrabadni taxi service",phone:""}      ]
+        {name:"Chandrabadni taxi service",phone:""}     
+       ]
 
     },
     Almora:{
@@ -2416,7 +2425,8 @@ const data = {
         {name:"Bhumika Restaurant",address:"Paltan Bazar, Dharanaula, Almora – 263601",phone:" 94105 01105"},
         {name:" Famous Jalebi Shop",address:"Karkhana Bazar, Near Lohe Ka Sher, Almora – 263601",phone:"94113 66084"},
         {name:" Alka Restaurant",address:"Paltan Bazar, Almora – 263601",phone:""},
-        {name:"Chill Out Restaurant",address:" Dharanaula, Palari Garh, Almora – 263601",phone:"94129 76851"}      ],
+        {name:"Chill Out Restaurant",address:" Dharanaula, Palari Garh, Almora – 263601",phone:"94129 76851"}      
+      ],
       Cab:[
         {name:"Rakesh Cab Service Mukteshwar",phone:"88594 90284"},
         {name:"Alm Travels – Almora Taxi Service",phone:"90844 88229"},
@@ -2458,7 +2468,8 @@ const data = {
         {name:"Taxi Service Majkhali",phone:" 87553 88440"},
         {name:"Uttarakhand rangers & travels",phone:"76680 85053"},
         {name:" Ankit Car Shringar",phone:""},
-        {name:"The Queen's taxi service",phone:""}      ]
+        {name:"The Queen's taxi service",phone:""}     
+       ]
 
     },
     Binsar:{
@@ -2487,9 +2498,11 @@ const data = {
         {name:"Shri Hayat Hotel & Restaurant",address:"Almora-Bageshwar Rd, Basholi, Binsar, Uttarakhand 263601",phone:"94113 18686"},
         {name:"The Kasar Kitchen",address:" Village Matena Deenapani, Road, near TRH, Binsar 263601",phone:"95363 61171"},
         {name:"Himalayan Hobbit House",address:" Kasar Devi, Gadholi, Binsar, Uttarakhand 263601",phone:"82875 00179"},
-        {name:"Mohan's Cafe",address:"Near Kasar Devi Temple, Binsar, Mat, Uttarakhand 263601",phone:"94129 77968"}      ],
+        {name:"Mohan's Cafe",address:"Near Kasar Devi Temple, Binsar, Mat, Uttarakhand 263601",phone:"94129 77968"}     
+       ],
       Cab:[
-        {name:"Binsar Valley Taxi Service",phone:""}      ]
+        {name:"Binsar Valley Taxi Service",phone:""}     
+       ]
 
     },
     Kausani:{
@@ -2519,9 +2532,11 @@ const data = {
         {name:"Veshnavi Paradise Hotel Restaurant",address:"Baijnath Road, Bhana Padiyar, Kausani, Uttarakhand 263641",phone:""},
         {name:"Quality Restaurant",address:"Main Market, Kausani, Uttarakhand 263639",phone:""},
         {name:"Himalaya Valley Restaurant, Kausani",address:"Baijnath Road, near Tea Factory, Kausani, Uttarakhand 263641",phone:"81918 21003"},
-        {name:"Yogi Food Point",address:"Mall Road, Kausani-Almora Rd, Kausani, Uttarakhand 263639",phone:""}      ],
+        {name:"Yogi Food Point",address:"Mall Road, Kausani-Almora Rd, Kausani, Uttarakhand 263639",phone:""}     
+       ],
       Cab:[
-        {name:"Maa Vaishnavi Taxi Service - Kausani",phone:"96273 52056"}      ]
+        {name:"Maa Vaishnavi Taxi Service - Kausani",phone:"96273 52056"}      
+      ]
 
     },
     Kanatal:{
@@ -2547,11 +2562,13 @@ const data = {
         {name:"Green Terrasse Restaurant club Mahindra Kanatal ",address:"Kanatal",phone:"95613 35037"},
         {name:"Sahay Home Stay and Cafe",address:"Chamba Mussoorie Rd, Saur, Kanatal",phone:"99532 47313"},
         {name:"Usha Home Stay - Kanatal ",address:"near Club Mahindra, Kanatal",phone:"99904 12622"},
-        {name:" Pahadi style dhaba ",address:"Thagdhar, Kanatal",phone:"77423 20782"}      ],
+        {name:" Pahadi style dhaba ",address:"Thagdhar, Kanatal",phone:"77423 20782"}     
+       ],
       Cab:[
         {name:"Triveego Taxi Service",phone:"79066 36662"},
         {name:"Kanatal taxi service",phone:"63976 18013"},
-        {name:"Aaditri Tour & Travels Kanatal ",phone:"99904 12622"}      ]
+        {name:"Aaditri Tour & Travels Kanatal ",phone:"99904 12622"}     
+       ]
 
     },
     Lansdowne:{
@@ -2567,7 +2584,8 @@ const data = {
         {name:"GMVN Tip N Top Resort",address:"NH119, Bonda, Lansdowne, Uttarakhand 246155",phone:"1386 263109"},
         {name:"Viceroy Lansdowne By ALIVAA",address:"Palkot P.O., Lansdowne, Uttarakhand 246155",phone:" 92582 96002"},
         {name:"Q' Nest‑Hotel Cloud End Lansdowne",address:"Jaiheri, Lansdowne, Uttarakhand 246193",phone:"92204 33367"},
-        {name:" The Lanswood Estate",address:"Village Jadla, Patti Talla Badalpur, Lansdowne 246155",phone:"76459 79970"}      ],
+        {name:" The Lanswood Estate",address:"Village Jadla, Patti Talla Badalpur, Lansdowne 246155",phone:"76459 79970"}    
+        ],
       Restaurant:[
         {name:"Divine Cafe & Restaurant Lansdowne",address:" Near Kotnala Bakery, LeOsh Hotel, Lansdowne 246155",phone:"81491 29944"},
         {name:" Northern Flavours",address:" Lansdowne Market Rd, Sadar Bazaar, Lansdowne 246155",phone:"94129 22007"},
@@ -2578,14 +2596,16 @@ const data = {
         {name:"Day night Dhabha",address:"Sisaldi, Tadkeshwar Road, Lansdowne 246155",phone:" 95575 08540"},
         {name:"Oak Town's Flavor Tadka Restaurant",address:" Lansdowne Market Rd, Lansdowne 246155",phone:"94124 06901"},
         {name:" New Zayka Restaurant",address:" Lansdowne Market Rd, Lansdowne 246155",phone:"73020 19406"},
-        {name:"Kaludanda Cafe",address:" Lansdowne, Uttarakhand 246155",phone: "89795 60988"}      ],
+        {name:"Kaludanda Cafe",address:" Lansdowne, Uttarakhand 246155",phone: "89795 60988"}     
+       ],
       Cab:[
         {name:"uttarakhand cab service",phone:" 95578 16708"},
         {name:" srrp cab services lansdown",phone:"99107 26374"},
         {name:"ARUN TAXI SERVICES",phone:"97194 36582"},
         {name:" Lansdowne tour & travels taxi service",phone:"74569 83895"},
         {name:"Tadkeshwar Tour and travel cab service",phone:"88650 84919"},
-        {name:"D.k Texi Cabs services in Lansdowne",phone:"72486 67800"}      ]
+        {name:"D.k Texi Cabs services in Lansdowne",phone:"72486 67800"}     
+       ]
 
     },
     Chopta:{
@@ -2611,11 +2631,13 @@ const data = {
         {name:"The Meadows Chopta",address:" Ukhimath–Chopta–Gopeshwar Rd, Chopta, Uttarakhand 246469, India",phone:"96344 35911"},
         {name:" Himrab Chopta Resort",address:"Ukhimath – Chopta – Gopeshwar Rd, Bhulkan, Chopta, Uttarakhand 246469, India",phone:"83906 94476"},
         {name:"Chopta Resort, Chopta Uttarakhand ",address:"Chopta, Uttarakhand 246469, India",phone:"97586 67755"},
-        {name:"Chopta Magpie Jungle Camp ",address:"Duggal Bittha, Chopta, Uttarakhand 246469, India",phone:"97586 67755"}      ],
+        {name:"Chopta Magpie Jungle Camp ",address:"Duggal Bittha, Chopta, Uttarakhand 246469, India",phone:"97586 67755"}     
+       ],
       Cab:[
         {name:"Chopta Taxi Service",phone:"80061 01054"},
         {name:"taxi / cab booking service",phone:"6398485008"},
-        {name:"taxi",phone:"9368812911"}      ]
+        {name:"taxi",phone:"9368812911"}    
+        ]
 
     },
     Auli:{
@@ -3497,7 +3519,6 @@ const data = {
         {name:"Aarushi cab taxi service",phone:"81818 11996"}
       ]
     },
-
   }
 };
 
@@ -3569,16 +3590,3 @@ document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("city").addEventListener("change", loadServices);
 
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
