@@ -1445,9 +1445,9 @@ const data = {
   Kerala:{
     Munnar:{
       Hotel:[
-        {name:"The Valle Munnar",address:"KSEB Tunnel Road, Pallivasal, Munnar, Kerala 685565",Phone:"96455 52155"},
-        {name:"Abad Copper Castle Resort Munnar",address:"Bison Valley - Pooppara Rd, Munnar, Kerala 685612",Phone:"94000 69202"},
-        {name:"Amber Dale Munnar‑Kondody Hotels",address:"KSEB Tunnel Road, Pallivasal, Munnar, Kerala 685565",Phone:""},
+        {name:"The Valle Munnar",address:"KSEB Tunnel Road, Pallivasal, Munnar, Kerala 685565",phone:"96455 52155"},
+        {name:"Abad Copper Castle Resort Munnar",address:"Bison Valley - Pooppara Rd, Munnar, Kerala 685612",phone:"94000 69202"},
+        {name:"Amber Dale Munnar‑Kondody Hotels",address:"KSEB Tunnel Road, Pallivasal, Munnar, Kerala 685565",phone:""},
         {name:"Chandys Windy Woods 5 Star Resort Munnar",address:"Pallivasal, 2nd Mile, Meencut P.O, Chittiarpuram, Munnar, Kerala 685565",Phone:"98466 28888"},
         {name:"Eden Woods Resorts & Spa",address:"Muthirapuzhayar Rd, Chithirapuram, Munnar, Kerala 685565",Phone:"80759 00311"},
         {name:"Grand Plaza Munnar",address:"MSA Rd, Moolakadai, Munnar, Kerala 685612",Phone:"97464 70119"},
