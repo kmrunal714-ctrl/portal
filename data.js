@@ -8,7 +8,6 @@ const data = {
         { name: "Hotel The Rising Banaras", address: "Building No. 257, Kanchan vihar  colony, Manduwadih, Varanasi 221103",phone: "9005550920"},
         {name: "Vanshivat ",address: "D63/11-A-N, A-K, Mahmoorganj, Varanasi 221010",phone: "7080150354"},
         {name: "Shree Sai Kripa Guest House",address: "B3/ 226, Shivala, Varanasi 221001",phone: "8707896452"},
-        {name: "Collection O",address: "Karaudi Marg Chittaipur Monja, Newada, Varanasi 221005",phone: "0124 4330599"},
         {name: "A P Residency",address: "K 61/150, Bulanala, Varanasi 221001",phone: "8400511581 / 9598500302" },
         {name: "Go Stops Lite Varanasi ",address: "Plot No. B-20/47, A-2 Vijaya Nagaram Colony Behind LG Store on Three Way Junction next to Bhelupur Overhead Water Tank, Bhelupur, Varanasi, 221010",phone: "7428882828"}
       ],
@@ -39,11 +38,9 @@ const data = {
         {name:"WelcomHeritage Badi Kothi",address:"Nirala Marg, Buxi Khurd, Daraganj, Prayagraj, Uttar Pradesh 211006, India",phone:"95192 92271"},
         {name:"Hotel Kanha Shyam",address:"22/1, Strachey Road, Civil Lines, Prayagraj, Uttar Pradesh 211001, India",phone:"97922 03853"},
         {name:"Grand Continental Hotel",address:"No 13, The Grand Plaza, Sardar Patel Marg, near PVR Cinemas, Civil Lines, Prayagraj, Uttar Pradesh 211001, India",phone:"95175 56630"},
-        {name:"Radisson Hotel Prayagraj",address:"Mauza Naseebpur Bakhtiara, Plot no. 24/19D, Sarojini Naidu Marg, Prayagraj, Uttar Pradesh 211001, India",phone:"53235 06400"},
         {name:"The Legend Hotel",address:"23C, Thornhill Road, Civil Lines, Prayagraj, Uttar Pradesh 211001, India",phone:"70803 05807"},
         {name:"Hotel Ganges Majestic",address:"Bakshi Kala, Buxi Khurd, Daraganj, Prayagraj, Uttar Pradesh 211006, India",phone:"91409 56939"},
         {name:"Millennium Inn, Prayagraj",address:"07F/06A, Hastings Rd, near Allahabad High Court, Canton, Dhoomanganj, Prayagraj, Uttar Pradesh 211001, India",phone:"72338 85888"},
-        {name:"Hotel Raj mahal palace",address:"Plot No 21A, Maharshi Dayanand Marg, Mohalla, Pargana, Prayagraj, Uttar Pradesh 211001",phone:"12443 30599"},
         {name:"Hotel Yatrik",address:"33, Sardar Patel Marg, Agnipath Colony, Civil Lines, Prayagraj, Uttar Pradesh 211001, India",phone:"95599 90926"},
         {name:"Hotel Golden Tree",address:"3/15, Patrika Marg, Agnipath Colony, Civil Lines, Prayagraj, Uttar Pradesh 211001, India",phone:"79058 42039"},
         {name:"Hotel Placid",address:"161/48 Anukool Chandra Banarjee Marg, Tagore Town, Prayagraj, Uttar Pradesh 211002, India",phone:"73111 75175"},
@@ -75,7 +72,6 @@ const data = {
         {name:"Clarks Inn Express, Ayodhya",address:"Plot No. 79, Basti-Lucknow Rd, Ghatam Pur, Ayodhya, Uttar Pradesh 224001, India",phone:"74598 14200"},
         {name:"Wanna Stay Ayodhya",address:"Near Rajarshi Dashrath Medical College Devkali Bypass Rd, Darshan Nagar, Faizabad, Uttar Pradesh 224135, India",phone:"94583 94130"},
         {name:"Hotel Panchsheel, Ayodhya",address:"Near Bypass Crossing NH-27, Deokali, Faizabad, Uttar Pradesh 224001, India",phone:"77068 29463"},
-        {name:"Collection O Ram Mandir Ayodhya (Formerly Hotel Aarambh)",address:"Pargana Haweli, Ghata No. 2476, Shahjahanpur, Faizabad, Uttar Pradesh 224001, India",phone:"12443 30599"},
         {name:"Hotel Krinoscco",address:"249, Ayodhya-Faizabad Rd, Awadhpuri Colony, Amanigunj, Faizabad, Uttar Pradesh 224001, India",phone:"72750 02525"},
         {name:"Ramayana Grand Hotel Ayodhya",address:"652/2, Chhoti Devkali Mandir Rd, Tulsi Nagar, Ayodhya, Uttar Pradesh 224123, India",phone:"91513 95008"},
         {name:"Shree Park Hotel",address:"14, Kosi Parikrama Rd, near R.B.S Lawn, Deen Dayal Nagar, Faizabad, Uttar Pradesh 224133, India",phone:"94557 25238"},
@@ -88,8 +84,8 @@ const data = {
         {name:"Hotel Raghupati ‑ Ayodhya",address:"State Bank of India, Main Street, Kami Ganj, Faizabad, Ayodhya, Uttar Pradesh 224123, India",phone:"63986 56524"},
         {name:"RAMA GRAND PALACE",address:"Ayodhya, Uttar Pradesh 224123, India",phone:"81739 41571"},
         {name:"Ayodhya Palace Hotel and Restaurant",address:"Ashapur Village, Darshan Nagar, Sanethu, Deokaali, Uttar Pradesh 224135, India",phone:"63944 45639"},
-        {name:"Hotel Jayaditya Palace",address:"Shree Ayodhya Ji, Begampura Rd, Tulsi Nagar, Ayodhya, Uttar Pradesh 224123, India",phone:"70682 71144"},
-        {name:"Maa Vaishno Paying Guest House",address:"Anjani Puram Colony Rd, Gayatri Puram, Faizabad, Uttar Pradesh 224001, India",phone:""}
+        {name:"Hotel Jayaditya Palace",address:"Shree Ayodhya Ji, Begampura Rd, Tulsi Nagar, Ayodhya, Uttar Pradesh 224123, India",phone:"70682 71144"}
+        
       ],
       Restaurant:[
         {name:"Dalmia’s Saffron Vatika Restaurant",address:"Shringar Haat, Main Ram Path Rd, near Hanuman Garhi Tiraha, New Colony, Ayodhya, Uttar Pradesh 224123, India",phone:"99363 29497"},
@@ -121,11 +117,8 @@ const data = {
         {name:"Hotel Silver Star",address:"Agrasen Chowk, Masani Road, Mathura, Uttar Pradesh 281121",phone:"82187 21674"},
         {name:"Hotel Heera Crystal Inn",address:"Maghora, Dampier Nagar, Mathura, Uttar Pradesh 281001",phone:"90129 29000"},
         {name:"Yogiraj Hotel and Restaurant",address:"Opposite Roadways Workshop, Near New Bus Stand, Mathura, Uttar Pradesh 281001",phone:"96349 30400"},
-        {name:"Classic Hotel / Restaurant",address:"Opposite Shri Krishna Janmabhoomi Main Gate, Mathura, Uttar Pradesh 281004",phone:"90581 94884"},
-        {name:"Gokul Residency (typical guest house in Mathura)",address:"Near Shri Krishna Janmabhoomi, Mathura, Uttar Pradesh 281004",phone:""},
-        {name:"Hotel Braj Heritage",address:"Mathura – Vrindavan Road, Mathura, Uttar Pradesh",phone:""},
-        {name:"Brijvasini Palace",address:"Station Road, Mathura, Uttar Pradesh",phone:""},
-        {name:"Hotel Radha Govind Palace",address:"Near Vishram Ghat, Mathura, Uttar Pradesh",phone:""}
+        {name:"Classic Hotel / Restaurant",address:"Opposite Shri Krishna Janmabhoomi Main Gate, Mathura, Uttar Pradesh 281004",phone:"90581 94884"}
+        
       ],
       Restaurant:[
         {name:"Hotel Wingston Restaurant (Mathura)",address:"Masani Road, Mathura, Uttar Pradesh",phone:"93595 30910"},
@@ -249,21 +242,14 @@ const data = {
   Rajasthan:{
     Jaipur:{
       Hotel:[
-        {name:"Rambagh Palace, Jaipur",address:"Bhawani Singh Rd, Rambagh, Jaipur, Rajasthan 302005, India",phone:"141 667 1234"},
-        {name:"Jai Mahal Palace, Jaipur",address:"Gound Floor, Jacob Rd, near Bharat Petroleum, Civil Lines, Jaipur, Rajasthan 302006, India",phone:"141 660 1111"},
+        
+        
         {name:"ITC Rajputana, a Luxury Collection Hotel, Jaipur",address:"Palace Road, Gopalbari, Jaipur, Rajasthan 302006, India",phone:"141 405 1600"},
-        {name:"Jaipur Marriott Hotel",address:"Ashram Marg, near Jawahar Circle, Chandrakala Colony, Durgapura, Jaipur 302015, India",phone:"141 456 7777"},
+        
         {name:"The Lalit Jaipur",address:"Jawahar Circle 2B & 2C, Malviya Nagar, Jaipur, Rajasthan 302017, India",phone:"141 664 7777"},
-        {name:"Radisson Hotel Jaipur City Center",address:"Khasa Kothi Circle, Mirza Ismail Rd, Jaipur, Rajasthan 302001, India",phone:"141 403 3300"},
-        {name:"Hilton Jaipur",address:"42, Hawa Sadak, Jaipur, Rajasthan 302006, India",phone:"141 417 0000"},
-        {name:"Holiday Inn Jaipur City Centre, an IHG Hotel",address:"Sardar Patel Marg, Shivaji Nagar, Jaipur, Rajasthan 302001, India",phone:"141 422 2444"},
-        {name:"Radisson Blu Hotel, Jaipur",address:"Airport Plaza, Tonk Rd, Chandrakala Colony, Jaipur, Rajasthan 302018, India",phone:"141 669 8888"},
-        {name:"Rajasthan Palace - A Heritage Boutique Hotel in Jaipur",address:"3, Peelwa Garden, Moti Doongari Road, Jaipur, Rajasthan 302004, India",phone:"70166 62608"},
-        {name:"The Fern Residency, Jaipur",address:"A-13, Govind Marg, near Pink Square Mall, Janata Colony, Jaipur, Rajasthan 302004, India",phone:"141 661 1100"},
-        {name:"Umaid Bhawan-A Royal Heritage Style Boutique Hotel",address:"D1-2A, Via Bank Road, Meera Marg, Bani Park, Jaipur 302016, India",phone:"141 231 6184"},
-        {name:"Umaid Mahal-A heritage Style Boutique Hotel",address:"C 20, B-2, Bihari Marg, Bani Park, Jaipur, Rajasthan 302016, India",phone:"141 220 1954"},
-        {name:"Samode Haveli",address:"Jorawar Singh Gate, Gangapole Road Near, Gangapole, Jaipur, Rajasthan 302002, India",phone:"141 263 2370"}
-      ],
+        
+        {name:"The Fern Residency, Jaipur",address:"A-13, Govind Marg, near Pink Square Mall, Janata Colony, Jaipur, Rajasthan 302004, India",phone:"141 661 1100"}
+              ],
       Restaurant:[
         {name:"Peacock Restaurant",address:"51, Hathroi Fort, Hari Kishan Somani Marg, near Native Cocktail Bar, Ajmer Rd, Jaipur 302001, India",phone:"141 237 3700"},
         {name:"Govindam Retreat",address:"First Floor, All Rajasthan Shilp Gram Udyog, Rajamal Ka Talab Rd, near Govind Dev Ji Temple, Gangori Bazaar, Jaipur 302002, India",phone:"99299 49258"},
@@ -282,7 +268,7 @@ const data = {
    Udaipur:{
      Hotel:[
         {name:"Brahma Niwas",address:"7, opposite Swaroop Sagar Lake, Udaipur, Rajasthan 313004, India",phone:"97733 13864"},
-        {name:"Hotel Lakend",address:"Fatehsagar Lake Shore, Alkapuri, Ambamata, Udaipur, Rajasthan 313004, India",phone:"294 243 1400"},
+        
         {name:"Udaigarh Udaipur",address:"21, Lal Ghat Road, behind Jagdish Temple, Old City, Udaipur, Rajasthan 313004, India",phone:"96600 55500"},
         {name:"jüSTa Sajjangarh Resort & Spa",address:"Main Gate, Biological Park, Sajjangarh Road, Harsh Nagar, Eklavya Colony, Udaipur, Rajasthan 313001, India",phone:"72320 53205"},
         {name:"THE LAVITRA UDAIPUR",address:"Shivrathi Koti, 18-B Lane, Ambamata Scheme-A Road, near Fatehsagar Lake, Udaipur, Rajasthan 313004, India",phone:"73000 03154"},
@@ -291,9 +277,9 @@ const data = {
         {name:"Lake Pichola Hotel",address:"Ambrai Road, Panch Devri Marg, Outside Chandpole, Udaipur, Rajasthan 313004, India",phone:"63763 64840"},
         {name:"The Jagat Hotel And Spa Udaipur",address:"Opp. BN College Road, Govindpura, Subhash Nagar, Udaipur, Rajasthan 313002, India",phone:"90017 75919"},
         {name:"Rajdarshan - A Lake View Hotel",address:"18, Pannadhai Marg, Hathipole, Udaipur, Rajasthan 313004, India",phone:"73000 07975"},
-        {name:"Janak Vilas‑ A Heritage Boutique Hotel",address:"14B, Lake Palace Road, opposite Rang Niwas, Old City, Udaipur, Rajasthan 313001, India",phone:"294 241 4388"},
+        
         {name:"Sinclairs Udaipur",address:"Plot No. 1, RK Circle, Punjawati, Pulla Bhuwana, Udaipur, Rajasthan 313001, India",phone:"98305 56333"},
-        {name:"Pride Hotel Udaipur",address:"32A, Hiran Magri Main Road, Sector 3, Udaipur, Rajasthan 313002, India",phone:"294 230 0000"},
+        
         {name:"Hotel Shiv Palace Udaipur",address:"Near Hanuman Ghat, Chand Pole, Udaipur, Rajasthan 313004, India",phone:"90796 90750"},
         {name:"Ambay Villa, A Luxury Stay",address:"House No. 48 Road, Number 2, Subhash Nagar, Udaipur, Rajasthan 313002, India",phone:"98290 78188"},
         {name:"Hotel Kotra Haveli",address:"12 Surya Marg, Opp. Jagdish Temple, Kasaro Ki Ol, Udaipur, Rajasthan 313001, India",phone:"80038 83798"},
@@ -320,17 +306,9 @@ const data = {
    },
     Jodhpur:{
       Hotel:[
-        {name:"Umaid Bhawan Palace, Jodhpur",address:"Circuit House Road, Jodhpur, Rajasthan 342006",phone:"291 251 0101"},
-        {name:"RAAS Jodhpur",address:"Tunwarji Ka Jhalra, Makrana Mohalla, Near Mehrangarh Fort, Jodhpur, Rajasthan 342001",phone:"291 263 6455"},
-        {name:"Ajit Bhawan – A Palace Resort",address:"Circuit House Road, Ajit Colony, Jodhpur, Rajasthan 342006",phone:"291 251 1411"},
-        {name:"Welcomhotel by ITC Hotels, Jodhpur",address:"53, Uchiyarda Road, Near Kudi Haud, Jodhpur, Rajasthan 342027",phone:"291 251 6666"},
-        {name:"The Ajit Bhawan Palace – Garden Wing",address:"Circuit House Road, Jodhpur, Rajasthan 342006",phone:"291 251 1411"},
-        {name:"Indana Palace Jodhpur",address:"Airport Road, Opposite Indian Oil Depot, Jodhpur, Rajasthan 342011",phone:"291 251 9999"},
-        {name:"Ranbanka Palace Hotel",address:"Circuit House Road, Jodhpur, Rajasthan 342006",phone:"291 251 2801"},
-        {name:"Pal Haveli – A Heritage Hotel",address:"Gulab Sagar, Clock Tower Road, Jodhpur, Rajasthan 342001",phone:"291 329 3322"},
+      
         {name:"Haveli Inn Pal",address:"Near Clock Tower, Gulab Sagar, Jodhpur, Rajasthan 342001",phone:"98290 21311"},
-        {name:"Hotel Shri Ram Excellency",address:"5A, Opposite Railway Reservation Office, Paota, Jodhpur, Rajasthan 342006",phone:"291 243 8000"},
-        {name:"The Kothi Heritage",address:"Bachraj Ji Ka Bagh, Jodhpur, Rajasthan 342001",phone:"291 262 0311"},
+      
         {name:"Hotel Nirali Dhani",address:"Chopasni Road, Near DPS Circle, Jodhpur, Rajasthan 342008",phone:"97833 33344"}
       ],
       Restaurant:[
@@ -351,7 +329,7 @@ const data = {
     },
     Jaisalmer:{
       Hotel:[
-        {name:"Jaisalmer Marriott Resort & Spa",address:"Jaisalmer – Sam – Dhanana Rd, Police Line, Kishan Ghat, Jaisalmer, Rajasthan 345001, India",phone:"299 226 6688"},
+       
         {name:"The Jaisalmer Resort",address:"Mohangarh Rd, Industrial Area, Gandhi Nagar, Jaisalmer, Rajasthan 345001, India",phone:"742 789 3411"},
         {name:"Hotel Rupal Residency - A Luxury Boutique Hotel",address:"4977, CVC Township, Jaisalmer – Sam – Dhanana Rd, CVS Colony, Kishan Ghat, Jaisalmer, Rajasthan 345001, India",phone:"946 080 7000"},
         {name:"WelcomHeritage Mandir Palace",address:"Gandhi Chowk Rd, Sadar Bazar, Kishan Ghat, Jaisalmer, Rajasthan 345001, India",phone:"884 946 8104"},
@@ -366,8 +344,8 @@ const data = {
         {name:"Himmatgarh Palace, Jaisalmer",address:"1 Ramgarh Road, Ram Kund, Jaisalmer, Rajasthan 345001, India",phone:"900 396 3906"},
         {name:"Boutique Helsinki",address:"Bera Rd, opposite Pushkarna Bera, Postal Colony, Jaisalmer, Rajasthan 345001, India",phone:"769 008 7886"},
         {name:"Hotel Akashdeep",address:"Near Hanuman Chauraha, Bhaskar Mohalla, Sadar Bazar, Jaisalmer, Rajasthan 345001, India",phone:"941 429 1002"},
-        {name:"Hotel Jaisal Inn",address:"Gadisar Rd, Jai Narayan Vyas Colony, Jaisalmer, Rajasthan 345001, India",phone:"916 604 9255"},
-        {name:"Hotel Nachana Haveli & Saffron Restaurant",address:"Gandhi Chowk Rd, Bhaskar Mohalla, Sadar Bazar, Jaisalmer, Rajasthan 345001, India",phone:"299 225 2110"}
+        {name:"Hotel Jaisal Inn",address:"Gadisar Rd, Jai Narayan Vyas Colony, Jaisalmer, Rajasthan 345001, India",phone:"916 604 9255"}
+      
       ],
       Restaurant:[
         {name:"Jor Bagh Restaurant Cafe Jaisalmer",address:"Bera Rd, opposite Nagarpalika Puskarna, Postal Colony, Jaisalmer, Rajasthan 345001, India",phone:"992 908 7171"},
@@ -397,14 +375,14 @@ const data = {
         {name:"Hotel Ajmer Tower",address:"3rd Floor, Ajmer Tower, Kutchery Road, Ajmer, Rajasthan 305001",phone:"77375 61557"},
         {name:"Hotel Chouhan Paradise Ajmer",address:"Garg Mohalla, Nala Bazar Rd, near Sharif Dargah, Ajmer, Rajasthan 305001",phone:"90798 12829"},
         {name:"Ajmer Sheraton - A Boutique Hotel",address:"Cinema Rd, opp. Plaza, Parao, Ajmer, Rajasthan 305001",phone:"95298 48554"},
-        {name:"Hotel Mansingh Palace, Ajmer",address:"Gaurav Path, Vaishali Rd, Ajmer, Rajasthan 305001",phone:"145 242 5702"},
+      
         {name:"Ajmer hotel ajmer",address:"Near Krishna Dairy, opp. Padma Dairy, Kesarganj, Police Lines, Ajmer, Rajasthan 305001",phone:"98290 90229"},
         {name:"Hotel Ajmer Grand",address:"Lohagal Rd, opposite Jawahar Rang Manch, Shastri Nagar, Ajmer, Rajasthan 305001",phone:"73002 80638"},
         {name:"Hotel Royal Ajmer",address:"Dhan Mandi, Dhobi Mohalla, Dargah Bazar, Ajmer, Rajasthan 305001",phone:"72969 22722"},
-        {name:"The Royal Melange Beacon, Ajmer",address:"Jaipur Rd, opposite City Power House, Sundar Vilas, Ajmer, Rajasthan 305001",phone:"145 263 0146"},
+       
         {name:"Hotel Ajmer Regency",address:"Madar Gate, Outside Railway Station, Ajmer, Rajasthan 305001",phone:"72300 66559"},
-        {name:"Hotel Madni Royale",address:"Dargah Bazar Rd, opp. Jain Pandal, Lakhan Kothri, Ajmer, Rajasthan 305001",phone:"98288 68786"},
-        {name:"Hotel Arzoo Palace Ajmer",address:"Nala Bazar Rd, Near Kailashpati Handloom, Dargah Bazar, Ajmer, Rajasthan 305001",phone:"145 243 2648"}
+        {name:"Hotel Madni Royale",address:"Dargah Bazar Rd, opp. Jain Pandal, Lakhan Kothri, Ajmer, Rajasthan 305001",phone:"98288 68786"}
+       
       ],
       Restaurant:[
         {name:"EMBER DINE",address:"93/18, Beawar Rd, opposite Lawrence & Mayo School, Railway Quarters, Ajmer, Rajasthan 305001",phone:"93511 91573"},
@@ -442,14 +420,11 @@ const data = {
         {name:"Pushkar Regency Resort",address:"Nyaya Path Rd, Vaam Dev Road, Pushkar, Rajasthan 305022, India",phone:"77374 93034"},
         {name:"Hotel Pushkar City Inn",address:"Behind Shyama Bagh Hospital, near Hill View Hotel, Pushkar, Rajasthan 305022, India",phone:"96106 08111"},
         {name:"The Country Side Resort‑ Refined By Nature",address:"Near Pushkar Lake High Bridge, Pushkar, Rajasthan 305022, India",phone:"97723 46466"},
-        {name:"Clarks Safari Pushkar",address:"Motisar Rd, Village Ganahera, Pushkar, Rajasthan 305022, India",phone:"145 277 2944"},
-        {name:"Pushkara Resort and Spa",address:"Pushkar Bypass Rd, near Sudha Bai Budha, Nedaliya, Rajasthan 305022, India",phone:"145 350 1111"},
         {name:"The Pushkar Mantra Resort",address:"Vamdev Road Nala, Pushkar, Rajasthan 305022, India",phone:"76659 91739"},
-        {name:"The Westin Pushkar Resort & Spa",address:"Village Surajkund, Motisar Rd, Pushkar, Rajasthan 305022, India",phone:"145 277 4400"},
-        {name:"Jagat Palace",address:"Ajmer Rd, behind Ramdwara, Pushkar, Rajasthan 305022, India",phone:"145 277 2401"},
+      
         {name:"Hotel Mewad Haveli Pushkar",address:"Chamunda Mata Road, Parikarma Marg, near Gurudwara, Pushkar, Rajasthan 305022, India",phone:"99827 40721"},
-        {name:"Elephant Pushkar - Stay & Food",address:"Main Market, Badi Basti, Pushkar, Rajasthan 305022, India",phone:"92527 74775"},
-        {name:"Hotel Pushkar Palace",address:"Near Pushkar Lake, Choti Basti, Pushkar, Rajasthan 305022, India",phone:""}
+        {name:"Elephant Pushkar - Stay & Food",address:"Main Market, Badi Basti, Pushkar, Rajasthan 305022, India",phone:"92527 74775"}
+      
         
       ],
       Restaurant:[
@@ -473,19 +448,17 @@ const data = {
     },
     Bikaner:{
       Hotel:[
-        {name:"Narendra Bhawan Bikaner",address:"Samta Nagar, Gandhi Colony, Bikaner, Rajasthan 334001",phone:"151 225 2500"},
+        
         {name:"The Lallgarh Palace - A Heritage Hotel",address:"Lallgarh Palace Complex, Opposite Roadways Bus Stand, Samta Nagar, Bikaner, Rajasthan 334001",phone:"88000 3100"},
         {name:"Hotel Sagar Bikaner",address:"Lalgarh Palace Campus, Sri Ganganagar Rd, Bikaner, Rajasthan 334002",phone:"99833 37397"},
-        {name:"Maharaja Ganga Mahal",address:"289G+X2R, Ganga Niwas, Outside Public Park, Rathkhana Gate, Bikaner, Rajasthan 334001",phone:"151 252 1074"},
         {name:"Hotel in Bikaner : Bhanwar Niwas",address:"Rampuria Street, Joshiwara, Sunaron Ka Mohalla, Bikaner, Rajasthan 334001",phone:"98299 19829"},
         {name:"Chandra Raj Mahal, Bikaner",address:"Near Narendra Bhawan Rd, Kailashpuri, Karni Nagar, Bikaner, Rajasthan 334001",phone:"98596 42222"},
         {name:"Karni Bhawan Palace",address:"Gandhi Colony, Bhaskar Marg, near Bikaner Public School, Bikaner, Rajasthan 334001",phone:"90017 96235"},
-        {name:"Heeralal Hotel (JNV Colony Branch)",address:"E-6, Opposite Vyas Colony, Kanta Khaturia Colony, Bikaner, Rajasthan 334003",phone:"151 297 0046"},
+        
         {name:"Hotel Marudhar Palace",address:"Kanta Khaturia Street, Near APEX Hospital, Rani Bazar, Bikaner, Rajasthan 334001",phone:"94140 96687"},
         {name:"Hotel Jaswant Bhawan",address:"Daudsar House, Alakh Sagar Rd, near Modern Market, Bikaner, Rajasthan 334001",phone:"90015 54746"},
         {name:"Ardas Villa Bikaner",address:"Sekhon Niwas Campus, M P Colony, Bikaner, Rajasthan 334004",phone:"90243 87109"},
         {name:"Hotel Enclave Bikaner",address:"Sector 5, Jai Narayan Vyas Colony, Bikaner, Rajasthan 334003",phone:"95495 40044"},
-        {name:"Vesta Bikaner Palace",address:"10th Mile Stone, Jaipur-Bikaner Highway, Himtasar, Bikaner, Rajasthan 334001",phone:"151 297 0058"},
         {name:"Tanisha Heritage Haweli",address:"Aasaniyon Ka Chowk, near Rampuria Haveli, Old Bikaner, Rajasthan 334001",phone:"75680 25662"},
         {name:"Hotel Chirag",address:"B-8, Sudarshana Nagar, Vallabh Garden, Bikaner, Rajasthan 334003",phone:"97842 99999"},
         {name:"Hotel Bikalal",address:"Panchshati Circle, Sadul Ganj, Bikaner, Rajasthan 334003",phone:"90014 56467"},
@@ -513,19 +486,17 @@ const data = {
     },
     MountAbu:{
       Hotel:[
-        {name:"WelcomHeritage Connaught House Mount Abu",address:"Connaught House, Rajendra Rd, Sani Gaon, Mount Abu, Rajasthan 307501, India",phone:"2974 238560"},
+        
         {name:"The Jaipur House, Mount Abu",address:"Sunset Road, near Nakki Lake, Mount Abu, Rajasthan 307501, India",phone:"94618 72567"},
         {name:"Sterling Mount Abu",address:"Neel Kanth Rd, Dhundayi, Mount Abu, Rajasthan 307501, India",phone:"79697 92011"},
         {name:"Casawood Resort ‑ A Luxury Private Pool Villa On Mount Abu Road",address:"Kasindra, Abu Road, Mount Abu, Rajasthan 307026, India",phone:"78786 70719"},
-        {name:"Radisson Resort Mount Abu",address:"Pandav Bhawan, Limdi, Sirohi, Mount Abu, Rajasthan 307501, India",phone:"2974 235000"},
         {name:"Hotel Sheratone Mount Abu",address:"Main Road, opposite Koyla Depot, Kumarwada, Mount Abu, Rajasthan 307501, India",phone:"94143 58314"},
-        {name:"Cama Rajputana Club Resort",address:"Road, Arbuda Devi, Mount Abu, Rajasthan 307501, India",phone:"2974 238205"},
-        {name:"Hotel Hillock",address:"Abu Cart Road, Mount Abu, Rajasthan 307501, India",phone:""},
+        
         {name:"Hotel Hilltone",address:"Main Road opposite Bus Stand, Janta Colony, Kumarwada, Mount Abu, Rajasthan 307501, India",phone:"94141 54888"},
-        {name:"Palace Hotel (Bikaner House)",address:"Delwara Road, Mount Abu, Rajasthan 307501, India",phone:"2974 238673"},
+        
         {name:"Chacha Inn The Garden Retreat",address:"Main Road, Mount Abu, Rajasthan 307501, India",phone:"99286 32807"},
         {name:"Hotel Shiv Villa, Mount Abu",address:"Behind Gujarat Circuit House, near Kumarwara, Mount Abu, Rajasthan 307501, India",phone:"91161 95200"},
-        {name:"Kesar Bhawan Palace",address:"Sunset Road, near Tibet Market, Machgoan, Mount Abu, Rajasthan 307501, India",phone:"2974 235219"},
+        
         {name:"The Colonial Manek Manor",address:"Manek Manor, Cross Road, Arbuda Devi, Mount Abu, Rajasthan 307501, India",phone:"90797 41435"},
         {name:"Hotel Crystal Inn @ Nakki Lake",address:"Behind Duleshwar Temple, Vakalt House, Nakki Lake, Mount Abu, Rajasthan 307501, India",phone:"77429 78900"},
         {name:"Hotel Rock Regency Mount Abu ‑ A Boutique Rodetel",address:"Pilgrim Rd, beside Gujarat Circuit House, Torna, Mount Abu, Rajasthan 307501, India",phone:"75970 03388"},
@@ -563,7 +534,7 @@ const data = {
         {name:"The Everest Hill Resort & Spa, Kumbhalgarh",address:"Village Udawar, Kumbhalgarh, Udawar, Rajasthan 313325, India",phone:"72720 32000"},
         {name:"Dera Kumbhalgarh",address:"Kumbhalgarh Post, Kelwara, Qila Kumbhalgarh, Rajasthan 313325, India",phone:"99839 96511"},
         {name:"Shahpura Kumbhal Villas",address:"Bid, Fort Road, Kunthwas Ki Bhagal, Kumbhalgarh, Rajasthan 313325, India",phone:"86960 08880"},
-        {name:"Mount Valley Resort",address:"Kumbhalgarh Main Road, After Club Mahindra, Kumbhalgarh, Rajasthan 313325, India",phone:""},
+        
         {name:"Bhawani Heritage Kumbhalgarh – By Turban Hotels",address:"Kamboda, Sayra Road, Kumbhalgarh, Rajasthan 313325, India",phone:"95878 95712"},
         {name:"The Aravali Kumbhalgarh",address:"Main Road, Kumbhalgarh, Qila Kumbhalgarh, Rajasthan 313325, India",phone:"78787 33381"}
       ],
@@ -606,8 +577,8 @@ const data = {
         {name:"Chittorgarh Fort Haveli",address:"Fort Rd, Chittorgarh Fort Village, Chittorgarh, Rajasthan 312025, India",phone:"98291 70190"},
         {name:"Hotel The Padmavati Fort View Chittorgarh",address:"Fort Road, Maharana Pratap Setu Marg, near City Petrol Pump, Chittorgarh, Rajasthan 312001, India",phone:"73401 96333"},
         {name:"The Elegance Resort",address:"State Highway 9, Kapasan Rd, near Petrol Pump, Zinc Nagar, Chittorgarh, Rajasthan 312201, India",phone:"97999 29271"},
-        {name:"Hotel Pratap Palace (The Heritage Hotel)",address:"Near H.P.O., Bijaipur, Chittorgarh, Rajasthan 312001, India",phone:"94611 41153"},
-        {name:"Hotel Meera",address:"Near Railway Station, Scheme No.7, Neemuch Rd, Chittorgarh, Rajasthan 312001, India",phone:"14722 40934"}
+        {name:"Hotel Pratap Palace (The Heritage Hotel)",address:"Near H.P.O., Bijaipur, Chittorgarh, Rajasthan 312001, India",phone:"94611 41153"}
+        
       ],
       Restaurant:[
         {name:"Shri Barbarik Restaurant Chittorgarh",address:"Inside Fort, near Ratan Singh Palace, Fort Village, Chittorgarh, Rajasthan 312025, India",phone:"77339 67117"},
@@ -644,9 +615,9 @@ const data = {
         {name:"The Maharaja's Lodge, Ranthambore",address:"Ranthambore National Park Road, Ranthambhore Rd, Sawai Madhopur, Rajasthan 322001, India",phone:"7462 225155"},
         {name:"Aamaghati Wildlife Resort",address:"Sherpur Ranthambore Road, near Govt Primary School, Sawai Madhopur, Rajasthan 322001, India",phone:"8440 888111"},
         {name:"The Tigress, Ranthambore",address:"Ranthambore Road, near Helipad, Sawai Madhopur, Rajasthan 322001, India",phone:"99834 23234"},
-        {name:"Sawai Shivir Ranthambore by TUTC",address:"Kundera, Rajasthan 322034, India",phone:""},
+        
         {name:"Ranthambore Tiger Machan Resort",address:"Village Kutalpur, Sherpur, Ranthambore Road, Sawai Madhopur, Rajasthan 322001, India",phone:"99505 21870"},
-        {name:"The Baagh Ananta Elite, Ranthambore",address:"Ranthambhor Road village Sherpur, Khilchipur, Rajasthan 322001, India",phone:"1413 540500"},
+        
         {name:"Bookmark Resorts, Jogi Mahal, Ranthambore",address:"near Sherpur Helipad, Khilchipur, Sawai Madhopur, Rajasthan 322001, India",phone:"97733 31341"},
         {name:"ZANA Forest Resort, Ranthambore",address:"Shooting Lodge Road, Saptar, Sawai Madhopur, Rajasthan 322001, India",phone:"78382 03203"},
         {name:"Ranthambore Tiger Resort",address:"Village Sherpur Near Ranthambore National Park, Ranthambore Road, Sawai Madhopur, Rajasthan 322001, India",phone:"97827 05705"},
@@ -693,8 +664,7 @@ const data = {
         {name:"The Grand Flavors",address:"Shop No.1, Bhoomi Complex, Mundra Rd, Opp. Reliance Petrol Pump, Aiya Nagar, Bhuj, Gujarat 370001",phone:"95295 39595"},
         {name:"Aatithya Multicuisine Restaurant",address:"B/H Reliance Petrol Pump, Mundra Rd, Bhuj, Gujarat 370001",phone:"90815 59955"}      ],
       Hotel:[
-        {name:"Regenta Resort Bhuj by Royal Orchid",address:"GMDC House, Highway, Mirjapar Part, Bhuj, Gujarat 370040",phone:"2832 230166"},
-        {name:"ime Square Club Resort & Spa",address:"The Villa BSF Marine Road Opp. Surya Varsani Academy, Bhuj-Mundra Road, Sedata, Bhuj, Gujarat 370427",phone:""},
+        
         {name:"Hill View Resort Bhuj‑Kutch",address:"Airport Ring Rd, Near Hill Garden, Uma Nagar, Bhuj, Gujarat 370040",phone:"72111 70390"},
         {name:"The Fern Residency, Bhuj",address:"Bhuj-Anjar Hwy, Danda Bazar, Navavas, Madhapar, Bhuj, Gujarat 370020",phone:"98799 48060"},
         {name:"Floating Deck Resort",address:"Airport Road, Near Dwarka Greens, Ratiya, Bhuj, Gujarat 370001",phone:"90818 11434"},
@@ -728,20 +698,19 @@ const data = {
         {name:"Hotel The Grand Ladhukara",address:"SBI Bank Circle, Siddhnath Mahadev Rd, near Vegetable Market, Dwarka, Gujarat 361335",phone:"99090 48351"},
         {name:"The Grand Dwarika",address:"Bhathan chok, Dwarkadhish Temple Rd, Dwarka, Gujarat 361335",phone:"97233 34566"},
         {name:"The Dwarika Hotel",address:"Near Kandasbapu Ashram, Jamnagar Road, Dwarka, Gujarat 361335",phone:"76000 82000"},
-        {name:"Lemon Tree Premier, Dwarka",address:"Nageshwar Rd, near Iskon Gate, Ghanshyam Nagar, Dwarka",phone:"28926 14444"},
+       
         {name:"Regenta Central Dwarka",address:"Rabari Gate, Opp. Dwarka Post Office, Dwarka",phone:"87805 64378"},
         {name:"Dwarkadhish Lords Eco Inn",address:"Beach Seafront near Gayatri Temple Rd, Dwarka",phone:"93753 36207"},
         {name:"Hotel Swati Dwarka",address:"Bhadrakali Rd, Dwarka",phone:"99742 90118"},
-        {name:"Hawthorn Suites by Wyndham Dwarka",address:"Baradia Road, Dwarka",phone:"28926 74444"},
-        {name:"VITS Devbhumi, Dwarka",address:"Okha State Highway, near Ravla, Dwarka",phone:""},
+        
         {name:"Guruprerna Beacon Resort, Dwarka",address:"Opp. BhadraKali Temple, Dwarka",phone:"89807 24314"},
         {name:"Devbhoomi Residency, Dwarika Gujarat",address:"Gomti Ghat, Rajput Seva Sadan, Dwarka",phone:"94282 83364"},
         {name:"Hotel Leela’s",address:"Homeguard Chowk, Dwarka",phone:"97262 86398"},
         {name:"Club Mahindra Resort - Dwarka",address:"National Highway No. 8, Dwarka",phone:"95123 00141"},
         {name:" Hotel The Heaven ",address:"Opp. Bharat Seva Ashram, Station Rd, Dwarka",phone:"81410 53539"},
         {name:"Hotel Fortune Palace Dwarka",address:" NH947, Opp. Dwarka Police Station, Ghanshyam Nagar, Dwarka",phone:"78742 77777"},
-        {name:"Pride Elite, Dwarka",address:"Bhathan Chowk, near Kirti Stamb, Gomti Ghat, Dwarka",phone:"74338 11111"},
-        {name:" Hotel Park Royal ",address:"Bhadrakali Rd, Dwarka",phone:""}     
+        {name:"Pride Elite, Dwarka",address:"Bhathan Chowk, near Kirti Stamb, Gomti Ghat, Dwarka",phone:"74338 11111"}
+             
        ],
       Restaurant:[
         {name:"Makhkhan Bhog Restaurant",address:"Jakat Naka Rd, Opp. Kandas Bapu Ashram, Dwarka ",phone:"90990 55558"},
@@ -779,9 +748,7 @@ const data = {
        Hotel:[
         {name:"Ekansh Hotels And Resorts",address:"Somnath Bypass Rd, opp. Hotel Fern, Veraval, Somnath, Gujarat ",phone:"90330 67168"},
         {name:"The Square Somnath",address:"Somnath Bypass Rd Corner, Prabhas Patan",phone:" 98798 58958"},
-        {name:"Lords Inn Somnath",address:"Prabhas Patan, Somnath Bypass Rd ",phone:"2876 232072"},
-        {name:"The Fern Residency, Somnath",address:"Veraval Bypass Corner, near Railway Station",phone:"2876 225200"},
-        {name:"Sarovar Portico Somnath",address:"Somnath–Junagadh Highway, Prabhas Patan",phone:"2876 233786"},
+        
         {name:"Regenta Central Somnath ",address:"Veraval Bypass Rd, Bhalpara Part",phone:"63589 81905"},
         {name:"Mandeep Resort And Farmhouse ",address:"Somnath–Una Hwy, Kajli, Veraval",phone:"95376 57670"},
         {name:"Hotel Shri Radhe ",address:"Near Somnath Temple, Prabhas Patan",phone:"92740 27567"},
@@ -867,24 +834,21 @@ const data = {
     },
     Surat:{
        Hotel:[
-        {name:"Courtyard by Marriott Surat",address:"Earthspace, Hazira Rd, Surat, Gujarat 394510",phone:"261-7111 555"},
-        {name:"Hilton Garden Inn Surat City Centre",address:" City Survey No:7/39, Railway Station Rd, Varachha, Surat, Gujarat 395003",phone:"261-3602 222"},
-        {name:" Park Inn by Radisson Surat",address:" No 370, Block 328, Umra Bridge, Adajan, Surat, Gujarat 394510",phone:" 261-6786 666"},
-        {name:"Regenta - The World",address:" B/s Parvat Gam-Kumbharia Rd, Magob, Surat, Gujarat 395012",phone:"261-3501 111"},
+        
         {name:" Ramee International Surat",address:"Vivanta Icon, LP Savani Rd, Adajan Gam, Surat, Gujarat 395009",phone:"74860 01615"},
         {name:"HOTEL CASA RIVA",address:"Near Auro University, Bhatpore, Surat, Gujarat 394510",phone:"77789 92992"},
         {name:" The Long - D Hotel & Banquet",address:"Piplod, Dumas Rd, Surat, Gujarat 395007",phone:"99986 54999"},
         {name:" Lords Plaza Surat",address:" Delhi Gate, Ring Rd, Japan Market, Begampura, Surat, Gujarat 39500",phone:"73777 34777"},
         {name:"De Glance Hotel",address:"Railway Station Rd, opp Sufi Baug, Lal Darwaja, Surat, Gujarat 395003",phone:"95125 55110"},
-        {name:"Hotel Sifat International Surat",address:"Railway Station Rd, opp Surat Railway Station, Lal Darwaja, Surat, Gujarat 395003",phone:"261-2431 001"},
+        
         {name:" Weekend Address",address:"Near Surat Airport, Dumas, Gujarat 394550",phone:"90168 23391"},
         {name:"The Grand Murli Hotel & Banquet",address:" City Light Bypass Rd, Athwa, Surat, Gujarat 395007",phone:"98988 86151"},
         {name:"4 Seasons Hotel",address:"Canal Walk Shoppers, Palanpur, Surat, Gujarat 395009",phone:"96624 24449"},
         {name:"Hotel Bawa Inn",address:" Sonifaliya, Chowk Bazar, Gopipura, Surat, Gujarat 395001",phone:"86863 04343"},
         {name:"The Amore Surat",address:"Dumas Rd, near Airport, Magdalla, Surat, Gujarat 395007",phone:"93138 06330"},
         {name:"Hotel Royal Rituals",address:"Vesu Main Road, near Someshwara Square, Surat, Gujarat 395007",phone:"84606 51000"},
-        {name:"Hotel Sadbhav Villa",address:"Hazira Rd, opposite RTO Pal, Adajan, Surat, Gujarat 394510",phone:" 84600 33969"},
-        {name:" Ginger Surat (City Center)",address:"Railway Station Rd, Doriwala Square, Lal Darwaja, Surat, Gujarat 395003",phone:"261-6797 000"}
+        {name:"Hotel Sadbhav Villa",address:"Hazira Rd, opposite RTO Pal, Adajan, Surat, Gujarat 394510",phone:" 84600 33969"}
+        
        ],
       Restaurant:[
         {name:" Spice Terrace Restaurant",address:"At Marriott Hotel, Athwa, Surat",phone:"261-7117 000"},
@@ -928,7 +892,7 @@ const data = {
         {name:"Hotel Cidade de Diu",address:"Near Vegetable Market Rd, behind Hotel Samrat, Diu – 362520",phone:"96240 33181"},
         {name:"Hotel TGH - The Grand Highness",address:"Off Fort Rd, near Hotel Prince, Main Bazar, Diu – 362520",phone:"89800 30205"},
         {name:"Hotel Palacio de Diu",address:"Parsiwada Rd, near Diu – 362520",phone:" 76985 47077"},
-        {name:"Hotel Diamond",address:"Circle, near Suzlon Factory, Malala, Diu – 362520",phone:"2875 299166"},
+        
         {name:"Azzaro Resort & Spa ",address:"Fofrara Road, Diu",phone:"(02875) 255421/22/23/24 • Mob: 98242 76660"},
         {name:"Radhika Beach Resort",address:"Nagoa Beach, Nagoa",phone:"(02875) 275551–55 • Mob: 98244 18555 / 99248 85555"},
         {name:"Hotel Kohinoor, Diu",address:"Fofrara Road, Diu",phone:"(02875) 252209 / 253575–77 • Mob: 98242 76660"},
@@ -972,7 +936,7 @@ const data = {
         {name:" Novotel Ahmedabad",address:"Iscon Cross Roads, Sarkhej – Gandhinagar Hwy, next to Wide Angle Cinema, Ahmedabad, Gujarat 380015",phone:"7940 606060"},
         {name:"Taj Skyline, Ahmedabad",address:"Sankalp Square III, Opp. Saket 3, Sindhubhavan Road, Shilaj, Ahmedabad, Gujarat 380058",phone:"7940 400000"},
         {name:" Hyatt Regency Ahmedabad",address:"17/A, Ashram Rd, Usmanpura, Ahmedabad, Gujarat 380014",phone:"7961 171234"},
-        {name:"Cambay Grand Ahmedabad",address:"Gulab Tower Rd, Near PERD Centre, Thaltej, Ahmedabad, Gujarat 380054",phone:"1800 2336655"},
+        
         {name:"Four Points by Sheraton Ahmedabad",address:"Opposite Gujarat College, Ellisbridge, Ahmedabad, Gujarat 380006",phone:"7969 219199"},
         {name:"Pride Plaza Hotel Ahmedabad",address:"Judges Bungalow Rd, off Sarkhej – Gandhinagar Hwy, Bodakdev, Ahmedabad, Gujarat 380054",phone:"7966 115555"},
         {name:"Fortune Park, Ahmedabad",address:"Opp Gujarat College, Purshottam Mavlankar Marg, Ellisbridge, Ahmedabad",phone:"7940 505050"},
@@ -1008,23 +972,22 @@ const data = {
     },
     Jamnagar:{ 
       Hotel:[
-        {name:"The Fern Residency Jamnagar ",address:"Survey No. 612, JCR Cinema Pvt Ltd, Cross, Dwarka Bypass Road, Theba, Jamnagar, Gujarat 361120",phone:"2883501000"},
+        
         {name:"7 Seasons Resort & Spa",address:"Dwarika Highway, nr. Vinayak Prakruti Road, Lakhabavad, Khambhaliya, Jamnagar, Gujarat 361006",phone:"7069088804"},
         {name:"The Forest Resort ",address:"3km from Lalpur Bypass, Samana Road, beside Indian Oil Petrol Pump, Jamnagar, Gujarat 361012",phone:"8849876419"},
         {name:"Nulife - A Poem By Nature",address:"Ravalsar, nr. Lakhabavad Crossing, Jamnagar, Gujarat 361006",phone:"9720288888"},
         {name:"Ashirwad Club Resort",address:"Near Jamnagar Bypass Road, D.P. Road, opp. Podar International School, Naghedi, Jamnagar, Gujarat 361006. ",phone:" 9033777999"},
-        {name:"Sayaji Jamnagar ",address:"Shreeji, Indira Gandhi Rd, near Ambar Crossing, Jamnagar, Gujarat 361006",phone:"2882589999"},
+        
         {name:"Lords Eco Inn Jamnagar ",address:"Plot No. 3001 Apple Gate 1, GIDC Phase III, Dared, Jamnagar, Gujarat 361004. ",phone:"7377734777"},
         {name:"SVASTI Inn, Jamnagar",address:"Pandit Nehru Marg, near Railway Station, Panchavati, Jamnagar, Gujarat 361008.",phone:" 8696002255"},
         {name:"Hotel Prince Residency ",address:"Crescent Complex, Summair Club Rd, near St Bus Stand, Oshwal Colony, Jamnagar, Gujarat 361006. ",phone:"9879821119"},
-        {name:"Hotel Aram",address:"Nand Niwas, Pandit Nehru Marg, Jamnagar, Gujarat 361002",phone:"2882551702"},
+        
         {name:"Prince Residency Club House",address:"Opposite Amber Talkies, Zaver Chambers, P. N. Road, Jamnagar, Gujarat 361006.",phone:" 9583985985"},
         {name:"Hotel Nawanagar Residency ",address:"Diamond Market, Pandit Nehru Marg, Jamnagar, Gujarat 361006. ",phone:"9227007000"},
         {name:"The Sky Imperial Hotel Kailash ",address:"Near Samarpan Hospital, Ajanta Society, Jamnagar, Gujarat 361006.",phone:"9313538086"},
-        {name:"Lemon Tree Hotel, Jamnagar ",address:"Airport Rd, near Digjam Circle, Komal Nagar, Mayur Nagar, Jamnagar, Gujarat 361002.",phone:"2883562222"},
-        {name:"Hotel Keshwara's Residency ",address:"Samarpan Hospital, Reliance Road, Ajanta Society, Jamnagar, Gujarat 361006. ",phone:" 2882720888"},
+        
         {name:"Anaya Beacon Hotel, Jamnagar",address:"Aerodrome Rd, near Raj Chambers, Kamdar Colony, Jamnagar, Gujarat 361002. ",phone:"7069600651"},
-        {name:"Hotel Vishal International",address:"Airport Road, near Mehul Cinemax, Ajanta Society, Jamnagar, Gujarat 361006.",phone:" 2882712661"},
+        
         {name:"Lime Tree Hotel ",address:"Pandit Nehru Marg, Indradeep Society, Jamnagar, Gujarat 361006.",phone:"9904194190"}
       ],
       Restaurant:[
@@ -1055,17 +1018,17 @@ const data = {
         {name:"Regency Lagoon Resort & Convention",address:" Nyari Dam Rd, off Kalavad Road, Rajkot, Gujarat 360005",phone:"70690-53611"},
         {name:"The Royal Castle Resort & Convention Center",address:"100 ft, Rataiya road, near Modi School, Ishvariya, Rajkot, 360021",phone:"82009-92432"},
         {name:"Raga Svara",address:"Bhavnagar - Rajkot Rd, Tramba, Rajkot, Gujarat 360020",phone:"96012-18888"},
-        {name:"The Fern Residency Rajkot, by Marriott",address:" Kuvadava Rd, near Deluxe Cinema Chowk, Ranchhod Nagar, Rajkot 360003",phone:"26212-55555"},
+        
         {name:"HOTEL JVL BY NEXOTTEL",address:"Time Square Building, 4th Floor, Near Balaji Hall, Rajkot 360004",phone:"69133-30333"},
         {name:"Hotel Nova Bling",address:"6th Floor, Pramukhswami Arced, Malviya Chowk, Dr Yagnik Rd, Rajkot 360001",phone:"98799-87950"},
         {name:"The Sky Imperial Aarivaa Luxury Boutique Homestay",address:"14, Race Course Rd, Janta Janardan Society, Sadar, Rajkot 360001",phone:"63538-32693"},
         {name:"Seasons Hotel",address:" Avadh Road, Kalawad Road, Rajkot 360005",phone:"99099-45077"},
         {name:"Hotel Evershine",address:"Subhash Road, Limda Chowk, Gavliwad, Rajkot 360001",phone:"97245-00456"},
         {name:"HOTEL PINE VIEW",address:"Dhebar Rd, Opp. Prakash Studio, Lohana Para, Rajkot 360001",phone:"98980-42067"},
-        {name:"Fortune Park JPS Grand, Rajkot",address:"150 Feet Ring Road, near Mavdi, Jasraj Nagar, Rajkot 360004",phone:"28127-00000"},
+        
         {name:"Hotel KK By Spree Rajkot",address:"Kalavad Rd, near Kotecha Circle, Kailash Nagar, Rajkot 360007",phone:"95120-20653"},
-        {name:"Sayaji Hotel Rajkot",address:"Vrindavan Society Main Road, near Kalavad Rd, Rajkot 360005",phone:"99090-47124"},
-        {name:"Hotel The Sentosa",address:"Near Dr Yagnik Rd, Race Course, Sadar, Rajkot 360001",phone:"28166-44222"}      ],
+        {name:"Sayaji Hotel Rajkot",address:"Vrindavan Society Main Road, near Kalavad Rd, Rajkot 360005",phone:"99090-47124"}
+        ],
       Restaurant:[
         {name:"Downtown Restro Cafe",address:" Nana Mava Rd, Opp. Marwadi Corporate House, Chandreshnagar, Rajkot 360004",phone:"90331-97197"},
         {name:"Rotli A Multicuisine Restaurant",address:"Bombay Super Zone 12, 150 Feet Ring Rd, near Sokhda Chowkdi, Rajkot 360003",phone:"81408-14377"},
@@ -1104,7 +1067,7 @@ const data = {
         {name:"HOTEL SAFFRON",address:"S.T. Crossing Rd, near Jalaram Temple, Rani Baug, Porbandar – 360575",phone:" 94284 41486"},
         {name:"Hotel Natraj & restaurant",address:" M. G. Rd, Panch Hatdi, Porbandar – 360575",phone:"99253 33399"},
         {name:"Hotel Kaveri International",address:" Jalaram Colony, Panch Hatdi, Porbandar – 360575",phone:"99257 80037"},
-        {name:"Hotel Harmony",address:"Old Fuwara, M. G. Rd, near ICICI Bank, Porbandar – 360575",phone:"28622 44229"},
+        
         {name:"24 CARAT STUDIO APARTMENT HOTEL",address:" S. V. P Rd, near Porbandar Railway Station – 360575",phone:"98984 24824"},
         {name:"Unique Resort",address:"NH 51, Dwarka Highway, Porbandar – 360579",phone:"88188 34434"}
       ],
@@ -1145,22 +1108,22 @@ const data = {
     },
     Bhavnagar:{
        Hotel:[
-        {name:"Iscon The Fern Resort & Spa, Bhavnagar",address:"near Sundarvas Bungalow, Kaliyabid, Bhavnagar, Gujarat 364003",phone:"27866 40400"},
+        
         {name:"Top3 Lords Resort Bhavnagar",address:"Plot No.1 & 2, Budhel-Vertej Cross Road, Near BPCL Petrol Pump, Bhavnagar, Gujarat 364002",phone:"93753 49977"},
         {name:"Rangoli Park Hotel & Resort",address:"8E, National Highway, Vartej, Gujarat 364060",phone:"99092 51717"},
         {name:"RK Resort",address:" Vartej, Gujarat 364060",phone:"77779 60509"},
         {name:"Saanvi Resort",address:"Plot No.3, Survay No. 102/2, Nishkalank Mahadev, Bhavnagar-Road, Koliyaak, Gujarat 364070",phone:"94099 66401"},
         {name:" Hotel Clarks Collection Bhavnagar",address:"Kalubha Rd, Kalanala, Panwadi, Bhavnagar, Gujarat 364001",phone:" 97140 06070"},
-        {name:"Nilambag Palace Hotel",address:"Rajkot Road, Nilambaug Circle, Bhavnagar, Gujarat 364001",phone:"27824 29323"},
+        
         {name:"Efcee Sarovar Premiere, Bhavnagar",address:"Opposite Victoria Park Rd, ISCON Mega City, Vidhyanagar, Bhavnagar, Gujarat 364002",phone:" 75750 05171"},
-        {name:"Hotel Narayani Heritage",address:" Neelambaug Palace, Dairy Rd, Nilambaug, Bhavnagar, Gujarat 364003",phone:" 27825 25051"},
+        
         {name:"Hotel The Basil Park",address:" Opp. Victoria Park Rd, ISCON Mega City, Vidhyanagar, Bhavnagar, Gujarat 364001",phone:"88660 96587"},
         {name:"Hotel Virgo Sumeru",address:"RH-2, Waghawadi Rd, Takhteshwar, Vidhyanagar, Bhavnagar, Gujarat 364001",phone:"97141 45667"},
         {name:"Aradhana Auberge",address:"Leela Circle, Bhavnagar-Sidsar Rd, Kailash Dham Society, Bhavnagar, Gujarat 364002",phone:"84010 10111"},
-        {name:"HOTEL SUN 'N' SHINE",address:"S.T. Station Road, Panwadi, Bhavnagar, Gujarat 364001",phone:"27825 16132"},
+       
         {name:"Hotel The Sankalp Retreat",address:"Opp. Krishna Nagar Sanskar Mandal, Sanskar Mandal Road, Bhavnagar, Gujarat 364001",phone:"99040 09904"},
         {name:"Hotel City Pride",address:"3rd Floor, Himalaya Square, Opp. Victoria Park Road, ISCON Mega City, Bhavnagar, Gujarat 364002",phone:"99044 78429"},
-        {name:"Hotel Bluehill",address:"Jashonath Chowk, Opp. Pill Garden, Shilpi Nagar, Bhavnagar, Gujarat 364001",phone:" 27824 26951"},
+        
         {name:"Hotel Vijay Palace",address:"Sutarwad, Panwadi, Bhavnagar, Gujarat 364001",phone:"97276 61360"}
        ],
       Restaurant:[
@@ -1231,22 +1194,9 @@ const data = {
     },
     Vadodara:{
        Hotel:[
-        {name:"Courtyard by Marriott Vadodara",address:"Block B Sarabhai Campus, Near Genda Circle, Alembic Rd, Vadodara, Gujarat 390023",phone:"265 6660000"},
-        {name:"Hyatt Place Vadodara",address:"Nilamber Circle, Nilamber Triumph, Gotri – Vasna Rd, Vasna, Vadodara, 390007",phone:"265 6661234"},
-        {name:"Welcomhotel by ITC Hotels, Alkapuri, Vadodara",address:"RC Dutt Rd, Alkapuri, Vadodara, 390007",phone:"265 2330033"},
-        {name:"Four Points by Sheraton Vadodara",address:"1275 Ward No.7, Fatehgunj, Vadodara, 390008",phone:"265 6160000"},
-        {name:"Vivanta Vadodara",address:"Akota Garden Main Rd, Akota, Vadodara, 390007",phone:"265 6617676"},
-        {name:"Sayaji Hotel Vadodara",address:"Near Bhimnath Bridge, Sayajiganj, Vadodara, 390007",phone:"265 2476666"},
-        {name:"Fairfield by Marriott Vadodara",address:"RC Dutt Rd, Vishwas Colony, Alkapuri, Vadodara, 390007",phone:"265 6819999"},
-        {name:"Hotel Express Residency",address:"Alkapuri, Vadodara ",phone:"265 6139000"},
         {name:"Best Western Alkapuri ",address:"Vishwas Colony, Vadodara",phone:"95120 89222"},
-        {name:"Royal Orchid Central ",address:"Akota, Vadodara ",phone:"99798 62316"},
-        {name:"Hotel Express Towers",address:"Alkapuri, Vadodara ",phone:"265 6138000"},
-        {name:"Lords Inn Vadodara",address:"Sayajiganj, Vadodara ",phone:"1800 891 2912"},
-        {name:"Fortune Inn Promenade, Vadodara",address:"Akota-Mujmahuda Rd, Vadodara",phone:" 265 2307000"},
-        {name:"The Baroda Residency",address:"Alkapuri, Vadodara",phone:"265 2393700"},
-        {name:"President Hotel –",address:"Sayajiganj, Vadodara",phone:"265 2362222"},
-        {name:"Regenta Fairlark",address:"Bhayli, Vadodara",phone:"265 2121000"}
+        {name:"Royal Orchid Central ",address:"Akota, Vadodara ",phone:"99798 62316"}
+        
        ],
       Restaurant:[
         {name:"Stellar Kitchen - Best Restaurant In Vadodara",address:"VIP Rd, Amit Nagar, Gayatri Nagar, Karelibagh",phone:"63588 03386"},
@@ -1447,7 +1397,6 @@ const data = {
       Hotel:[
         {name:"The Valle Munnar",address:"KSEB Tunnel Road, Pallivasal, Munnar, Kerala 685565",phone:"96455 52155"},
         {name:"Abad Copper Castle Resort Munnar",address:"Bison Valley - Pooppara Rd, Munnar, Kerala 685612",phone:"94000 69202"},
-        {name:"Amber Dale Munnar‑Kondody Hotels",address:"KSEB Tunnel Road, Pallivasal, Munnar, Kerala 685565",phone:""},
         {name:"Chandys Windy Woods 5 Star Resort Munnar",address:"Pallivasal, 2nd Mile, Meencut P.O, Chittiarpuram, Munnar, Kerala 685565",phone:"98466 28888"},
         {name:"Eden Woods Resorts & Spa",address:"Muthirapuzhayar Rd, Chithirapuram, Munnar, Kerala 685565",phone:"80759 00311"},
         {name:"Grand Plaza Munnar",address:"MSA Rd, Moolakadai, Munnar, Kerala 685612",phone:"97464 70119"},
@@ -1459,7 +1408,6 @@ const data = {
         {name:"Nature Zone Resort Munnar",address:"Pulippara, Near KSRTC Bus Stand, Nullatanni, Munnar, Kerala 685565",phone:"97454 33330"},
         {name:"The Tall Trees Resorts",address:"PB No 40, Bison Valley Rd, Pothamedu, Munnar, Kerala 685565",phone:"79946 02020"},
         {name:"Hotel Hillview Munnar",address:"Near Blossom Hydel Park, SH 16, Munnar, Kerala 685612",phone:"94477 40883"},
-        {name:"The Silvertips Munnar",address:"Aluva-Munnar Road, Munnar, Kerala 685612",phone:"4865 230238"},
         {name:"Hotel NovArk Munnar Kerala",address:"NH-85, Adimaly PO, Kerala 685561",phone:"90722 97111"}
       ],
       Restaurant:[
@@ -1486,21 +1434,9 @@ const data = {
     },
     Kochi:{
        Hotel:[
-        {name:"Kochi Marriott Hotel",address:"Lulu International Shopping Mall, Edappally Junction, Kochi, Kerala 682024",phone:"484 717 7777"},
-        {name:"Radisson Blu Hotel, Kochi",address:"Sahodaran Ayyappan Rd, Elamkulam, Kochi, Kerala 682020",phone:"484 412 9999"},
-        {name:"Le Méridien Kochi",address:"Nettoor, Maradu, Kochi, Kerala 682304",phone:"484 270 5777"},
-        {name:"Crowne Plaza Kochi",address:"Kundanoor Junction, Maradu, Kochi, Kerala 682304",phone:"484 711 5000"},
-        {name:"Grand Hyatt Kochi Bolgatty",address:"Mulavukad Island, Kochi, Kerala 682504",phone:"484 266 1234"},
-        {name:"ibis Kochi City Centre",address:"Mahatma Gandhi Rd, Shenoys, Kochi, Kerala 682035",phone:"484 713 7137"},
         {name:"The Trios Hotel Kochi",address:"Narakathara Rd, Kochi, Kerala 682035",phone:"88753 97397"},
-        {name:"Travancore Court",address:"Warriam Rd, Ernakulam South, Kochi, Kerala 682016",phone:"484 235 1120"},
-        {name:"Olive Downtown",address:"Kadavanthra Junction, Kochi, Kerala 682020",phone:"484 422 2333"},
         {name:"HOTEL SIGNATURE COCHIN",address:"Mahakavi G Rd, Shenoys, Ernakulam, Kochi, Kerala 682011",phone:"87149 87003"},
-        {name:"Old Harbour Hotel",address:"Tower Rd, Fort Kochi, Kochi, Kerala 682001",phone:"98479 27297"},
-        {name:"Forte Kochi",address:"Princess St, Fort Kochi, Kochi, Kerala 682001",phone:"484 270 4800"},
-        {name:"Keys Select By Lemon Tree Hotels, Kochi",address:"Shanti Nagar, Thevara, Kochi, Kerala 682013",phone:"484 238 2323"},
-        {name:"Ginger Kochi, Kalamassery",address:"Ernakulam Rd, Kalamassery, Kochi, Kerala 682033",phone:"484 663 3600"},
-        {name:"Ginger - MG Road, Kochi",address:"Doraiswamy Iyer Rd, Shenoys, Kochi, Kerala 682035",phone:"18602 663333"}
+        {name:"Old Harbour Hotel",address:"Tower Rd, Fort Kochi, Kochi, Kerala 682001",phone:"98479 27297"}
         
       ],
       Restaurant:[
@@ -1545,10 +1481,8 @@ const data = {
         {name:"Spice Village – CGH Earth",address:"Kottayam-Kumily Rd, Kumily, Thekkady, Kerala 685509",phone:"75940 12555"},
         {name:"Abad Green Forest Resort",address:"Opposite RC Church, Thekkady Jn, Kumily, Kerala 685509",phone:"73064 33795"},
         {name:"Woodnote Thekkady",address:"Thamarakandam Rd, Kumily, Thekkady, Kerala 685509",phone:"79029 99502"},
-        {name:"Keys Prima by Lemon Tree Hotels",address:"Thekkady, Kumily, Kerala 685509",phone:"4869 230 000"},
         {name:"The Grand",address:"Lake Road, Kumily, Thekkady, Kerala 685509",phone:"87148 83817"},
         {name:"Wild Avenue Resort & Spa",address:"First Mile, Munnar Rd, Thekkady, Kumily, Kerala 685509",phone:"62821 31515"},
-        {name:"Oxygen Resorts",address:"Murikkady PO, Kumily Anavilasam Rd, Thekkady, Kerala 685535",phone:"4869 224 415"},
         {name:"Crown Valley",address:"NH185, 2nd Mile, Thekkady, Munnar, Kerala 685509",phone:"95399 61147"},
         {name:"WGH Poetree Thekkady",address:"Ottakathalamedu View Point Rd, Amaravathy PO, Thekkady, Kerala 685509",phone:"86069 98448"},
         {name:"Forest Canopy",address:"NH220, Kottayam-Kumily Rd, Chalimada Junction, Thekkady, Kerala 685509",phone:"98478 72000"}
@@ -1575,24 +1509,15 @@ const data = {
     },
      Kovalam:{
          Hotel:[
-        {name:"The Leela Kovalam, a Raviz Hotel",address:"Beach Rd, Kovalam, Thiruvananthapuram, Kerala 695527",phone:"471 669 1111"},
-        {name:"Uday Samudra Leisure Beach Hotel",address:"Samudra Beach, G.V. Raja Rd, Kovalam, Kerala 695527",phone:"471 248 3111"},
         {name:"Country Club Kovalam Beach",address:"No 64 Country Spa Road, Nedumam, Kovalam, Kerala 695527",phone:"79944 49135"},
-        {name:"The Neelakanta",address:"Light House Beach Rd, Kovalam, Kerala 695527",phone:"471 248 0321"},
-        {name:"KTDC Samudra",address:"Kovalam, Thiruvananthapuram, Kerala 695527",phone:"471 248 0089"},
         {name:"Amara Ayurveda Retreat",address:"VGRP 369 A, K S Road, Zeon Kunnu, Kovalam, Kerala 695527",phone:"80860 19333"},
-        {name:"The Travancore Heritage",address:"Poovar-Vizhinjam Rd, Adimalathura, Kovalam, Kerala 695501",phone:"471 229 600"},
-        {name:"GETAWAY BEACH RESORT KOVALAM",address:"Beach Rd, Kovalam, Thiruvananthapuram, Kerala 695527",phone:""},
-        {name:"Atreya Ayurveda & Yoga Beach Retreat",address:"Green Palm Resort Road, Kovalam, Kerala 695521",phone:""},
         {name:"Aadisaktthi Leisure Resort Kovalam",address:"227/A, KS Rd, Vellar, Kovalam, Kerala 695527",phone:"79945 18985"},
         {name:"Swagath Holiday Resorts",address:"Kovalam Beach Rd, near Upasana Hospital, Kovalam, Kerala 695527",phone:"98470 60880"},
         {name:"Jasmine Palace Kovalam",address:"Near Avaduthura, Kovalam, Kerala 695527",phone:"94959 43941"},
-        {name:"Gokulam Grand Turtle on the Beach",address:"TC 63, Beach Rd, Kovalam, Kerala 695527",phone:"471 251 4000"},
         {name:"BANYAN TREE AAYUR",address:"Eve’s Beach Rd, Kovalam, Kerala 695527",phone:"98473 19594"},
         {name:"Hotel Sea Face",address:"NUP, Beach Rd, Kovalam, Kerala 695527",phone:"96335 06828"},
-        {name:"Samudra Theeram Beach Resort",address:"I T D C Grove Beach, Kovalam, Kerala 695527",phone:"471 248 8244"},
-        {name:"Golden Sands Beach Resort",address:"Light House Beach, Kovalam, Kerala 695521",phone:"98954 81476"},
-        {name:"Abad Harmonia | Resort in Kovalam", address:"Chowara, Kovalam, Kerala 695501", phone:"471 226 9665"}
+        {name:"Golden Sands Beach Resort",address:"Light House Beach, Kovalam, Kerala 695521",phone:"98954 81476"}
+        
       ],
       Restaurant:[
         {name:"Taste of Kerala",address:"Beach Road, Kovalam",phone:"75111 12281"},
@@ -1636,14 +1561,10 @@ const data = {
         {name:"Palmgrove Lake Resort",address:"Punnamada, Alappuzha",phone:"95269 40909"},
         {name:"Lake Canopy",address:"Komalapuram, Alappuzha",phone:"98478 72000"},
         {name:"Sterling Lake Palace Alleppey",address:"Thirumala Ward, Chungam, Alappuzha",phone:"79697 92042"},
-        {name:"HOTEL GRAND ALLEPPEY",address:"Erezha, Mullakkal, Alappuzha",phone:"477 2232500"},
         {name:"Classic Regency",address:"Railway Station Ward Beach, Alappuzha",phone:"90736 06060"},
         {name:"Oceana Hills Residency",address:"Kunnumpuram, Alappuzha",phone:"96333 31313"},
-        {name:"Camelot Hotel",address:"NH 66, Pathirappally, Alappuzha",phone:"477 2258000"},
-        {name:"Treebo Premium Palmyra Milford",address:"Vellakkinar, Alappuzha",phone:"93228 00100"},
-        {name:"Alleppey Prince",address:"Kommady, Alappuzha",phone:"477 2243753"},
-        {name:"Pagoda Resorts Alappuzha",address:"Chungam Rd, Mullakkal, Alappuzha",phone:"477 2251697"},
-        {name:"Alleppey Holiday Beach Resort by VOYE HOMES",address:"Beach area near Vijaya Park, Alappuzha",phone:""}
+        {name:"Treebo Premium Palmyra Milford",address:"Vellakkinar, Alappuzha",phone:"93228 00100"}
+        
       ],
       Restaurant:[
         {name:"BayRoute Bistro",address:"Cullen Rd, Alappuzha",phone:"80868 06622"},
@@ -1673,14 +1594,12 @@ const data = {
         {name:"The Gopinivas Grand",address:"E Car St, near Seashore, Kanyakumari",phone:"88254 66315"},
         {name:"TTDC Hotel Tamil Nadu",address:"Beach Rd, Kanyakumari",phone:"94886 38287"},
         {name:"Hotel Sea Land",address:"E Car St, Kanyakumari",phone:"94879 08845"},
-        {name:"Hotel Samudra",address:"Sannathi St, Kanyakumari",phone:"4652 246162"},
         {name:"Hotel Cyril",address:"Harbor Main Rd, Otraiyalvilai, Kanyakumari",phone:"74186 59377"},
         {name:"Hotel Viswa Grand",address:"Kottakarai Rd, Kanyakumari",phone:"94861 91111"},
         {name:"Hotel Sahaya Arasi",address:"Kovalam Rd, Kanyakumari",phone:"75581 61599"},
         {name:"New Cape Hotel",address:"Cape Rd, opposite Railway Station, Kanyakumari",phone:"94425 60567"},
-        {name:"Ferdin Cottage kannyakumari",address:"Kottakarai Rd, Kovalam, Kanyakumari",phone:"94892 48444"},
-        {name:"The Coral - Kanyakumari",address:"Vivekanandapuram, Kanyakumari",phone:""},
-        {name:"Shell Park - A Resort in Kanyakumari",address:"Tsunami Colony, South Kundal, Kanyakumari",phone:""}
+        {name:"Ferdin Cottage kannyakumari",address:"Kottakarai Rd, Kovalam, Kanyakumari",phone:"94892 48444"}
+      
       ],
       Restaurant:[
         {name:"Zam Zam Restaurant",address:"Cape Rd, Vinachi Arachi Colony",phone:"75986 65585"},
@@ -1713,8 +1632,6 @@ const data = {
   WestBengal:{
     Darjeeling:{
       Hotel:[
-        {name:"MAYFAIR Hill Resort", address:"Opposite Governor House, The Mall, Chauk Bazaar, Darjeeling",phone:"35422 27006"},
-        {name:"The Elgin, Darjeeling - Heritage Resort & Spa", address:"18, HD Lama Rd, Chauk Bazaar, Darjeeling",phone:"35422 57227"},
         {name:"Aurora Darjeeling Grand", address:"Hill Cart Rd, West Point, Dali, Darjeeling",phone:"82500 70762"},
         {name:"Udaan Hotels| Nirvana Resort, Darjeeling", address:"The Mall, C.R. Das Rd, below Chowrasta, Darjeeling",phone:"95550 33033"},
         {name:"Udaan Hotels | Dekeling Resort", address:"95550 33033",phone:"95550 33033"},
@@ -1724,9 +1641,8 @@ const data = {
         {name:"Olive by Tej Hotel and Resorts", address:"The Mall, Nehru Rd, Chowrasta, Darjeeling",phone:"76796 57481"},
         {name:"Hotel Raj Ville Darjeeling", address:"Mall Rd, P.O. Limbugaon, Darjeeling",phone:"97330 88688"},
         {name:"Darjeeling Hillside Inn", address:"Hill Cart Rd, West Point, Darjeeling",phone:"81677 88913"},
-        {name:"Hotel Viceroy Darjeeling", address:"Gandhi Rd, near Clock Tower, Limbugaon",phone:"35422 59556 ·"},
-        {name:"INDUS MOUNT ROYALE ", address:"Dr Zakir Hussain Rd",phone:"97335 32211"},
-        {name:"Darjeeling Guest House Deluxe", address:"DB Giri Rd, Chota Kak Jhora",phone:""}
+        {name:"INDUS MOUNT ROYALE ", address:"Dr Zakir Hussain Rd",phone:"97335 32211"}
+        
       ],
       Restaurant:[
         {name:"Glenary's— Bakery, Restaurant & Pub", address:"Nehru Rd, near Clock Tower, Darjeeling",phone:"96351 62005"},
@@ -1745,13 +1661,9 @@ const data = {
     },
     Gangtok:{
       Hotel:[
-        {name:"The Elgin Nor‑Khill - Gangtok - Heritage Resort & Spa", address:"Paljor Stadium Rd, Upper Sichey, Arithang, Gangtok, Sikkim 737101",phone:"35922 05637"},
-        {name:"Denzong Regency", address:"Cherry Banks, NH 31 A, Forest Colony Rd, Sungava, Gangtok, Sikkim 737101",phone:"35922 01567"},
         {name:"Lemon Tree Hotel, Gangtok", address:"Near District Court, Middle Sichey, Sungava, Gangtok, Sikkim 737101",phone:"99117 01701"},
         {name:"The Fern Denzong Hotel & Spa Gangtok", address:"Kazi Rd, Vishal Gaon, Gangtok, Sikkim 737101",phone:"93392 91635"},
         {name:"Udaan Hotels | Alpine Resort, Gangtok", address:"Chongeytar, GRBA Rd, below POC Boys Hostel, Gangtok, Sikkim 737103",phone:"95550 33033"},
-        {name:"Udaan Hotels | Woodberry Hotel & Spa", address:"Near Swastik Gate, Upper Burtuk, Gangtok, Sikkim 737101",phone:"95550 33033"},
-        {name:"Medalio Boutique Gangtok With Mountain View", address:"Ranka Fatak, Lower Sichey, Indira Bypass Rd, Gangtok, Sikkim 737101",phone:""},
         {name:"Summit Namnang Courtyard & Spa, Gangtok", address:"Nam Nang Rd, Vishal Gaon, Gangtok, Sikkim 737101",phone:"80695 75000"},
         {name:"Summit Norling Resort & Spa, Gangtok", address:"Near Central Jail, Rongey, Gangtok, Sikkim 737101",phone:"80695 75001"},
         {name:"SUMI SHANGRILA DEORALI GANGTOK", address:"Forest Secretariat Rd, Deorali Bazar, Gangtok, Sikkim 737102",phone:"87448 57070"},
@@ -1759,8 +1671,8 @@ const data = {
         {name:"Sungava Resort - Hotel In Gangtok", address:"Dr. B R Ambedkar Rd, Upper Sichey, Gangtok, Sikkim 737101",phone:"70470 92696"},
         {name:"Sinclairs Gangtok", address:"Zero Point, Raj Bhavan Rd, Gangtok, Sikkim 737101",phone:"70032 07937"},
         {name:"Kingston By Yagi", address:"Development Area, Jeewan Theeng Marg, Upper Sichey, Gangtok, Sikkim 737101",phone:"76998 06018"},
-        {name:"Muscatel Grand Silkroute - 300 Mts from MG Marg", address:"Upper Arithang, Gangtok, Sikkim 737101",phone:"97320 81111"},
-         {name:"Amritara Hidden Land, Gangtok", address:"Indira Bypass Rd, Upper Sichey, Gangtok, Sikkim 737101",phone:"11407 52200"}
+        {name:"Muscatel Grand Silkroute - 300 Mts from MG Marg", address:"Upper Arithang, Gangtok, Sikkim 737101",phone:"97320 81111"}
+       
       ],
       Restaurants:[
         {name:"Grains Pure Veg by Udaan Alpine, Gangtok", address:"Chongeytar, GRBA Rd, Gangtok, Sikkim 737103",phone:"77193 68487"},
@@ -1782,7 +1694,6 @@ const data = {
     },
     Pelling:{
        Hotel:[
-        {name:"The Elgin Mount Pandim", address:"Pelling, West Sikkim, Sikkim 737113",phone:"3542 251 166"},
         {name:"Norbu Ghang Resort & Spa", address:"Block A, Hotel Complex, Pelling, Sikkim 737113",phone:"94346 65055"},
         {name:"The Richmond Pelling", address:"Temi Tea Garden Rd, Pelling, Sikkim 737113",phone:"70032 50566"},
         {name:"The Cottage Pelling", address:"Nh10 Pelling, Sikkim 737113",phone:"97335 61079"},
@@ -1902,7 +1813,6 @@ const data = {
        Hotel:[
         {name:"Hotel Snow Leopard", address:"Rishi Road, Kalimpong, West Bengal 734301",phone:"97322 02180"},
         {name:"The Park Hotel Kalimpong", address:"Near Rishi Road, Lower Cart Road, Kalimpong 734301",phone:"98320 27819"},
-        {name:"Sinclairs Retreat Kalimpong", address:"2nd Mile, Near Sherdup Jhora, Kalimpong 734301",phone:"35452 54088"},
         {name:"Hotel Mount Avon", address:"Hill Cart Rd, Kalimpong 734301",phone:"97346 05569"},
         {name:"Red Orchid Hotel", address:"Lower Cart Rd, Kalimpong 734301",phone:"97348 78589"},
         {name:"Royal Residency Resort", address:"Dr. Zakir Hussain Rd, Kalimpong 734301",phone:"97331 55861"},
@@ -1996,7 +1906,6 @@ const data = {
         {name:"Resorts By The Baagh",address:" Near Govt School, Patkote, Ramnagar, Uttarakhand 244715",phone:"93194 58575"},
         {name:"Corbett Machaan Resort",address:"Teda Rd, Ramnagar, Uttarakhand 244715",phone:"99109 44246"},
         {name:"Corbett The Grand",address:"Santoshpur Choi, Near Hanuman Dham, Ramnagar, Uttarakhand 244715",phone:"89589 88800"},
-        {name:"The Solluna Resort",address:"NH-309, Marchula, Mohan Range, Uttarakhand 263646",phone:"11458 74728"},
         {name:"The Tattwaa Corbett Spa & Resort",address:"Jhirna Rd, Himmatpur Dotiyal, Ramnagar, Uttarakhand 244715",phone:"90121 00051"},
         {name:"Corbett Treat Resort®",address:"Village Dhela, Jhirna Tourist Zone, Ramnagar, Uttarakhand 244715",phone:"80570 94258"},
         {name:"Corbett View Resort ®",address:"Safari Gate, Near Jhirna, Ramnagar, Uttarakhand 244715",phone:" 70175 96718"}
@@ -2020,20 +1929,15 @@ const data = {
     },
     Mussoorie:{
       Hotel:[
-        {name:"Welcomhotel By ITC Hotels, The Savoy",address:"Library Bazar, Gandhi Chowk, Mussoorie, Uttarakhand 248179 🇮🇳",phone:"135 6171000"},
-        {name:"JW Marriott Mussoorie Walnut Grove Resort & Spa ",address:"Siya Village, Kempty Fall Rd, Mussoorie, Uttarakhand 248179 🇮🇳",phone:"135 2635700"},
+       
         {name:" Ramada By Wyndham Mussoorie Mall Road",address:" Mall Rd, opposite Picture Palace, Kulri, Mussoorie, Uttarakhand 248179 🇮🇳",phone:"95360 01126"},
         {name:"Hotel Sun N Snow Mussoorie ",address:"Near Library Chowk, The Mall Road, Mussoorie, Uttarakhand 248179 🇮🇳",phone:"76684 66709"},
-        {name:"Mussoorie Gateway",address:"Grand Park, Kenilworth Estate, Kincraig Road, Near Library, Mall Road, Mussoorie 🇮🇳",phone:"135 2635599"},
         {name:" Hotel EllBee Mussoorie Hills",address:"Gandhi Chowk, Mall Rd, Library Road, Mussoorie 🇮🇳",phone:"98112 41577"},
         {name:"The Solitaire Resort by Lawrence Hotels",address:"Near Picture Palace Bend, Mall Road, Mussoorie 🇮🇳",phone:"95186 81824"},
         {name:" Hotel North Wood ",address:"Behind The Green Vegetarian, Kulri Bazar, Mall Road, Mussoorie 🇮🇳",phone:"93682 24345"},
         {name:"Luxury Inn by Stotrak Hotels",address:"Picture Place, The Mall Road, Mussoorie 🇮🇳",phone:"80915 00151"},
         {name:"The Hosteller Mussoorie, Mall Road",address:"Tibetan Market Gali, Mall Road, Mussoorie 🇮🇳",phone:"98101 87717"},
-        {name:"Zostel Mussoorie (Mall Road)",address:"Kulri, Picture Palace, Mall Rd, Mussoorie 🇮🇳",phone:"11411 70844"},
-        {name:"The Fern Brentwood Resort Mussoorie ",address:"Picture Palace, Mall Road, Mussoorie 🇮🇳",phone:"135 2632102"},
         {name:" Mango Tree Courtyard Mussoorie ",address:"Camel’s Back Road, The Mall Road, Mussoorie 🇮🇳",phone:"85277 95198"},
-        {name:"Jaypee Residency Manor",address:"Road, Barlow Ganj, Mussoorie 🇮🇳",phone:"135 2631800"},
         {name:" Hotel Phoenix ",address:"Behind Hakman’s Hotel, Jhula Ghar, Mall Road, Mussoorie 🇮🇳",phone:"75791 76562"},
         {name:"Country Inn Premier Pacific Resort ",address:"Camel’s Back Road, Mall Road, Mussoorie 🇮🇳",phone:"86508 88070"}
       ],
@@ -2058,8 +1962,6 @@ const data = {
     Rishikesh:{
       Hotel:[
         {name:"Aloha On The Ganges",address:"NH 58, Tapovan, Rishikesh, Uttarakhand 249192, India",phone:"95550 88000"},
-        {name:"Lemon Tree Premier, Rishikesh",address:"Shesdhara, Laxman Jhula Rd, Tapovan, Rishikesh, Uttarakhand 249192, India",phone:"135 7111001"},
-        {name:" Lemon Tree Hotel, Rishikesh",address:"Tapovan, Rishikesh, Uttarakhand 249192, India",phone:"135 3509100"},
         {name:"Hotel Rishikesh Grand",address:" Badrinath Rd, Tapovan, Rishikesh, Uttarakhand 249192, India",phone:"88266 10888"},
         {name:" Moustache Rishikesh Luxuria",address:"Badrinath Rd, opp. Deecon Valley Apts, Tapovan, Rishikesh",phone:"89291 00705"},
         {name:"Hotel Ishan - A Riverside Retreat by Salvus, Rishikesh",address:"Lakshman Jhula Chowk, Tapovan, Rishikesh",phone:"81818 28393"},
@@ -2071,8 +1973,7 @@ const data = {
         {name:"Divine Resort",address:"Laxman Jhula Rd, Tapovan, Rishikesh",phone:"81719 57799"},
         {name:" Regenta Inn On The Ganges Rishikesh",address:"Badrinath Rd, Tapovan, Rishikesh",phone:"73021 11190"},
         {name:"The Hosteller Rishikesh, Upper Tapovan",address:" Balaknath Rd, Upper Tapovan, Rishikesh",phone:"98101 87717"},
-        {name:"Skyard Hostel Rishikesh (Laxman Jhula)",address:"opp. Little Buddha Cafe, Laxman Jhula, Rishikesh",phone:"78954 78538"},
-        {name:"Zostel Rishikesh (Tapovan)",address:" Balaknath Rd, Tapovan, Rishikesh",phone:"22489 62269"}
+        {name:"Skyard Hostel Rishikesh (Laxman Jhula)",address:"opp. Little Buddha Cafe, Laxman Jhula, Rishikesh",phone:"78954 78538"}
       ],
       Restaurant:[
         {name:"The Sitting Elephant",address:"Hotel EllBee Ganga View, Haridwar Rd, Rishikesh",phone:"88826 61577"},
@@ -2095,7 +1996,7 @@ const data = {
     },
     Haridwar:{
       Hotel:[
-        {name:"Pilibhit House, Haridwar",address:" 38/1 Niranjani Akhara Marg, Sharvan Nath Nagar, Haridwar 249401",phone:"1334 362300 "},
+        
         {name:"Ganga Lahari Haridwar",address:"Opposite Deen Dayal Parking, Gau Ghat, Har Ki Pauri, Haridwar 249401",phone:"95550 88000 "},
         {name:" Pride Elite Haridwar",address:"Roorkee Road, near JURS Country Flats, Haridwar 249407",phone:" 73007 08805"},
         {name:"Yashail Hotel Haridwar",address:"Plot C-1, Sidcul Rd, BHEL Township, Haridwar 249403",phone:" 89548 87818"},
@@ -2162,11 +2063,7 @@ const data = {
     Kedarnath:{
       Hotel:[
         {name:"Gayatri Bhawan ",address:" Kedarnath, Rudraprayag District, Uttarakhand — close to temple and market",phone:"81260 83237 / +91 95576 96744"},
-        {name:"Vivek Hotel & Restaurant",address:" Kedarnath",phone:""},
-        {name:"GMVN Cottages / Swargarohini Cottages (Government) ",address:"Near Kedarnath; managed by Garhwal Mandal Vikas Nigam (booking via GMVN office). ",phone:""},
-        {name:"Hotel Punjab Sindh Awas (Dharamshala)",address:"Near Temple; basic pilgrims’ accommodation",phone:""},
-        {name:"Jodhpur House Hotel ",address:"Approx. walkable distance from Kedarnath Temple",phone:""},
-        {name:"Hotel San Kedar Inn & Restaurant",address:"Nyalsu, Kedarnath Road, near Phata helipad route",phone:"96349 65066"},
+       {name:"Hotel San Kedar Inn & Restaurant",address:"Nyalsu, Kedarnath Road, near Phata helipad route",phone:"96349 65066"},
         {name:"Tent & Camp Stays (Budget)",address:"Various seasonal camps near temple",phone:"99177 58171 "}
       ],
       Restaurant:[
@@ -2204,7 +2101,6 @@ const data = {
         {name:"UJJWAL RESORT",address:"NH 134, Yamunotri road, Barkot 249141",phone:" 8171115555"},
         {name:"Rigveda Resort Barkot Yamunotri Uttarkashi",address:" Barkot – Yamunotri Rd, Chhatanga 249141",phone:"9023480234"},
         {name:"Mountain View Resorts",address:"Kanseru Road, Barkot 249141",phone:"9410766464"},
-        {name:"Shivkunj Resort",address:"Barkot – Yamunotri Rd, Nandgaon 249141",phone:""},
         {name:"Divyam Resort Barkot",address:"Yamunotri Road, Sarukhet, Barkot 249171",phone:" 8006555888"},
         {name:"Veda Cottage",address:" Chatanga Yamunotri Road, Barkot 249141",phone:"7505997680"},
         {name:"The Gangotri homestay by Preet rS",address:" Bagasu, Barkot 249171",phone:"9897382512"}
@@ -2269,18 +2165,13 @@ const data = {
 
     },
     Dehradun:{
-      Hotel:[
-        {name:"Red Fox by Lemon Tree Hotels, Dehradun",address:"Rajpur Rd, Dehradun 248001",phone:"135-7135223"},
+      Hotel:[       
         {name:"HOTEL DOONS PRIDE - Best Hotel in Dehradun",address:"Gandhi Rd, near Railway Station, Prince Chowk, Dehradun 248001",phone:"70603 51353"},
-        {name:"Lemon Tree Hotel, Dehradun",address:"Rajpur Rd, Pacific Mall, Jakhan, Dehradun 248009",phone:"135-2737777"},
-        {name:"Hyatt Centric Dehradun",address:" 3-4, 152, Rajpur Rd, Jakhan, Dehradun 248001",phone:"135-6141234"},
-        {name:"Ginger Dehradun Rajpur Road",address:"189, Rajpur Rd, Dehradun 248001" ,phone:"135-6910600"},
         {name:"Le Roi, Dehradun",address:"Railway Colony Road, Race Course, Dehradun 248001",phone:"85959 25070"},
         {name:"Hotel Doon Regency",address:" Haridwar Rd, Prince Chowk, Dehradun 248001",phone:"78309 00555"},
         {name:"Ida Hotel",address:" Eastern Canal Rd, Race Course, Dehradun 248001",phone:" 80776 92968"},
         {name:"MJ Residency | Family Hotel",address:" Race Course, Haridwar Rd, Dehradun 248001",phone:"63994 48844"},
         {name:"FabHotel City Palace - Dehradun Railway Station",address:" Court Rd, near D.M. Office, Race Course, Dehradun 248001",phone:"70424 24242"},
-        {name:"Hyatt Regency Dehradun Resort and Spa",address:" Forest Edge, Mussoorie Rd, Malsi, Dehradun 248009",phone:" 135-6171234"},
         {name:"Tree of Life Resort, Dehradun Foothills",address:" Bharatwala, Bisht Gaon, Uttarakhand 248003",phone:"90152 42000"},
         {name:"AAR Resort & Spa, Pondha, Uttarakhand",address:"Palawali, Pondha, Dehradun 248001",phone:"80067 05252"},
         {name:"Glenville Forest Resort & Spa",address:"Mothorowala Village, near Dudhali, Dehradun 248002",phone:"76184 10002"},
@@ -2321,7 +2212,6 @@ const data = {
     },
     Badrinath:{
       Hotel:[
-        {name:"Amritara The Avadh, Badrinath",address:"Luxurious hotel near Helipad, Badrinath, Uttarakhand 246422",phone:" 01140 752200"},
         {name:"Hotel Panchvati Inn",address:"Opposite ISBT, Badrinath, Uttarakhand 246422",phone:"90680 17142"},
         {name:"Sarovar Portico Badrinath",address:"Chamoli District, Badrinath 246422",phone:"93103 33317"},
         {name:"Hotel SNR Grand ",address:"Bypass Road, Mana, Badrinath 246422",phone:"73008 16679"},
@@ -2389,8 +2279,7 @@ const data = {
       Hotel:[
         {name:"Harsil Retreat",address:"Opposite Willson Cottage, Harsil, Uttarakhand 249135, India" ,phone:"93893 28335"},
         {name:" Hotel Royal Hillcrest ",address:"Opposite Buddha Temple, Bagori, Harsil, Uttarakhand 249135, India",phone:"94101 77777"},
-        {name:"Harsil Homestay",address:"Bagori, Harsil, Uttarakhand 249135, India",phone:"82731 95646"},
-        {name:"Harsil apple homestay",address:"Harsil, Uttarakhand 249135, India",phone:""}
+        {name:"Harsil Homestay",address:"Bagori, Harsil, Uttarakhand 249135, India",phone:"82731 95646"}
       ],
       Restaurant:[
         {name:"Cafe Harsil & Hotel Narayana palace",address:"Uttarkashi – Gangotri Rd, Jhala, Harsil, Uttarakhand 249135, India",phone:"63970 22090"},
@@ -2406,41 +2295,12 @@ const data = {
        ]
 
     },
-    Almora:{
-      Hotel:[
-        {name:"Hotel Himsagar",address:"Mall Road, Almora – 263601, Uttarakhand",phone:"5962-230711 / +91 5962-232256"},
-        {name:" Hotel Surmool",address:"Mall Road, Near Head Post Office, Dharanaula, Almora – 263601",phone:" 5962-230460"},
-        {name:" Hotel Aparna",address:"Dharanaula, Near Gular, Almora – 263601",phone:"5962-230192"},
-        {name:"Hotel Ranjana",address:"The Mall Road, Almora – 263601",phone:"5962-231349"},
-        {name:" Hotel Savoy",address:"Near Forest Office, Mall Road, Almora – 263601",phone:"5962-230329"},
-        {name:"Hotel Pawan",address:"The Mall Road, Choganphata, Almora – 263601",phone:"5962-230252"},
-        {name:"Snow View Resort Almora",address:"Almora, Uttarakhand",phone:"5962-233650 / +91 5962-233651"},
-        {name:"Binsar Valley Resort",address:"Near Almora, Uttarakhand",phone:"5962-253028"}
-      ],
-      Restaurant:[
-        {name:"Soni Restaurant",address:" Municipal Market Rd, Paltan Bazar, Dharanaula, Almora – 263601",phone:""},
-        {name:"Sumanglam Restaurant",address:"Karkhana Bazar, Near District Hospital, Almora – 263601",phone:"94129 09560"},
-        {name:"Pandey Restaurant & Bhojanalay",address:"Link Road / Paltan Bazar, Almora – 263601",phone:"82669 72307"},
-        {name:" Glory Restaurant",address:"Dharanaula, Palari Garh, Almora – 263601",phone:"94123 14595"},
-        {name:"Bhumika Restaurant",address:"Paltan Bazar, Dharanaula, Almora – 263601",phone:" 94105 01105"},
-        {name:" Famous Jalebi Shop",address:"Karkhana Bazar, Near Lohe Ka Sher, Almora – 263601",phone:"94113 66084"},
-        {name:" Alka Restaurant",address:"Paltan Bazar, Almora – 263601",phone:""},
-        {name:"Chill Out Restaurant",address:" Dharanaula, Palari Garh, Almora – 263601",phone:"94129 76851"}      
-      ],
-      Cab:[
-        {name:"Rakesh Cab Service Mukteshwar",phone:"88594 90284"},
-        {name:"Alm Travels – Almora Taxi Service",phone:"90844 88229"},
-        {name:"Ganpati Tours",phone:"70553 33356"}
-      ]
-
-    },
     Ranikhet:{
       Hotel:[
         {name:"The Ranikhet Continental",address:"JCR3+Q93, Talla Biswa, Uttarakhand 263645, India",phone:"87552 95293"},
         {name:"Hotel Chevron Rosemount, Ranikhet",address:"The Mall, Pandey Kota, Nehru Road, Ranikhet, Uttarakhand 263645, India",phone:"98100 06395"},
         {name:"Xomotel Ranikhet Heights",address:"Birla Boys School, Chillianaula Rd, Ranikhet, Uttarakhand 263645, India",phone:" 98711 40305"},
         {name:" HOTEL MEGHDOOT",address:" Mall Road, Pandey Kota, Ranikhet, Uttarakhand 263645, India",phone:"5966 220475"},
-        {name:"Wood castle",address:"Cooperative Drug Factory Rd, Ranikhet, Uttarakhand 263645, India",phone:""},
         {name:"KMVN Tourist Rest House Raniket",address:" Mall Road, Pandey Kota, Ranikhet, Uttarakhand 263645, India",phone:"86500 02533"},
         {name:"West View",address:"Pandey Kota, Ranikhet Range, Uttarakhand 263645, India",phone:"98688 08107"},
         {name:"Windsor Lodge Ranikhet",address:" Kalika Estate, Dadgallia, near Golf Course, Ranikhet, Uttarakhand 263645, India",phone:"99177 94522"},
@@ -2479,18 +2339,15 @@ const data = {
         {name:"Suman Nature Resort",address:"Binsar Road, ahead of Kalimat Chungi, Sunderpur, Uttarakhand 263601, India",phone:"99972 55933"},
         {name:"Binsar Eco Camp & Cottages",address:"Wildlife Sanctuary, Jageshwar Rd, Om-Nagar, Binsar, Uttarakhand 263624, India",phone:"96755 44799"},
         {name:"Mary Budden Estate | Luxury Resorts in Binsar",address:"Wildlife Sanctuary, Binsar, Regariya, Uttarakhand 263601, India",phone:"97111 71350"},
-        {name:" Simba Jungle Lodge, Binsar",address:" Jhandi Dhar – Binsar Sanctuary Gate Rd, Regariya, Uttarakhand 263601, India",phone:""},
         {name:"Tree of Life Grand Oak Manor Binsar",address:"Jhandi Dhar – Binsar Sanctuary Gate Rd, Regariya, Uttarakhand 263601, India",phone:"96020 91000"},
         {name:"Club Mahindra Resort - Binsar Villa",address:"Almora-Bageshwar Rd, Bhaisori, Binsar, Uttarakhand 263601, India",phone:"83929 10583"},
-        {name:" Binsar Oak Paradise Resort",address:"Wildlife Sanctuary, Jageshwar Rd, Dhaulchhina, Binsar, Uttarakhand 263624, India",phone:""},
         {name:"The Kumaon",address:" Binsar Road, Gadholi, Uttarakhand 263601, India",phone:"75794 49997"},
         {name:"Nine Furlongs - Luxury Resort in Binsar",address:"Jhandi Dhar, Sanctuary Gate Rd, Regariya, Uttarakhand 263628, India",phone:"94162 08655"},
         {name:" Mohan's Binsar Retreat",address:"Kasar Devi Road, Binsar, Uttarakhand 263601, India",phone:"78305 99986"},
         {name:"Mountain Resort, Khali Estate",address:"Ayarpani, Almora, Uttarakhand 263601, India",phone:"96399 89902"},
         {name:"Imperial Heights Binsar",address:"Kasar Devi, Almora-Bageshwar Rd, Uttarakhand 263601, India",phone:"86502 69454"},
         {name:" Kasar Himalaya Holiday Resort",address:"Kasar Devi Road, Binsar, Uttarakhand 263601, India",phone:" 97392 70306"},
-        {name:"KMVN Tourist Rest House Binsar",address:"Binsar Road, Binsar, Regariya, Uttarakhand 263601, India",phone:"86500 02537"},
-        {name:" Binsar Jungle House Eco Stay",address:"Buffer Zone, Eco Binsar Area, Village Diyarkuna, Uttarakhand 263624, India",phone:""},
+        {name:"KMVN Tourist Rest House Binsar",address:"Binsar Road, Binsar, Regariya, Uttarakhand 263601, India",phone:"86500 02537"}
       ],
       Restaurant:[
         {name:"Bird Song Restaurant at Club Mahindra Resort Binsar Valley",address:" Club Mahindra Resort – Binsar Valley Sunoli Mafi, Almora-Bageshwar Rd, Binsar 263601",phone:" 92288 17707"},
@@ -2509,7 +2366,6 @@ const data = {
       Hotel:[
         {name:"Kausani Regency",address:"near Anasakti Ashram, Kausani, Someshwar Range, Uttarakhand 263639",phone:"90680 75114"},
         {name: "Kausani Best Inn",address:" KMVN Road, near Kendriya Vidyalaya Estate, Kausani, Almora, Uttarakhand 263620",phone:"90125 05678"},
-        {name:"The Buransh",address:"HSCR, Baijnath Road, Kausani, Uttarakhand 263639",phone:""},
         {name:"Suman Royal Resort",address:" View Point, VIP Road, Kausani, Uttarakhand 263639",phone:" 99972 55933"},
         {name:"Uttarakhand Resort",address:"Bhataria Road, Kausani, Uttarakhand 263639",phone:"90129 24222"},
         {name:"Pratiksha Himalayan Retreat",address:" Kausani-Baijnath Rd, Kausani, Uttarakhand 263639",phone:"99175 54618"},
@@ -2581,7 +2437,6 @@ const data = {
         {name:"Eden Resort Lansdowne",address:"Deriyakhal Village, Lansdowne, Uttarakhand 246155",phone:" 94107 70916"},
         {name:"Hotel Ravine Palace Lansdowne",address:"Palkot, Lansdowne, Uttarakhand 246155",phone:"93681 37415"},
         {name:"The Garhwali Inn, lansdowne uttarakhand",address:"Lansdowne, Sauli, Uttarakhand 246155",phone:"97590 01960"},
-        {name:"GMVN Tip N Top Resort",address:"NH119, Bonda, Lansdowne, Uttarakhand 246155",phone:"1386 263109"},
         {name:"Viceroy Lansdowne By ALIVAA",address:"Palkot P.O., Lansdowne, Uttarakhand 246155",phone:" 92582 96002"},
         {name:"Q' Nest‑Hotel Cloud End Lansdowne",address:"Jaiheri, Lansdowne, Uttarakhand 246193",phone:"92204 33367"},
         {name:" The Lanswood Estate",address:"Village Jadla, Patti Talla Badalpur, Lansdowne 246155",phone:"76459 79970"}    
@@ -2682,14 +2537,9 @@ const data = {
   HimachalPradesh:{
     Shimla:{
       Hotel:[
-        {name:"Wildflower Hall, An Oberoi Resort, Shimla ",address:"Charabra, Shimla, Himachal Pradesh 171012, India",phone:"1772 648585"},
-        {name:"WelcomHeritage Elysium Resort & Spa ",address:"Near Geeta Mandir, Tutikandi, Shimla, HP 171004, India",phone:"1772 801025"},
         {name:"Hotel Woodville Palace Shimla ",address:"Near Mall Rd, Chotta Shimla, Shimla 171002",phone:"8874923456"},
         {name:"Royale Retreat - Luxury Hotel In Shimla ",address:"5 Dingle Estate, Victory Tunnel, Shimla 171003",phone:" 94180 33444"},
         {name:"Regenta Hill Top Shimla",address:" near Judicial Court, Chakkar, Shimla 171010",phone:"78077 99103"},
-        {name:"Radisson Hotel Jass Shimla ",address:"Goodwood Estate, Lower Bharari, Shimla 171001",phone:"1772 659012"},
-        {name:"Hotel Marina Shimla ",address:"Near Kamla Nehru Hospital, The Mall, Shimla 171001",phone:"1776 629999"},
-        {name:"Kamna hill resorts ",address:"Gahan, Summerhill, Shimla 171005",phone:""},
         {name:"Snow Valley Heights",address:"Upper Lower Chakkar, Shimla 171005",phone:"98161 16621"},
         {name:"Hotel Willow Banks",address:"Near Tourism Lift, Mall Rd, Shimla",phone:" 84478 25855"},
         {name:"Nau Nabh Lodge ",address:"Jakhoo Rd, Shimla 171001",phone:"90153 65125"},
@@ -2724,12 +2574,10 @@ const data = {
     Kullu:{
       Hotel:[
         {name:"Hotel Kullu Valley",address:"Bazar, Kullu Manali Bypass Rd, Akhara, Kullu, HP 175101",phone:"92186 02220"},
-        {name:"Shobla Royale - Hotel & Cottages",address:"Shobla Complex, Lower Dhalpur Rd, Dhalpur, Kullu, HP 175101",phone:"1902 222800"},
         {name:"Apple Valley Resort ",address:" Bhuntar – Kullu Road, Village Mohal, Himachal Pradesh 175126",phone:" 92186 60001 "},
         {name:"Royal Mansion Bhuntar",address:"Manikaran Rd, Parla Bhuntar, Shillihar, HP 175125",phone:"82639 30000"},
         {name:"City Choice inn ",address:"Kullu Rd, Pirdi, Kullu, HP 175126",phone:"98162 12200"},
         {name:"Hotel Aroma Classic",address:"Circuit House Rd, Dhalpur, Kullu, HP 175101",phone:"94181 64375"},
-        {name:"Hotel The Nest ",address:"Sarwari Bazar, near Main Bus Terminal, Kullu, HP 175101",phone:"1902 222685"},
         {name:"JJ by Vivaan Resorts",address:"Shamshi, Bhuntar, HP 175126",phone:"98173 84788"},
         {name:"Mashoo Resorts",address:"Manikaran Rd, Hathithan, Bhuntar, HP 175125",phone:"98053 33692"},
         {name:"Aashirwad Home Stay Kullu",address:" Devdhar, Bijli Mahadev Rd, Kullu, HP 175101",phone:"98163 22166"},
@@ -2789,8 +2637,6 @@ const data = {
     },
     Dharamshala:{
       Hotel:[
-        {name:"Radisson Blu Resort Dharamshala",address:"Village Kandi PO, Khanyara Rd, Dharamshala, Himachal Pradesh 176218",phone:" 18923 50350"},
-        {name:"INFINITEA CENTRIC DHARAMSHALA",address:"Plot No.13, Civil Lines Rd, Jawahar Nagar, Dharamshala, Himachal Pradesh 176215",phone:"11351 24000"},
         {name:"Mandara Tree Villa (Hotel In Dharamshala)",address:"Village Akhankhola, Sudher, Dharamshala, Himachal Pradesh 176217",phone:"98170 27800"},
         {name:"Best Western Plus Revanta ",address:"Satobari Hills, near Dal Lake, Upper McLeod Ganj, Dharamshala, Himachal Pradesh 176216",phone:" 80914 02800"},
         {name:"Hotel Saheb’s Castle McLeodganj Dharamshala",address:"Stowari Road, Stowari Hills, McLeodganj, Dharamshala, Himachal Pradesh 176216",phone:"88494 70545"},
@@ -2801,8 +2647,7 @@ const data = {
         {name:"Hotel Sparrow Dharamshala ",address:"Rakkar Rd, Rakkar, Himachal Pradesh 176215",phone:"86290 00620"},
         {name:"Panchvati Cottages - Hotels In Dharamshala",address:"Khanyara, Rakkar Rd, Dharamshala, Himachal Pradesh 176215",phone:"79020 00035"},
         {name:"HOTEL BLISS VALLEY - HOTEL IN DHARAMSHALA",address:"Khadadanda Road, Lower McLeodganj, Dharamshala, Himachal Pradesh 176215",phone:"70184 68885"},
-        {name:"Backpackers Inn ",address:"Jogiwara Rd, near Yongling School, McLeod Ganj, Dharamshala, Himachal Pradesh 176219",phone:"98822 55111"},
-        {name:"Zostel Dharamkot",address:"Upper Dharamkot, opp. Heena Cafe, McLeod Ganj, Dharamshala, Himachal Pradesh 176216",phone:"11411 69654"}
+        {name:"Backpackers Inn ",address:"Jogiwara Rd, near Yongling School, McLeod Ganj, Dharamshala, Himachal Pradesh 176219",phone:"98822 55111"}
       ],
       Restaurant:[
         {name:"Kapoor's - Best Restaurant & Bakery shop in Dharamshala",address:" Civil Lines, Jawahar Nagar, Dharamshala, Himachal Pradesh 176215",phone:"94180 06060"},
@@ -2828,7 +2673,6 @@ const data = {
     },
     Dalhousie:{
       Hotel:[
-        {name:"Fortune Park, Dalhousie - Member ITC hotels' group",address:"Near Gandhi Chowk, Subhash Bowli Road, Dalhousie 176304",phone:"18993 53535"},
         {name:"Grand View Hotel Dalhousie",address:"Near Dalhousie Club, Moti Tiba, Dalhousie 176304",phone:"94180 40760"},
         {name:"Presidium Sarovar Premiere Dalhousie",address:"The Mall, near Gandhi Chowk, Dalhousie 176304",phone:" 78070 05693"},
         {name:"Brij Villa, Dalhousie | A Colonial Luxury Retreat",address:"Silverton Estate, Above Circuit House, Moti Tiba, Dalhousie 176304",phone:"80690 57705"},
@@ -2875,7 +2719,6 @@ const data = {
         {name:"Whoopers Boutique Resort ",address:"Jibhi, Bini, Himachal Pradesh 175123, India",phone:"85807 91218"},
         {name:"Rocky Mountain Lodge Jibhi ",address:"Village Barthidhar, PO Tandi, Jibhi 175123, India",phone:"98163 77003"},
         {name:"Himalayan Chalets Jibhi ",address:"Kothi, Pathi, Talokpur, Tandi, Banjar, Himachal Pradesh 175123",phone:"96198 55000"},
-        {name:"Zostel Homes Laida (Jibhi) ",address:"Joginder Thakur, Vill-Laida, Jibhi 175123",phone:"11411 69845"},
         {name:"The hidden burrow by Whoopers",address:" Ani – Banjar – Aut Rd, Jibhi 175123",phone:"88856 72665"},
         {name:"Majestic View Cottage Jibhi",address:"Near Waterfall Seri Road, Rashala, Jibhi 175123",phone:"94182 22849"},
         {name:"8fold by LaRiSa, Jibhi ",address:"Village Ghiyagi, Jibhi 175123",phone:"98057 47511"},
@@ -2906,7 +2749,6 @@ const data = {
     Kasol:{
       Hotel:[
         {name:"The Hosteller Kasol, Parvati Valley",address:"Manikaran Rd, near Narayan Temple, Sosan, Kasol 175105",phone:"98101 87717"},
-        {name:"The Hosteller Kasol, Riverside",address:"Himalayan Riverside Camps, V.P.O Kasol, Kasol 175105",phone:""},
         {name:"Moksha Riverside Resort & Spa Kasol ",address:"Kasol Rd, Kasol, Sosan, Kasol 175105",phone:" 70870 67676"},
         {name:"Royal Castle Kasol (SOHO KASOL) ",address:" Old Kasol, V.P.O, Kasol 175105",phone:"75910 05700"},
         {name:"Kailasha - The Himalayan Village",address:"Doonkhara, P.O. Jari, Parvati Valley, Kasol 175105",phone:"98050 72712"},
@@ -2946,7 +2788,6 @@ const data = {
         {name:"Glenview Resort Kasauli, a member of Radisson Individuals ",address:"Kimughat Sari Road, Tipra, P.O. Lahog, Kasauli, HP 173209",phone:"99880 84840"},
         {name:"Ramada by Wyndham Kasauli ",address:"Sanwara, Kasauli, HP 173204",phone:"91154 08899"},
         {name:"Lemon Tree Hotel, Kasauli",address:" Near Lawrence School, Sanawar Moti, Kona, Kasauli, HP 173201",phone:"99117 01701"},
-        {name:"Daleside Manor Hotel, Kasauli ",address:"near MES Inspection Bungalow, Kasauli, HP 173204",phone:""},
         {name:"Anantam Kasauli ",address:"Dharampur Kasauli Road, Dharampur, HP 173201",phone:"98160 77783"},
         {name:"Kasauli Hills Resort",address:" Garkhal Kanda Road, Kharog, Tehsil Kasauli, HP 173201",phone:"82190 96330"},
         {name:"Orillia Hotel Kasauli ",address:"Village Kadhog, PO Kanda, Kasauli, HP 173201",phone:"78763 00372"},
@@ -2955,7 +2796,6 @@ const data = {
         {name:"Kasauli Exotica",address:"1.5 km before Kasauli Market, Main Kasauli Gharkhal Rd, Kasauli, HP 173204",phone:"88947 25931 "},
         {name:"Sterling Ameris Kasauli ",address:"Main Kasauli Road, Sanwara, Kasauli, HP 173201",phone:"79697 92066"},
         {name:"Hotel Kasauli Regency ",address:"Kimmughat Garkhal Dharampur Rd, Kasauli, HP 173201",phone:"98164 12913 "},
-        {name:"Luxe Resorts",address:"Dharampur Kasauli Road, MDR10, Kasauli, HP 173204",phone:" 17922 98088"},
         {name:"A Kasauli Ggaon by Echor",address:"A Kasauli Ggaon, Kasauli, HP 173233",phone:"95012 21119"},
         {name:"Hotel Wood Stock Luxury Kasauli ",address:"Near Lawrence School, Moti Corner, Kasauli, HP 173201",phone:"80915 68068"}
       ],
@@ -2994,7 +2834,6 @@ const data = {
     },
     Khajjiar:{
       Hotel:[
-        {name:"Fortune Khajjiar ",address:" Fortune, Khajjiar, Himachal Pradesh 176314",phone:"1899 295000"},
         {name:"WolfandWoods ",address:"Village, Khajjiar, HP 176314",phone:"86288 36868"},
         {name:"Shining Star Resort",address:"Near Apple Orchards, Khajjiar, HP 176314",phone:"96253 45551"},
         {name:"Hotel Himalaya Heaven Khajjiar",address:"Khajjiar Ora, Himachal Pradesh 176314",phone:"80913 56118"}
@@ -3020,12 +2859,7 @@ const data = {
       Hotel:[
         {name:"Luxe Stayz Heritage Street",address:"H.No-2012/1-20, Katra Bhagian, Hall Bazar, Ram Bagh, Amritsar, Punjab 143006",phone:"98759 30091"},
         {name:"Hotel California Heights Amritsar",address:"102, Circular Rd, near Ranjit Avenue, White Avenue, Amritsar, Punjab 143001",phone:"90566 55668"},
-        {name:"Hyatt Regency Amritsar Hotel & Spa",address:" MBM Farms, GT Rd, Rajinder Nagar, Maqbool Pura, Amritsar Cantt., Punjab 143006",phone:"183 5251234"},
-        {name:"Regenta Central Amritsar",address:" A-275, Grand Trunk Rd, East Mohan Nagar, Amritsar Cantt., Punjab 143006",phone:"183 5222222"},
-        {name:"Holiday Inn Amritsar Ranjit Avenue by IHG",address:"District Shopping Complex, Ranjit Avenue, Amritsar, Punjab 143001",phone:"183 5088888"},
         {name:"One Earth GG Regency Hotel Amritsar",address:"Galiara Rd, near Gurdwara Baba Atal Rai, Katra Ahluwalia, Amritsar Cantt., Punjab",phone:" 60099 60097"},
-        {name:"Taj Swarna, Amritsar",address:" C-3 Outer Circular Rd, Nirankari Colony, Amritsar, Punjab 143001",phone:"183 6658000 "},
-        {name:"Courtyard by Marriott Amritsar",address:" 52, Mall Rd, Krishna Nagar, Green Avenue, Amritsar, Punjab 143001",phone:"183 5200000"},
         {name:"The Earth Amritsar - Trademark Collection by Wyndham",address:"Urban Haat, Crystal Chowk, Company Bagh, Amritsar, Punjab",phone:"77430 01614"},
         {name:"5 States Resort & Hotel",address:"Mehta Rd, near Alpha Modern Industry Park, Amritsar Cantt., Punjab 143501",phone:"98143 75500"}      ],
       Restaurant:[
@@ -3059,27 +2893,16 @@ const data = {
     },
     Chandigarh:{
       Hotel:[
-        {name:"JW Marriott Hotel Chandigarh",address:"Plot no 06, Dakshin Marg, Sector 35 B, Chandigarh 160022",phone:"172-4555555"},
-        {name:"The LaLiT Chandigarh",address:" IT Park Rd, Sector 13, Chandigarh 160101",phone:" 172-6767777"},
-        {name:"Hyatt Regency Chandigarh",address:"178 Industrial Area Phase I, Chandigarh 160002",phone:"172-4401234"},
-        {name:"Taj Chandigarh",address:" Near Zakir Hussain Rose Garden, Sector 17A, Chandigarh 160017",phone:"172-6613000"},
         {name:"Novotel Chandigarh Tribune Chowk",address:"Plot 181 & 3B, Industrial Area Phase I, Chandigarh 160002",phone:"98762-22111"},
         {name:"Mercure Chandigarh Tribune Chowk",address:"Plot 51, Tribune Chowk, Industrial Area Phase II, 160002",phone:"98761-98761"},
-        {name:"Lemon Tree Hotel, Chandigarh",address:" Plot No. 3, MW Industrial Area Phase I, 160002",phone:"172-4423232"},
-        {name:"Hometel Chandigarh",address:"Plot 147/148, Industrial Area Phase I, Chandigarh 160002",phone:"172-4299999"},
         {name:"Hotel Aroma Chandigarh",address:"Himalaya Marg, Sector 22C, Chandigarh 160022",phone:"98555-68855"},
-        {name:"Hotel Royal Park 22",address:"SCO 1014, Sector 22B, Chandigarh 160022",phone:" 172-5021415"},
-        {name:"Hotel Park Inn",address:"SCO 433-436, Sector 35C, Chandigarh 160022",phone:"172-2660110"},
         {name:"Hotel Emerald Chandigarh",address:" SCO 173/174, Madhya Marg, Sector 9, Chandigarh 160009",phone:"90410-00888"},
-        {name:"The Altius Boutique Hotel",address:"Industrial Area Phase I, Chandigarh 160002",phone:" 172-5212121"},
-        {name:"Maya Hotel",address:"Himalaya Marg, Sector 35, Chandigarh 160022",phone:" 172-4688700"},
         {name:"Shivjot Farms & Resort",address:" Village Billa (near Nada Sahib Gurudwara), Panchkula Chandigarh",phone:"98882-46388"},
         {name:"Apple Nest Villa",address:"Near Railway Station Rd, Daria, Chandigarh 160101",phone:"98773-30409"},
         {name:"StayVista at Silver Slopes (Villa/Resort-style stay)",address:"Plot No 2001/3, Baddi Rd, Karoran, Chandigarh 160103",phone:"81049-54254"},
         {name:"HOTEL RED APPLE near Chandigarh railway station",address:"Near HP Gas Agency, Opp Railway Stn, Daria, Chandigarh 160101",phone:"96467-84382"}
       ],
       Restaurant:[
-        
         {name:"Anardana Chandigarh",address:" Wave Cinema Mall, Industrial Area Phase I, Chandigarh 160002",phone:" 76696-46952"},
         {name:"Zinnia - Abstract Dining",address:"Sector 10, Chandigarh 160011",phone:"98163-34177"},
         {name:"Swagath Restaurant And Bar",address:"SCO 7, Sector 26, Chandigarh 160019",phone:"172-5045678"}      ],
@@ -3094,10 +2917,7 @@ const data = {
     Patiala:{
       Hotel:[
         {name:"Hotel Clarion Inn AMPS",address:"Arjan Complex, Sirhind Rd, Green Park Colony, Patiala, Punjab 147004",phone:"76963 33782"},
-        {name:"THE MONTAGE",address:" Hassanpur, Patiala, Punjab 147004",phone:"99880 43555"},
-        {name:"RAN BAAS The Palace",address:"Quila Androon, Adalat Bazar, Patiala, Punjab 147001",phone:""},
-        {name:"Neemraana Hotel",address:"Baradari Rd, Baradari, Patiala, Punjab 147001",phone:""},
-        {name:"The Baradari Palace",address:"Baradari Rd, Baradari, Patiala, Punjab 147001",phone:"175 2304433"}
+        {name:"THE MONTAGE",address:" Hassanpur, Patiala, Punjab 147004",phone:"99880 43555"}
       ],
       Restaurant:[
         {name:"Door no. 3 ",address:"Punjabi Bagh",phone:" 99202 06300"},
@@ -3122,14 +2942,7 @@ const data = {
     },
     Ludhiana:{
       Hotel:[
-        {name:"Radisson Blu Hotel, Ludhiana",address:"MBD Neopolis, Ferozepur Rd, Rajguru Nagar Extension, New Sunder Nagar, Ludhiana",phone:"161 4303000"},
-        {name:"Hyatt Regency Ludhiana",address:" Ferozepur Rd, Bhai Randhir Singh Nagar, Ludhiana",phone:"161 4071234"},
-        {name:"Park Plaza Ludhiana",address:"Ferozepur Rd, Gurdev Nagar, Ludhiana",phone:""},
-        {name:"NIRVANA Luxury Hotel I Ludhiana",address:"Main Hambran Rd, Pratap Singh Wala, Ludhiana",phone:"161 5295000"},
-        {name:"Keys Select By Lemon Tree Hotels, Ludhiana",address:"Southern Bypass Rd, Rajguru Nagar Extension, Ludhiana",phone:"161 6602100"},
-        {name:"Regenta Central Klassik",address:" Link Rd, Model Town, Ludhiana",phone:"161 5310000"},
         {name:"FabHotel Yellow Leaf - ISBT Ludhiana",address:" Opposite Bus Stand, Lajpat Nagar, Ludhiana",phone:"70424 24242"},
-        {name:"Hotel Onn",address:"Onn Lane, Off Ferozepur Rd, Ludhiana",phone:"161 5202020"},
         {name:"Hotel The Taksonz",address:"GT Rd, Opp Railway Station, Ludhiana",phone:"98726 00607"},
         {name:"Hotel NAT GRAND REGENCY",address:"Jalandhar Bypass, Govind Pura, Ludhiana",phone:"70090 77670"},
         {name:"Hotel Kohinoor, Ludhiana",address:"Green Avenue Corner, Pakhowal Rd, Ludhiana",phone:" 81949 00549"},
@@ -3140,7 +2953,6 @@ const data = {
         {name:"Green Villa Resorts",address:"Pakhowal Rd, Ludhiana",phone:"81988 15200"},
         {name:"Grand Heritage Hotel & Resort",address:"Friends Colony, Mangli (Uchi), Ludhiana",phone:"81838 00086"},
         {name:"Kamal Resorts",address:"Near PCTE Campus, Ferozepur Rd, Ludhiana",phone:"80005 00001"},
-        {name:"THE AMSONS RESORTS",address:"Sector 39, Ludhiana",phone:"1615 074748"},
         {name:"Malhotra Resorts",address:" Near Jalandhar Bypass, Green City, Ludhiana",phone:"90567 00277"},
         {name:"StayVista at The Secret Lagoon",address:"Ranjit Singh Nagar, Ludhiana",phone:"81049 54254"}
       ],
@@ -3171,31 +2983,16 @@ const data = {
     },
     Jalandhar:{
       Hotel:[
-        {name:"Radisson Hotel Jalandhar",address:" G.T. Road, BMC Chowk, Sehdev Market, Jalandhar, Punjab 144001",phone:"181 467 1234"},
-        {name:"GOLDEN TULIP JALANDHAR",address:"Creative Park, New Gobind Nagar, Near Pathankot Chowk, Jalandhar, Punjab 144004",phone:" 181 503 2900 "},
-        {name:"Ramada by Wyndham Jalandhar City Centre",address:"Nam Dev Chowk, G.T. Road, Sehdev Market, Jalandhar, Punjab 144001",phone:"181 439 0000 "},
-        {name:"Ramada Encore by Wyndham Jalandhar",address:" 525 New Jawahar Nagar, Civil Line, Jalandhar, Punjab 144001",phone:"181 501 7272"},
         {name:"Bloom Hotel - Jalandhar",address:" 12, Link Road, Near Global Hospital, Abadpura",phone:"77430 08184"},
-        {name:"Fortune Avenue, Jalandhar - Member ITC hotels' group",address:" 296–297, Lajpat Nagar, Jalandhar",phone:"181 500 5500"},
-        {name:"Park Inn by Radisson Jalandhar",address:"Grand Trunk Rd, Near BMC Chowk, Jawahar Nagar",phone:"181 468 8888"},
-        {name:"Sarovar Portico Jalandhar",address:" Near BSF Chowk, Grand Trunk Rd, Jalandhar",phone:"181 517 8000"},
-        {name:"Best Western Plus Jalandhar",address:"Near BSF Chowk, Grand Trunk Rd, Jalandhar",phone:" 181 503 0100"},
-        {name:"Hotel President",address:"Police Line Rd, opposite Big Bazaar, Jawahar Nagar",phone:"181 517 1234"},
-        {name:"WJ Grand Hotel",address:"Grand Trunk Rd, near Verka Milk Plant, Salempur",phone:"181 500 1414"},
-        {name:"Hotel Residency",address:"Garha Rd, Near Bus Stand, Jawahar Nagar",phone:"181 468 8600"},
-        {name:"The Maya Hotel",address:"Civil Lines, Opp District Session Court, Grand Trunk Rd",phone:"181 468 8700"},
-        {name:"Hotel Dolphin",address:"G.T. Rd, Near Patel Chowk, Adarsh Nagar",phone:"181 502 0444"},
-        {name:"The Grand Lilly Resorts",address:"Grand Trunk Rd, Pragpur Village",phone:"181 506 6666"},
         {name:"Modi resort",address:"Bunga Colony, Binngaan Village",phone:"86400 53000"},
         {name:"Nandani Resorts",address:"Grand Trunk Rd, Jalandhar",phone:"98141 27500"},
         {name:"JC Resorts",address:" G.T. Road, Chugitti Bye Pass",phone:" 95921 47032"},
         {name:"Vista Resorts",address:" NH70, Basant Hills, Chohak Kallan",phone:"98140 10131"},
-            {name:"Dhillon Resorts",address:" Talhan Rd, Kaki Pind",phone:" 98760 44418"},
-             {name:"M.S. Farms & Resorts Pvt Ltd",address:" Leather Complex Road, Basti Adda Rd, Peer Dad",phone:"99157 62531"},
-             {name:"Dhanoa Resort",address:" Puranpur, Talhan Rd, Rama Mandi",phone:"98781 60388"},
-              {name:"Elysium Grand Banquets",address:" Hoshiarpur Rd, Hazara, Chander Sain",phone:" 77770 28000"},
-               {name:"Royal Kings Resort",address:"Phagwara – Link Rd, Khajurla",phone:"80543 99111"},
-                {name:"Majestic Resort",address:"Hoshiarpur Rd, Hazara",phone:"99884 75374"}
+        {name:"Dhillon Resorts",address:" Talhan Rd, Kaki Pind",phone:" 98760 44418"},
+        {name:"M.S. Farms & Resorts Pvt Ltd",address:" Leather Complex Road, Basti Adda Rd, Peer Dad",phone:"99157 62531"},
+        {name:"Dhanoa Resort",address:" Puranpur, Talhan Rd, Rama Mandi",phone:"98781 60388"},            {name:"Elysium Grand Banquets",address:" Hoshiarpur Rd, Hazara, Chander Sain",phone:" 77770 28000"},
+        {name:"Royal Kings Resort",address:"Phagwara – Link Rd, Khajurla",phone:"80543 99111"},
+        {name:"Majestic Resort",address:"Hoshiarpur Rd, Hazara",phone:"99884 75374"}
 
       ],
       Restaurant:[
